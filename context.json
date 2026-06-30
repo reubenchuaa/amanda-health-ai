@@ -1,0 +1,25 @@
+{
+  "athlete_name": "Amanda",
+  "goal": "Sub 2:30 · Kiprun Singapore Half Marathon · 27 Sep 2026",
+  "race_date": "2026-09-27",
+  "race_name": "Kiprun Singapore Half Marathon",
+  "target_time": "2:30",
+  "target_pace_per_km": "7:06",
+
+  "training_phases": [
+    { "name": "Base Building",    "start": "2026-06-30", "end": "2026-07-18", "focus": "Easy 3×/week, 5–6 km, build habit" },
+    { "name": "Build",            "start": "2026-07-19", "end": "2026-08-01", "focus": "Long run to 12 km, add tempo" },
+    { "name": "Taper",            "start": "2026-08-02", "end": "2026-08-07", "focus": "Ease off before Norway" },
+    { "name": "Norway Hiking",    "start": "2026-08-08", "end": "2026-08-22", "focus": "~79 km, 7,400 m — active adventure" },
+    { "name": "Shake Out",        "start": "2026-08-23", "end": "2026-08-29", "focus": "2 easy runs, legs back under you" },
+    { "name": "Peak Block",       "start": "2026-08-30", "end": "2026-09-19", "focus": "Long runs 16–17 km, tempo at race pace" },
+    { "name": "Race Taper",       "start": "2026-09-20", "end": "2026-09-26", "focus": "Short runs + rest, stay fresh" },
+    { "name": "RACE DAY",         "start": "2026-09-27", "end": "2026-09-27", "focus": "Sub 2:30 — you've got this!" }
+  ],
+
+  "hr_zones": {
+    "easy_max": 145,
+    "tempo_range": "160–170",
+    "notes": "Singapore heat — allow 5–8 bpm above cool-weather equivalent; slow down, don't push through HR"
+  }
+}
