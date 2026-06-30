@@ -23,10 +23,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .card .val{font-size:1.5rem;font-weight:700;color:#f1f5f9;line-height:1}
 .card .sub2{font-size:0.7rem;color:#94a3b8;margin-top:2px}
 .rec-wrap{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start}
-.rec-card{background:#1e293b;border-radius:10px;padding:14px 16px;border:2px solid #f59e0b;min-width:110px;text-align:center}
+.rec-card{background:#1e293b;border-radius:10px;padding:14px 16px;border:2px solid #6b7280;min-width:110px;text-align:center}
 .rec-card .lbl{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}
-.rec-val{font-size:2rem;font-weight:800;color:#f59e0b;line-height:1}
-.rec-sub{font-size:0.75rem;color:#f59e0b;font-weight:600;margin-top:4px}
+.rec-val{font-size:2rem;font-weight:800;color:#6b7280;line-height:1}
+.rec-sub{font-size:0.75rem;color:#6b7280;font-weight:600;margin-top:4px}
 .coach-card{background:#1e293b;border-radius:10px;padding:16px;border-left:3px solid #a855f7}
 .coach-card p{font-size:0.88rem;line-height:1.65;color:#cbd5e1}
 .coach-card p+p{margin-top:8px}
@@ -73,7 +73,7 @@ tr:last-child td{border-bottom:none}
   <div class="sub">Kiprun Singapore Half Marathon · Target 2:30</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 89 days to race</span>
-    <span class="pill pill-green">Synced 2026-06-30 07:00</span>
+    <span class="pill pill-green">Synced 2026-06-30</span>
   </div>
 </div>
 </div>
@@ -84,23 +84,21 @@ tr:last-child td{border-bottom:none}
 <div class="rec-wrap">
   <div class="rec-card">
     <div class="lbl">HRV</div>
-    <div class="rec-val">38</div>
+    <div class="rec-val">—</div>
     <div class="rec-sub">ms</div>
   </div>
   <div class="cards" style="margin:0">
-    <div class="card"><div class="lbl">Resting HR</div><div class="val">58</div><div class="sub2">bpm · baseline 59</div></div>
-    <div class="card"><div class="lbl">Sleep</div><div class="val" style="font-size:1.2rem">7.0 hrs</div><div class="sub2">last night</div></div>
-    <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.1rem">7,500</div><div class="sub2">today</div></div>
-    <div class="card"><div class="lbl">Active Energy</div><div class="val" style="font-size:1.1rem">350</div><div class="sub2">kcal</div></div>
+    <div class="card"><div class="lbl">Resting HR</div><div class="val">—</div><div class="sub2">bpm</div></div>
+    <div class="card"><div class="lbl">Sleep</div><div class="val" style="font-size:1.2rem">—</div><div class="sub2">last night</div></div>
+    <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.1rem">—</div><div class="sub2">today</div></div>
+    <div class="card"><div class="lbl">Active Energy</div><div class="val" style="font-size:1.1rem">—</div><div class="sub2">kcal</div></div>
   </div>
 </div>
 
 <div class="sec">Daily Coach</div>
 <div class="coach-card">
-  <p><strong>Moderate recovery — keep it easy today.</strong></p>
-<p>Your numbers today: resting HR is 58 bpm, HRV is 38 ms, sleep was 7.0 hours (okay).</p>
-<p>Last run avg HR was 143 bpm — nicely controlled, well within easy zone.</p>
-<p>Moderate recovery today — keep it to 4–5 km, very easy, HR under 145 bpm. If you feel flat after 10 minutes, turn around. No hero miles.</p>
+  <p><strong>No runs logged yet — time to start!</strong></p>
+<p>Low recovery today — skip the run and rest. One rest day now protects the whole block. A short walk is fine if you need to move.</p>
 <p><strong>3-Day Plan:</strong></p>
 <p><strong>Today (Tue):</strong> Easy 5–6 km, HR under 145 bpm.</p>
 <p><strong>Tomorrow (Wed):</strong> Rest or light walk.</p>
@@ -110,25 +108,7 @@ tr:last-child td{border-bottom:none}
 </div>
 
 <div class="sec">Latest Run Review</div>
-<div class="run-review">
-  <div class="run-header">
-    <div>
-      <div class="run-title">Morning Run</div>
-      <div class="run-date">2026-06-29</div>
-    </div>
-    <div class="run-stat-row">
-      <div class="run-stat"><span class="rs-val">5.20 km</span><span class="rs-lbl">Distance</span></div>
-      <div class="run-stat"><span class="rs-val">6:43/km</span><span class="rs-lbl">Avg Pace</span></div>
-      <div class="run-stat"><span class="rs-val">35m</span><span class="rs-lbl">Time</span></div>
-      <div class="run-stat"><span class="rs-val">143.0</span><span class="rs-lbl">Avg HR</span></div>
-      <div class="run-stat"><span class="rs-val">159.0</span><span class="rs-lbl">Max HR</span></div>
-      <div class="run-stat"><span class="rs-val">166 spm</span><span class="rs-lbl">Cadence</span></div>
-      <div class="run-stat"><span class="rs-val">24 m</span><span class="rs-lbl">Elevation</span></div>
-      <div class="run-stat"><span class="rs-val">380</span><span class="rs-lbl">Calories</span></div>
-    </div>
-  </div>
-  <div class="run-verdict">💬 HR well controlled at 143 bpm — great aerobic discipline. Cadence 166 spm — closing in on 170+, keep it up.</div>
-</div>
+<div class="box" style="color:#475569;font-size:0.85rem">No runs yet — go log one!</div>
 
 <div class="sec">14-Day Trends</div>
 <div class="box"><h3>Resting Heart Rate (bpm)</h3><canvas id="rhr" height="75"></canvas></div>
@@ -147,10 +127,7 @@ tr:last-child td{border-bottom:none}
 <div class="box" style="overflow-x:auto">
   <table>
     <thead><tr><th>Date</th><th>Activity</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
-    <tbody><tr><td>06-29</td><td>Morning Run</td><td>5.2 km</td><td>6:43/km</td><td>143</td><td>35m</td><td>24 m</td><td>380</td></tr>
-<tr><td>06-26</td><td>Easy Evening Run</td><td>4.8 km</td><td>6:40/km</td><td>138</td><td>32m</td><td>18 m</td><td>340</td></tr>
-<tr><td>06-23</td><td>Weekend Long Run</td><td>8.5 km</td><td>8:00/km</td><td>147</td><td>1h 8m</td><td>52 m</td><td>610</td></tr>
-</tbody>
+    <tbody></tbody>
   </table>
 </div>
 
@@ -203,14 +180,14 @@ const opt = (ymin, ymax, dec) => ({
     y: { ticks: { color: '#475569', font: { size: 10 }, callback: v => dec ? v.toFixed(dec) : v }, grid: { color: '#334155' }, min: ymin, max: ymax }
   }
 });
-const L = ["06-17", "06-18", "06-19", "06-20", "06-21", "06-22", "06-23", "06-24", "06-25", "06-26", "06-27", "06-28", "06-29", "06-30"];
-new Chart(document.getElementById('rhr'), { type:'line', data:{ labels:L, datasets:[{ label:'bpm', data:[59,58,60,59,58,60,59,58,60,59,58,60,59,58], borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:3 }] }, options:opt() });
-new Chart(document.getElementById('hrv'), { type:'line', data:{ labels:L, datasets:[{ label:'ms', data:[44,42,40,38,46,44,42,40,38,46,44,42,40,38], borderColor:'#a855f7', backgroundColor:'rgba(168,85,247,.1)', fill:true, tension:.35, pointRadius:3 }] }, options:opt() });
-new Chart(document.getElementById('sleep'), { type:'bar', data:{ labels:L, datasets:[{ label:'hrs', data:[7.3,7.0,7.6,7.3,7.0,7.6,7.3,7.0,7.6,7.3,7.0,7.6,7.3,7.0], backgroundColor:'rgba(59,130,246,.6)', borderColor:'#3b82f6', borderWidth:1, borderRadius:3 }] }, options:opt(0, 10, 1) });
-new Chart(document.getElementById('steps'), { type:'bar', data:{ labels:L, datasets:[{ label:'steps', data:[10100,9900,9700,9500,9300,9100,8900,8700,8500,8300,8100,7900,7700,7500], backgroundColor:'rgba(16,185,129,.5)', borderColor:'#10b981', borderWidth:1, borderRadius:3 }] }, options:opt() });
-new Chart(document.getElementById('vol'), { type:'bar', data:{ labels:["Apr 27", "May 04", "May 11", "May 18", "May 25", "Jun 01", "Jun 08", "Jun 15", "Jun 22", "Jun 29"], datasets:[{ label:'km', data:[0,0,0,0,0,0,0,0,13.3,5.2], backgroundColor:'rgba(168,85,247,.6)', borderColor:'#a855f7', borderWidth:1, borderRadius:4 }] }, options:opt(0) });
-new Chart(document.getElementById('pace'), { type:'line', data:{ labels:["06-23", "06-26", "06-29"], datasets:[{ label:'min/km', data:[8.0,6.67,6.73], borderColor:'#f97316', backgroundColor:'rgba(249,115,22,.1)', fill:true, tension:.35, pointRadius:4 }] }, options:opt(undefined, undefined, 2) });
-new Chart(document.getElementById('runhr'), { type:'line', data:{ labels:["06-23", "06-26", "06-29"], datasets:[{ label:'bpm', data:[147.0,138.0,143.0], borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:4 }] }, options:opt() });
+const L = [];
+new Chart(document.getElementById('rhr'), { type:'line', data:{ labels:L, datasets:[{ label:'bpm', data:[], borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:3 }] }, options:opt() });
+new Chart(document.getElementById('hrv'), { type:'line', data:{ labels:L, datasets:[{ label:'ms', data:[], borderColor:'#a855f7', backgroundColor:'rgba(168,85,247,.1)', fill:true, tension:.35, pointRadius:3 }] }, options:opt() });
+new Chart(document.getElementById('sleep'), { type:'bar', data:{ labels:L, datasets:[{ label:'hrs', data:[], backgroundColor:'rgba(59,130,246,.6)', borderColor:'#3b82f6', borderWidth:1, borderRadius:3 }] }, options:opt(0, 10, 1) });
+new Chart(document.getElementById('steps'), { type:'bar', data:{ labels:L, datasets:[{ label:'steps', data:[], backgroundColor:'rgba(16,185,129,.5)', borderColor:'#10b981', borderWidth:1, borderRadius:3 }] }, options:opt() });
+new Chart(document.getElementById('vol'), { type:'bar', data:{ labels:["Apr 27", "May 04", "May 11", "May 18", "May 25", "Jun 01", "Jun 08", "Jun 15", "Jun 22", "Jun 29"], datasets:[{ label:'km', data:[0,0,0,0,0,0,0,0,0,0], backgroundColor:'rgba(168,85,247,.6)', borderColor:'#a855f7', borderWidth:1, borderRadius:4 }] }, options:opt(0) });
+new Chart(document.getElementById('pace'), { type:'line', data:{ labels:[], datasets:[{ label:'min/km', data:[], borderColor:'#f97316', backgroundColor:'rgba(249,115,22,.1)', fill:true, tension:.35, pointRadius:4 }] }, options:opt(undefined, undefined, 2) });
+new Chart(document.getElementById('runhr'), { type:'line', data:{ labels:[], datasets:[{ label:'bpm', data:[], borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:4 }] }, options:opt() });
 </script>
 </body>
 </html>
