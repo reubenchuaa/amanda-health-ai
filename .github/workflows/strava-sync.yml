@@ -1,13 +1,15 @@
-name: Strava Daily Sync
+name: Health Dashboard
 
 on:
+  push:
+    paths:
+      - 'health/data.json'   # triggers whenever iPhone Shortcut pushes new data
   schedule:
-    - cron: '0 20 * * *'   # 4 AM Singapore time (UTC+8)
-    - cron: '0 8 * * *'    # 4 PM Singapore time (UTC+8)
+    - cron: '0 20 * * *'    # 4 AM Singapore time (UTC+8) fallback rebuild
   workflow_dispatch:
 
 jobs:
-  sync:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,23 +23,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run Strava sync
-        env:
-          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
-          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
-          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
-        run: python3 sync.py 7
-
       - name: Generate dashboard
         run: python3 generate_dashboard.py
 
       - name: Commit and push
         run: |
-          git config user.name "Strava Sync Bot"
-          git config user.email "sync@strava-ai"
-          git add strava/ docs/
-          git diff --cached --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d')"
+          git config user.name "Health Sync Bot"
+          git config user.email "sync@health-ai"
+          git add docs/
+          git diff --cached --quiet || git commit -m "dashboard: $(date -u '+%Y-%m-%d %H:%M')"
           git push
