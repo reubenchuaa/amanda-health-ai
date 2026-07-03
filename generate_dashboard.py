@@ -227,9 +227,6 @@ def generate_html(data, context, coaching_text):
     elev_7d  = sum((w.get("elevation_m") or 0) for w in runs_7d)
     count_7d = len(runs_7d)
     all_runs = [w for w in data.get("workouts", []) if is_run(w)]
-    longest  = max(((w.get("distance_km") or 0) for w in all_runs), default=0)
-    total_km = sum((w.get("distance_km") or 0) for w in all_runs)
-    total_runs = len(all_runs)
 
     # Compute ACWR (acute:chronic workload ratio) — 7-day / 28-day average
     km_28d = sum((w.get("distance_km") or 0) for w in data.get("workouts", [])
@@ -379,7 +376,13 @@ def generate_html(data, context, coaching_text):
         para = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', para)
         coach_html += f"<p>{para}</p>\n"
 
-    synced_at = (data.get("synced_at") or today.isoformat())[:10]
+    synced_at = (data.get("synced_at") or today.isoformat())[:16].replace("T", " ")
+    coach_updated = ""
+    if COACH_FILE.exists():
+        import os
+        from datetime import datetime as dt
+        ts = dt.fromtimestamp(os.path.getmtime(COACH_FILE)).strftime("%d %b %H:%M")
+        coach_updated = ts
     athlete   = context.get("athlete_name", "Amanda")
     leaflet   = '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">\n<script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>' if map_js else ""
 
@@ -465,8 +468,8 @@ tr:last-child td{{border-bottom:none}}
   <div class="sub">{context.get('race_name','Kiprun Singapore Half Marathon')} · Target {context.get('target_time','2:30')}</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 {days_to_race} days to race</span>
-    <span class="pill pill-green">Synced {synced_at}</span>
-    <span class="pill pill-blue">📍 {total_runs} runs · {total_km:.0f} km total</span>
+    <span class="pill pill-green">🔄 Data synced {synced_at}</span>
+    {'<span class="pill pill-blue">🤖 AI coach ' + coach_updated + '</span>' if coach_updated else ''}
   </div>
 </div>
 </div>
@@ -483,7 +486,6 @@ tr:last-child td{{border-bottom:none}}
   <div class="cards" style="margin:0">
     <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.2rem">{km_7d:.1f} km</div><div class="sub2">{count_7d} run{'s' if count_7d != 1 else ''} · prev {km_prev:.1f} km</div></div>
     <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">{elev_7d:.0f} m</div><div class="sub2">gain this week</div></div>
-    <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.2rem">{longest:.1f} km</div><div class="sub2">all time</div></div>
     <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.2rem">{context.get('target_time','2:30')}</div><div class="sub2">{context.get('target_pace_per_km','7:06')}/km</div></div>
   </div>
 </div>
