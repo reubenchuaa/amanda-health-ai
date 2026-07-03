@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-03T00:00:00",
+  "synced_at": "2026-07-04T00:00:00",
   "workouts": [
     {
       "type": "",
@@ -79477,7 +79477,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-06-28",
@@ -79485,7 +79486,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-06-29",
@@ -79493,7 +79495,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-06-30",
@@ -79501,7 +79504,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-07-01",
@@ -79509,7 +79513,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-07-02",
@@ -79517,7 +79522,8 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
     },
     {
       "date": "2026-07-03",
@@ -79525,7 +79531,16 @@
       "hrv": null,
       "sleep_hours": null,
       "steps": null,
-      "active_energy": null
+      "active_energy": null,
+      "calories_burned": null
+    },
+    {
+      "date": "2026-07-04",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "calories_burned": null
     }
   ]
 }
