@@ -6,10 +6,10 @@ import re
 from datetime import date, timedelta
 from pathlib import Path
 
-SCRIPT_DIR = Path(__file__).parent
-DATA_FILE  = SCRIPT_DIR / "health" / "data.json"
+SCRIPT_DIR  = Path(__file__).parent
+DATA_FILE   = SCRIPT_DIR / "health" / "data.json"
 CONTEXT_FILE = SCRIPT_DIR / "context.json"
-DOCS_DIR   = SCRIPT_DIR / "docs"
+DOCS_DIR    = SCRIPT_DIR / "docs"
 OUTPUT_FILE = DOCS_DIR / "index.html"
 
 
@@ -35,7 +35,7 @@ def g(d, *keys):
 
 
 def is_run(w):
-    return (w.get("type") or "").lower() in ("running", "run", "outdoor run", "indoor run", "treadmill")
+    return (w.get("type") or "").lower() in ("run", "virtualrun", "treadmill", "running", "workout")
 
 
 def pace_str(km, mins):
@@ -53,20 +53,13 @@ def dur_str(mins):
     return f"{h}h {m}m" if h else f"{m}m"
 
 
-def get_daily_range(data, days=14):
-    today = date.today()
-    dates = {(today - timedelta(days=i)).isoformat() for i in range(days)}
-    items = [d for d in data.get("daily", []) if d.get("date") in dates]
-    return sorted(items, key=lambda x: x["date"])
-
-
 def get_recent_runs(data, n=10):
     runs = [w for w in data.get("workouts", []) if is_run(w)]
     runs.sort(key=lambda w: w.get("start", ""), reverse=True)
     return runs[:n]
 
 
-def get_weekly_volumes(data, weeks=10):
+def get_weekly_volumes(data, weeks=14):
     today = date.today()
     result = []
     for i in range(weeks - 1, -1, -1):
@@ -82,8 +75,8 @@ def get_weekly_volumes(data, weeks=10):
 
 
 def get_coaching(data, context):
-    today = date.today()
-    race_date = date.fromisoformat(context.get("race_date", "2026-09-27"))
+    today      = date.today()
+    race_date  = date.fromisoformat(context.get("race_date", "2026-09-27"))
     days_to_race = (race_date - today).days
     easy_hr_cap  = context.get("hr_zones", {}).get("easy_max", 145)
     tempo_range  = context.get("hr_zones", {}).get("tempo_range", "160–170")
@@ -95,33 +88,12 @@ def get_coaching(data, context):
             break
     phase_name = current_phase["name"] if current_phase else "Training"
 
-    daily_14 = get_daily_range(data, 14)
-    today_d  = next((d for d in daily_14 if d["date"] == today.isoformat()), None)
+    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=7)).isoformat()]
+    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=14)).isoformat()]
+    km_7d    = sum((w.get("distance_km") or 0) for w in runs_7d)
+    km_14d   = sum((w.get("distance_km") or 0) for w in runs_14d)
+    km_prev  = km_14d - km_7d
 
-    rhr       = g(today_d, "resting_hr")
-    hrv       = g(today_d, "hrv")
-    sleep_h   = g(today_d, "sleep_hours")
-    steps     = g(today_d, "steps")
-
-    # Baseline RHR from last 14 days
-    rhr_vals = [d["resting_hr"] for d in daily_14 if d.get("resting_hr")]
-    baseline_rhr = round(sum(rhr_vals) / len(rhr_vals)) if rhr_vals else None
-
-    # Recovery score estimate (0–100)
-    recovery_score = None
-    if hrv is not None:
-        hrv_vals = [d["hrv"] for d in daily_14 if d.get("hrv")]
-        baseline_hrv = sum(hrv_vals) / len(hrv_vals) if hrv_vals else hrv
-        hrv_score = min(100, max(0, int(50 + (hrv - baseline_hrv) / max(baseline_hrv, 1) * 100)))
-        recovery_score = hrv_score
-    if rhr is not None and baseline_rhr is not None:
-        rhr_score = min(100, max(0, int(75 - (rhr - baseline_rhr) * 5)))
-        recovery_score = ((recovery_score or 75) + rhr_score) // 2
-    if sleep_h is not None:
-        sleep_score = min(100, max(0, int((sleep_h / 8) * 100)))
-        recovery_score = ((recovery_score or 75) + sleep_score) // 2
-
-    # Last run
     last_run = get_recent_runs(data, 1)
     last_run = last_run[0] if last_run else None
     days_since_run = None
@@ -129,141 +101,68 @@ def get_coaching(data, context):
         lr_date = date.fromisoformat((last_run.get("start") or today.isoformat())[:10])
         days_since_run = (today - lr_date).days
 
-    # --- Headline ---
-    if recovery_score is not None:
-        if recovery_score >= 75:
-            headline = "Recovery looks good — green light to run today."
-        elif recovery_score >= 50:
-            headline = "Moderate recovery — keep it easy today."
-        else:
-            headline = "Low recovery — rest or a gentle walk is the smart call."
-    elif days_since_run is None:
-        headline = "No runs logged yet — time to start!"
-    elif days_since_run <= 1:
-        headline = "You ran recently — check how your legs feel before heading out."
-    elif days_since_run >= 4:
-        headline = f"{days_since_run} days since your last run — let's get moving!"
+    if days_since_run is None:
+        headline = "No runs logged yet — time to get started!"
+    elif days_since_run == 0:
+        headline = "You ran today — great work! Rest up and recover well."
+    elif days_since_run <= 2:
+        headline = "Good rhythm — you ran recently. Check how your legs feel today."
+    elif days_since_run <= 4:
+        headline = "A few days since your last run — good time to get out there."
     else:
-        headline = "Good time to lace up — a run today will keep the momentum going."
+        headline = f"{days_since_run} days since your last run — let's get moving again!"
 
     lines = [f"**{headline}**", ""]
 
-    # Recovery metrics paragraph
-    metrics = []
-    if rhr is not None:
-        if baseline_rhr and rhr > baseline_rhr + 3:
-            metrics.append(f"resting HR is {rhr} bpm (above your {baseline_rhr} bpm baseline — body is working harder than usual)")
-        else:
-            metrics.append(f"resting HR is {rhr} bpm")
-    if hrv is not None:
-        metrics.append(f"HRV is {hrv} ms")
-    if sleep_h is not None:
-        sl = "good" if sleep_h >= 7.5 else ("okay" if sleep_h >= 6.5 else "short")
-        metrics.append(f"sleep was {sleep_h:.1f} hours ({sl})")
-    if metrics:
-        lines.append("Your numbers today: " + ", ".join(metrics) + ".")
+    if km_7d > 0 or km_prev > 0:
+        vol = f"This week: {km_7d:.1f} km"
+        if km_prev > 0:
+            diff = km_7d - km_prev
+            trend = f"+{diff:.1f} km" if diff >= 0 else f"{diff:.1f} km"
+            vol += f" (last week: {km_prev:.1f} km, {trend})"
+        lines.append(vol + ".")
+        if km_7d > 0 and km_prev > 0 and km_7d > km_prev * 1.3:
+            lines.append("Volume jumped more than 30% this week — ease back a little to protect against injury.")
         lines.append("")
 
-    # Last run insight
     if last_run:
         lr_hr = last_run.get("avg_hr")
-        lr_km = last_run.get("distance_km") or 0
-        lr_mins = last_run.get("duration_mins") or 0
         if lr_hr:
             if lr_hr <= easy_hr_cap:
                 lines.append(f"Last run avg HR was {lr_hr:.0f} bpm — nicely controlled, well within easy zone.")
             elif lr_hr <= easy_hr_cap + 8:
                 lines.append(f"Last run avg HR {lr_hr:.0f} bpm — slightly above {easy_hr_cap} bpm cap, likely the Singapore heat. Try starting slower next time.")
             else:
-                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — too high for easy running (cap: {easy_hr_cap} bpm). Slow down: if you can't hold a conversation, you're going too fast.")
+                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — above easy zone (cap: {easy_hr_cap} bpm). Slow down: if you can't hold a conversation, you're going too fast.")
             lines.append("")
 
-    # Phase-specific advice
     if phase_name == "Norway Hiking":
-        lines.append(
-            "You're in Norway — the hiking IS your training. Every step counts. "
-            "Focus on fuelling well, staying hydrated, and looking after your knees on the descents. No pressure to run."
-        )
+        lines.append("You're in Norway — the hiking IS your training. Every step counts. Focus on fuelling well and looking after your knees on the descents.")
     elif phase_name == "RACE DAY":
-        lines.append(
-            f"**Race day!** Target {context.get('target_time','2:30')} — that's {context.get('target_pace_per_km','7:06')}/km. "
-            "Start 10–15 sec/km slower than target for the first 5 km. The Singapore heat bites early — go out controlled. "
-            "Drink at every station. You've put in the work. Go get it!"
-        )
+        lines.append(f"**Race day!** Target {context.get('target_time','2:30')} — that's {context.get('target_pace_per_km','7:06')}/km. Start 10–15 sec/km slower for the first 5 km. Drink at every station. You've got this!")
     elif phase_name == "Race Taper":
-        lines.append(
-            "Taper time — trust the training you've banked. Keep runs short (3–4 km) and easy. "
-            "Sleep as much as you can, eat well, and stay off your feet when you don't need to be on them."
-        )
+        lines.append("Taper time — trust the training you've banked. Keep runs short (3–4 km) and easy. Sleep well, eat well, stay off your feet.")
     elif phase_name == "Shake Out":
-        lines.append(
-            "Welcome back from Norway! Your legs have done serious elevation work. "
-            "Two easy 4–5 km runs this week is all you need — just remind your body what road running feels like."
-        )
-    elif phase_name == "Taper":
-        lines.append(
-            "Pre-Norway taper. Cut volume by about 30% and keep all runs easy. "
-            "Arrive in Norway feeling fresh, not carrying accumulated fatigue."
-        )
+        lines.append("Welcome back from Norway! Two easy 4–5 km runs this week is all you need — just remind your body what road running feels like.")
     elif phase_name == "Base Building":
-        if recovery_score is not None and recovery_score >= 75:
-            lines.append(
-                f"Good day to get a run in. Aim for 5–6 km at a conversational pace, HR under {easy_hr_cap} bpm. "
-                "In Singapore heat that means going slower than feels right — that's correct. "
-                "The aerobic base you build now pays off in September."
-            )
-        elif recovery_score is not None and recovery_score >= 50:
-            lines.append(
-                f"Moderate recovery today — keep it to 4–5 km, very easy, HR under {easy_hr_cap} bpm. "
-                "If you feel flat after 10 minutes, turn around. No hero miles."
-            )
-        else:
-            lines.append(
-                "Low recovery today — skip the run and rest. One rest day now protects the whole block. "
-                "A short walk is fine if you need to move."
-            )
+        lines.append(f"Focus: keep it easy and consistent. Aim for 3 runs of 5–6 km, HR under {easy_hr_cap} bpm. In Singapore heat that means going slower than feels right — that's fine. The aerobic base you build now pays off in September.")
     elif phase_name == "Build":
-        if recovery_score is not None and recovery_score >= 75:
-            lines.append(
-                f"Good readiness — this week's long run can stretch to 10–12 km. "
-                f"Keep it easy (HR under {easy_hr_cap} bpm), and add one short tempo effort: "
-                f"15–20 min at {tempo_range} bpm in the middle of a 6 km run."
-            )
-        else:
-            lines.append(
-                f"Take it easy today: 5–6 km at a relaxed pace, HR under {easy_hr_cap} bpm. "
-                "Save the tempo work for when your body is fresh."
-            )
+        lines.append(f"Time to build! Long run can stretch to 10–12 km. Keep it easy (HR under {easy_hr_cap} bpm) and add one short tempo: 15–20 min at {tempo_range} bpm in the middle of a 6 km run.")
     elif phase_name == "Peak Block":
-        if recovery_score is not None and recovery_score >= 75:
-            lines.append(
-                f"Readiness supports quality work. Consider a tempo run: 8–10 km with 20 min at race pace "
-                f"({context.get('target_pace_per_km','7:06')}/km) in the middle. Warm up and cool down easy."
-            )
-        else:
-            lines.append(
-                f"Keep today easy: 5–6 km at a relaxed pace, HR under {easy_hr_cap} bpm. "
-                "Quality sessions only work when you're recovered enough to execute them."
-            )
+        lines.append(f"Peak block. Long runs up to 16–17 km, one tempo per week at race pace ({context.get('target_pace_per_km','7:06')}/km). Everything else easy (HR under {easy_hr_cap} bpm).")
+    elif phase_name == "Taper":
+        lines.append("Pre-Norway taper. Cut volume by ~30%, keep all runs easy. Arrive in Norway feeling fresh.")
     else:
-        lines.append(
-            f"Keep the consistency going: easy 5 km, HR under {easy_hr_cap} bpm. "
-            "Show up, keep it relaxed, and trust the process."
-        )
+        lines.append(f"Keep the consistency going: 3 runs this week, mostly easy (HR under {easy_hr_cap} bpm).")
 
     lines.append("")
 
-    # 3-day plan
     def day_plan(offset):
         target_date = today + timedelta(days=offset)
         label = ["Today", "Tomorrow", "Day after"][offset]
-        dow = target_date.strftime("%a")
-        p = next(
-            (ph for ph in context.get("training_phases", [])
-             if ph["start"] <= target_date.isoformat() <= ph["end"]), None
-        )
+        dow   = target_date.strftime("%a")
+        p = next((ph for ph in context.get("training_phases", []) if ph["start"] <= target_date.isoformat() <= ph["end"]), None)
         pname = p["name"] if p else phase_name
-
         if pname == "Norway Hiking":
             return f"**{label} ({dow}):** Hiking — active adventure, mind the knees on descents."
         elif pname == "RACE DAY":
@@ -273,7 +172,7 @@ def get_coaching(data, context):
         elif pname == "Shake Out":
             return f"**{label} ({dow}):** Easy 4–5 km, very relaxed, no pace target."
         elif pname == "Taper":
-            return f"**{label} ({dow}):** {'Easy 4–5 km, light.' if offset % 2 == 0 else 'Rest or short walk.'}"
+            return f"**{label} ({dow}):** {'Easy 4–5 km, keep it light.' if offset % 2 == 0 else 'Rest or short walk.'}"
         elif pname == "Base Building":
             return f"**{label} ({dow}):** {'Easy 5–6 km, HR under ' + str(easy_hr_cap) + ' bpm.' if offset % 2 == 0 else 'Rest or light walk.'}"
         elif pname == "Build":
@@ -287,7 +186,7 @@ def get_coaching(data, context):
                 return f"**{label} ({dow}):** Long run — 14–16 km easy, practice fuelling."
             elif offset == 1:
                 return f"**{label} ({dow}):** Rest or easy 5 km."
-            return f"**{label} ({dow}):** Tempo run — 8 km with 20 min at {context.get('target_pace_per_km','7:06')}/km."
+            return f"**{label} ({dow}):** Tempo — 8 km with 20 min at {context.get('target_pace_per_km','7:06')}/km."
         else:
             return f"**{label} ({dow}):** {'Easy 5 km, HR under ' + str(easy_hr_cap) + ' bpm.' if offset % 2 == 0 else 'Rest.'}"
 
@@ -297,7 +196,6 @@ def get_coaching(data, context):
         lines.append(day_plan(i))
     lines.append("")
     lines.append(f"*{days_to_race} days to race · Phase: {phase_name}*")
-
     return "\n".join(lines)
 
 
@@ -306,65 +204,38 @@ def js_arr(lst):
 
 
 def generate_html(data, context, coaching_text):
-    today = date.today()
-    race_date = date.fromisoformat(context.get("race_date", "2026-09-27"))
+    today      = date.today()
+    race_date  = date.fromisoformat(context.get("race_date", "2026-09-27"))
     days_to_race = (race_date - today).days
 
-    daily_14 = get_daily_range(data, 14)
-    today_d  = next((d for d in daily_14 if d["date"] == today.isoformat()), None)
+    weekly_vols = get_weekly_volumes(data, 14)
+    week_labels = json.dumps([w[0] for w in weekly_vols])
+    week_kms    = js_arr([w[1] for w in weekly_vols])
 
-    # Today's metrics
-    rhr      = g(today_d, "resting_hr") or "—"
-    hrv      = g(today_d, "hrv") or "—"
-    sleep_h  = g(today_d, "sleep_hours")
-    steps_r  = g(today_d, "steps")
-    active_e = g(today_d, "active_energy") or "—"
+    runs_7d    = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
+    km_7d      = sum((w.get("distance_km") or 0) for w in runs_7d)
+    elev_7d    = sum((w.get("elevation_m") or 0) for w in runs_7d)
+    count_7d   = len(runs_7d)
+    all_runs   = [w for w in data.get("workouts", []) if is_run(w)]
+    longest    = max(((w.get("distance_km") or 0) for w in all_runs), default=0)
 
-    sleep_s  = f"{sleep_h:.1f} hrs" if sleep_h else "—"
-    steps_s  = f"{steps_r:,}" if isinstance(steps_r, int) else (f"{int(steps_r):,}" if steps_r else "—")
-
-    # Recovery colour
-    rhr_vals = [d["resting_hr"] for d in daily_14 if d.get("resting_hr")]
-    baseline_rhr = round(sum(rhr_vals) / len(rhr_vals)) if rhr_vals else None
-    hrv_vals = [d["hrv"] for d in daily_14 if d.get("hrv")]
-    baseline_hrv = round(sum(hrv_vals) / len(hrv_vals)) if hrv_vals else None
-
-    recovery_color = "#6b7280"
-    if isinstance(hrv, (int, float)) and baseline_hrv:
-        ratio = hrv / baseline_hrv
-        if ratio >= 0.97:   recovery_color = "#10b981"
-        elif ratio >= 0.90: recovery_color = "#f59e0b"
-        else:               recovery_color = "#ef4444"
-
-    # Chart data
-    chart_labels = json.dumps([d["date"][5:] for d in daily_14])
-    chart_rhr    = js_arr([d.get("resting_hr") for d in daily_14])
-    chart_hrv    = js_arr([d.get("hrv") for d in daily_14])
-    chart_sleep  = js_arr([d.get("sleep_hours") for d in daily_14])
-    chart_steps  = js_arr([d.get("steps") for d in daily_14])
-
-    weekly_vols  = get_weekly_volumes(data, 10)
-    week_labels  = json.dumps([w[0] for w in weekly_vols])
-    week_kms     = js_arr([w[1] for w in weekly_vols])
-
-    # Recent runs for pace/HR trend
     recent10   = get_recent_runs(data, 10)[::-1]
     run_labels = json.dumps([(r.get("start") or "")[:10][5:] for r in recent10])
     run_pace   = js_arr([
-        round((r["duration_mins"] / r["distance_km"]), 2) if r.get("distance_km") and r.get("duration_mins") else None
+        round(r["duration_mins"] / r["distance_km"], 2)
+        if r.get("distance_km") and r.get("duration_mins") and r["distance_km"] > 0 else None
         for r in recent10
     ])
     run_hr     = js_arr([r.get("avg_hr") for r in recent10])
 
-    # Latest run review
     latest_run = get_recent_runs(data, 1)
     latest_run = latest_run[0] if latest_run else None
     run_review_html = ""
 
     if latest_run:
-        lr = latest_run
+        lr       = latest_run
         lr_date  = (lr.get("start") or "")[:10]
-        lr_name  = lr.get("name") or lr.get("type") or "Run"
+        lr_name  = lr.get("name") or "Run"
         lr_km    = lr.get("distance_km") or 0
         lr_mins  = lr.get("duration_mins") or 0
         lr_pace  = pace_str(lr_km, lr_mins)
@@ -382,9 +253,9 @@ def generate_html(data, context, coaching_text):
             if lr_hr <= easy_cap:
                 verdict_parts.append(f"HR well controlled at {lr_hr:.0f} bpm — great aerobic discipline.")
             elif lr_hr <= easy_cap + 8:
-                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — slightly above {easy_cap} bpm, likely the heat. Try starting slower.")
+                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — slightly above {easy_cap} bpm cap, likely the Singapore heat. Try starting a bit slower.")
             else:
-                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — above easy zone. Slow right down: if you can't chat, you're going too hard.")
+                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — above easy zone. Slow down: if you can't chat, you're going too hard.")
         if lr_cad_raw:
             spm = lr_cad_raw * 2
             if spm < 160:
@@ -415,21 +286,19 @@ def generate_html(data, context, coaching_text):
   <div class="run-verdict">💬 {verdict}</div>
 </div>"""
 
-    # Activities table
     acts_rows = ""
-    for act in sorted(data.get("workouts", []), key=lambda w: w.get("start",""), reverse=True)[:8]:
-        d     = (act.get("start") or "")[:10]
-        name  = act.get("name") or act.get("type") or "Workout"
-        km    = act.get("distance_km") or 0
-        mins  = act.get("duration_mins") or 0
-        p     = pace_str(km, mins) if is_run(act) else "—"
-        hr    = act.get("avg_hr") or "—"
-        hr_s  = f"{hr:.0f}" if isinstance(hr, float) else str(hr)
-        elev  = act.get("elevation_m") or 0
-        cal   = act.get("calories") or "—"
+    for act in sorted(data.get("workouts", []), key=lambda w: w.get("start", ""), reverse=True)[:8]:
+        d    = (act.get("start") or "")[:10]
+        name = act.get("name") or act.get("type") or "Activity"
+        km   = act.get("distance_km") or 0
+        mins = act.get("duration_mins") or 0
+        p    = pace_str(km, mins) if is_run(act) and km > 0 else "—"
+        hr   = act.get("avg_hr") or "—"
+        hr_s = f"{hr:.0f}" if isinstance(hr, float) else str(hr)
+        elev = act.get("elevation_m") or 0
+        cal  = act.get("calories") or "—"
         acts_rows += f"<tr><td>{d[5:]}</td><td>{name}</td><td>{km:.1f} km</td><td>{p}</td><td>{hr_s}</td><td>{dur_str(mins)}</td><td>{elev:.0f} m</td><td>{cal}</td></tr>\n"
 
-    # Training phases
     phase_html = ""
     for phase in context.get("training_phases", []):
         ps, pe = phase["start"], phase["end"]
@@ -442,7 +311,6 @@ def generate_html(data, context, coaching_text):
           <div class="phase-right"><span class="phase-dates">{ps[5:]} – {pe[5:]}</span><span class="phase-focus">{phase['focus']}</span></div>
         </div>\n"""
 
-    # Coach HTML
     coach_html = ""
     for para in coaching_text.strip().split("\n"):
         para = para.strip()
@@ -451,7 +319,7 @@ def generate_html(data, context, coaching_text):
         para = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', para)
         coach_html += f"<p>{para}</p>\n"
 
-    synced_at = data.get("synced_at", "")[:16].replace("T", " ") or today.isoformat()
+    synced_at = (data.get("synced_at") or today.isoformat())[:10]
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -477,11 +345,6 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgro
 .card .lbl{{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}}
 .card .val{{font-size:1.5rem;font-weight:700;color:#f1f5f9;line-height:1}}
 .card .sub2{{font-size:0.7rem;color:#94a3b8;margin-top:2px}}
-.rec-wrap{{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start}}
-.rec-card{{background:#1e293b;border-radius:10px;padding:14px 16px;border:2px solid {recovery_color};min-width:110px;text-align:center}}
-.rec-card .lbl{{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}}
-.rec-val{{font-size:2rem;font-weight:800;color:{recovery_color};line-height:1}}
-.rec-sub{{font-size:0.75rem;color:{recovery_color};font-weight:600;margin-top:4px}}
 .coach-card{{background:#1e293b;border-radius:10px;padding:16px;border-left:3px solid #a855f7}}
 .coach-card p{{font-size:0.88rem;line-height:1.65;color:#cbd5e1}}
 .coach-card p+p{{margin-top:8px}}
@@ -515,7 +378,6 @@ tr:last-child td{{border-bottom:none}}
 .run-verdict{{background:#0f172a;border-radius:8px;padding:10px 12px;font-size:0.82rem;color:#94a3b8;margin-top:10px;line-height:1.5}}
 .footer{{font-size:0.65rem;color:#334155;text-align:center;padding:20px 0 12px}}
 @media(max-width:520px){{
-  .rec-wrap{{grid-template-columns:1fr}}
   .cards{{grid-template-columns:repeat(2,1fr)}}
   .phase-right{{display:none}}
 }}
@@ -528,26 +390,19 @@ tr:last-child td{{border-bottom:none}}
   <div class="sub">{context.get('race_name','Race')} · Target {context.get('target_time','')}</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 {days_to_race} days to race</span>
-    <span class="pill pill-green">Synced {synced_at}</span>
+    <span class="pill pill-green">Updated {synced_at}</span>
   </div>
 </div>
 </div>
 
 <div class="wrap">
 
-<div class="sec">Today's Recovery</div>
-<div class="rec-wrap">
-  <div class="rec-card">
-    <div class="lbl">HRV</div>
-    <div class="rec-val">{hrv}</div>
-    <div class="rec-sub">ms</div>
-  </div>
-  <div class="cards" style="margin:0">
-    <div class="card"><div class="lbl">Resting HR</div><div class="val">{rhr}</div><div class="sub2">bpm{(' · baseline ' + str(baseline_rhr)) if baseline_rhr else ''}</div></div>
-    <div class="card"><div class="lbl">Sleep</div><div class="val" style="font-size:1.2rem">{sleep_s}</div><div class="sub2">last night</div></div>
-    <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.1rem">{steps_s}</div><div class="sub2">today</div></div>
-    <div class="card"><div class="lbl">Active Energy</div><div class="val" style="font-size:1.1rem">{active_e}</div><div class="sub2">kcal</div></div>
-  </div>
+<div class="sec">This Week</div>
+<div class="cards">
+  <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.3rem">{km_7d:.1f} km</div><div class="sub2">{count_7d} run{'s' if count_7d != 1 else ''} this week</div></div>
+  <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.3rem">{elev_7d:.0f} m</div><div class="sub2">gain this week</div></div>
+  <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.3rem">{longest:.1f} km</div><div class="sub2">all time</div></div>
+  <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.3rem">{context.get('target_time','2:30')}</div><div class="sub2">{context.get('target_pace_per_km','7:06')}/km</div></div>
 </div>
 
 <div class="sec">Daily Coach</div>
@@ -556,26 +411,20 @@ tr:last-child td{{border-bottom:none}}
 </div>
 
 <div class="sec">Latest Run Review</div>
-{run_review_html if run_review_html else '<div class="box" style="color:#475569;font-size:0.85rem">No runs yet — go log one!</div>'}
+{run_review_html if run_review_html else '<div class="box" style="color:#475569;font-size:0.85rem;padding:14px">No runs synced yet — check back after your next run!</div>'}
 
-<div class="sec">14-Day Trends</div>
-<div class="box"><h3>Resting Heart Rate (bpm)</h3><canvas id="rhr" height="75"></canvas></div>
-<div class="box"><h3>HRV (ms)</h3><canvas id="hrv" height="75"></canvas></div>
-<div class="box"><h3>Sleep (hours)</h3><canvas id="sleep" height="75"></canvas></div>
-<div class="box"><h3>Steps</h3><canvas id="steps" height="75"></canvas></div>
-
-<div class="sec">10-Week Running Volume</div>
+<div class="sec">14-Week Volume</div>
 <div class="box"><h3>Weekly Distance (km)</h3><canvas id="vol" height="80"></canvas></div>
 
 <div class="sec">Pace &amp; HR Trends</div>
 <div class="box"><h3>Avg Pace — last 10 runs (min/km)</h3><canvas id="pace" height="75"></canvas></div>
-<div class="box"><h3>Avg Heart Rate — last 10 runs</h3><canvas id="runhr" height="75"></canvas></div>
+<div class="box"><h3>Avg Heart Rate — last 10 runs (bpm)</h3><canvas id="hr" height="75"></canvas></div>
 
 <div class="sec">Recent Activities</div>
 <div class="box" style="overflow-x:auto">
   <table>
-    <thead><tr><th>Date</th><th>Activity</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
-    <tbody>{acts_rows}</tbody>
+    <thead><tr><th>Date</th><th>Name</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
+    <tbody>{acts_rows if acts_rows else '<tr><td colspan="8" style="color:#475569;text-align:center;padding:20px">No activities yet</td></tr>'}</tbody>
   </table>
 </div>
 
@@ -584,7 +433,7 @@ tr:last-child td{{border-bottom:none}}
   {phase_html}
 </div>
 
-<div class="footer">Apple Health · auto-synced daily via iPhone Shortcut</div>
+<div class="footer">Strava → Intervals.icu · auto-synced twice daily</div>
 </div>
 
 <script>
@@ -596,18 +445,24 @@ const opt = (ymin, ymax, dec) => ({{
     y: {{ ticks: {{ color: '#475569', font: {{ size: 10 }}, callback: v => dec ? v.toFixed(dec) : v }}, grid: {{ color: '#334155' }}, min: ymin, max: ymax }}
   }}
 }});
-const L = {chart_labels};
-new Chart(document.getElementById('rhr'), {{ type:'line', data:{{ labels:L, datasets:[{{ label:'bpm', data:{chart_rhr}, borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:3 }}] }}, options:opt() }});
-new Chart(document.getElementById('hrv'), {{ type:'line', data:{{ labels:L, datasets:[{{ label:'ms', data:{chart_hrv}, borderColor:'#a855f7', backgroundColor:'rgba(168,85,247,.1)', fill:true, tension:.35, pointRadius:3 }}] }}, options:opt() }});
-new Chart(document.getElementById('sleep'), {{ type:'bar', data:{{ labels:L, datasets:[{{ label:'hrs', data:{chart_sleep}, backgroundColor:'rgba(59,130,246,.6)', borderColor:'#3b82f6', borderWidth:1, borderRadius:3 }}] }}, options:opt(0, 10, 1) }});
-new Chart(document.getElementById('steps'), {{ type:'bar', data:{{ labels:L, datasets:[{{ label:'steps', data:{chart_steps}, backgroundColor:'rgba(16,185,129,.5)', borderColor:'#10b981', borderWidth:1, borderRadius:3 }}] }}, options:opt() }});
-new Chart(document.getElementById('vol'), {{ type:'bar', data:{{ labels:{week_labels}, datasets:[{{ label:'km', data:{week_kms}, backgroundColor:'rgba(168,85,247,.6)', borderColor:'#a855f7', borderWidth:1, borderRadius:4 }}] }}, options:opt(0) }});
-new Chart(document.getElementById('pace'), {{ type:'line', data:{{ labels:{run_labels}, datasets:[{{ label:'min/km', data:{run_pace}, borderColor:'#f97316', backgroundColor:'rgba(249,115,22,.1)', fill:true, tension:.35, pointRadius:4 }}] }}, options:opt(undefined, undefined, 2) }});
-new Chart(document.getElementById('runhr'), {{ type:'line', data:{{ labels:{run_labels}, datasets:[{{ label:'bpm', data:{run_hr}, borderColor:'#ef4444', backgroundColor:'rgba(239,68,68,.1)', fill:true, tension:.35, pointRadius:4 }}] }}, options:opt() }});
+new Chart(document.getElementById('vol'), {{
+  type: 'bar',
+  data: {{ labels: {week_labels}, datasets: [{{ label: 'km', data: {week_kms}, backgroundColor: 'rgba(168,85,247,.6)', borderColor: '#a855f7', borderWidth: 1, borderRadius: 4 }}] }},
+  options: opt(0)
+}});
+new Chart(document.getElementById('pace'), {{
+  type: 'line',
+  data: {{ labels: {run_labels}, datasets: [{{ label: 'min/km', data: {run_pace}, borderColor: '#a855f7', backgroundColor: 'rgba(168,85,247,.1)', fill: true, tension: .35, pointRadius: 4 }}] }},
+  options: opt(undefined, undefined, 2)
+}});
+new Chart(document.getElementById('hr'), {{
+  type: 'line',
+  data: {{ labels: {run_labels}, datasets: [{{ label: 'bpm', data: {run_hr}, borderColor: '#ef4444', backgroundColor: 'rgba(239,68,68,.1)', fill: true, tension: .35, pointRadius: 4 }}] }},
+  options: opt()
+}});
 </script>
 </body>
 </html>"""
-
     return html
 
 
