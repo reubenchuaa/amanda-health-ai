@@ -3,8 +3,29 @@
 
 import json
 import re
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
+
+SGT = timedelta(hours=8)
+
+def to_sgt(dt_str):
+    """Convert UTC ISO timestamp string to SGT datetime."""
+    if not dt_str:
+        return None
+    try:
+        return datetime.fromisoformat(dt_str[:19]) + SGT
+    except Exception:
+        return None
+
+def sgt_display(dt_str):
+    """Return SGT time as 'DD Mon HH:MM' string."""
+    dt = to_sgt(dt_str)
+    return dt.strftime("%d %b %H:%M") if dt else "—"
+
+def sgt_date(dt_str):
+    """Return just the SGT date as YYYY-MM-DD."""
+    dt = to_sgt(dt_str)
+    return dt.date().isoformat() if dt else ""
 
 SCRIPT_DIR   = Path(__file__).parent
 DATA_FILE    = SCRIPT_DIR / "health" / "data.json"
@@ -215,6 +236,28 @@ def generate_html(data, context, coaching_text):
     race_date    = date.fromisoformat(context.get("race_date", "2026-09-27"))
     days_to_race = (race_date - today).days
 
+    # ── wellness stats — most recent day with data ──
+    daily_sorted = sorted(data.get("daily", []), key=lambda x: x.get("date",""), reverse=True)
+    wellness = next((d for d in daily_sorted if any(d.get(k) is not None for k in ("resting_hr","hrv","steps","sleep_hours"))), None)
+    w_date      = wellness.get("date","") if wellness else ""
+    w_rhr       = wellness.get("resting_hr") if wellness else None
+    w_hrv       = wellness.get("hrv") if wellness else None
+    w_steps     = wellness.get("steps") if wellness else None
+    w_sleep     = wellness.get("sleep_hours") if wellness else None
+    w_rhr_s     = f"{w_rhr} bpm" if w_rhr else "—"
+    w_hrv_s     = f"{w_hrv:.0f} ms" if w_hrv else "—"
+    w_steps_s   = f"{w_steps:,}" if w_steps else "—"
+    w_sleep_s   = f"{int(w_sleep)}h {round((w_sleep%1)*60)}m" if w_sleep else "—"
+    w_label     = f"as of {w_date[5:]}" if w_date else ""
+    # HRV colour coding
+    hrv_color   = "#64748b"
+    if w_hrv:
+        hrv_color = "#10b981" if w_hrv >= 55 else ("#f59e0b" if w_hrv >= 40 else "#ef4444")
+    # RHR colour
+    rhr_color   = "#64748b"
+    if w_rhr:
+        rhr_color = "#10b981" if w_rhr <= 60 else ("#f59e0b" if w_rhr <= 70 else "#ef4444")
+
     # ── weekly stats ──
     weekly_vols = get_weekly_volumes(data, 14)
     week_labels = json.dumps([w[0] for w in weekly_vols])
@@ -244,7 +287,7 @@ def generate_html(data, context, coaching_text):
 
     # ── pace/HR trend (last 10 runs) ──
     recent10   = get_recent_runs(data, 10)[::-1]
-    run_labels = json.dumps([(r.get("start") or "")[:10][5:] for r in recent10])
+    run_labels = json.dumps([sgt_display(r.get("start") or "")[:5] for r in recent10])
     run_pace   = js_arr([
         round(r.get("duration_mins") / r.get("distance_km"), 2)
         if r.get("distance_km") and r.get("duration_mins") and r.get("distance_km") > 0 else None
@@ -260,8 +303,9 @@ def generate_html(data, context, coaching_text):
 
     if latest_run:
         lr       = latest_run
-        lr_date  = (lr.get("start") or "")[:10]
-        lr_time  = (lr.get("start") or "")[:19].replace("T", " ")
+        lr_sgt   = to_sgt(lr.get("start") or "")
+        lr_date  = lr_sgt.strftime("%d %b %Y") if lr_sgt else "—"
+        lr_time  = lr_sgt.strftime("%d %b %Y, %I:%M %p SGT") if lr_sgt else "—"
         lr_name  = lr.get("name") or "Run"
         lr_km    = lr.get("distance_km") or 0
         lr_mins  = lr.get("duration_mins") or 0
@@ -339,9 +383,9 @@ def generate_html(data, context, coaching_text):
     real_acts = [w for w in data.get("workouts", []) if (w.get("distance_km") or 0) > 0 or (w.get("duration_mins") or 0) > 0]
     acts_rows = ""
     for act in sorted(real_acts, key=lambda w: w.get("start", ""), reverse=True)[:10]:
-        start = act.get("start") or ""
-        d     = start[:10]
-        t     = start[11:16] if len(start) >= 16 else ""
+        act_sgt = to_sgt(act.get("start") or "")
+        d     = act_sgt.strftime("%d %b") if act_sgt else "—"
+        t     = act_sgt.strftime("%I:%M %p") if act_sgt else ""
         name  = act.get("name") or act.get("type") or "Activity"
         km    = act.get("distance_km") or 0
         mins  = act.get("duration_mins") or 0
@@ -352,7 +396,7 @@ def generate_html(data, context, coaching_text):
         elev  = act.get("elevation_m") or 0
         cal   = act.get("calories") or "—"
         has_route = "🗺" if act.get("route") else ""
-        acts_rows += f"<tr><td>{d[5:]} {t}</td><td>{has_route} {name}</td><td>{km:.1f} km</td><td>{p}</td><td>{hr_s}</td><td>{max_hr_s}</td><td>{dur_str(mins)}</td><td>{elev:.0f} m</td><td>{cal}</td></tr>\n"
+        acts_rows += f"<tr><td>{d}<br><span style='color:#475569;font-size:0.7rem'>{t}</span></td><td>{has_route} {name}</td><td>{km:.1f} km</td><td>{p}</td><td>{hr_s}</td><td>{max_hr_s}</td><td>{dur_str(mins)}</td><td>{elev:.0f} m</td><td>{cal}</td></tr>\n"
 
     # ── training phase timeline ──
     phase_html = ""
@@ -488,6 +532,14 @@ tr:last-child td{{border-bottom:none}}
     <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">{elev_7d:.0f} m</div><div class="sub2">gain this week</div></div>
     <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.2rem">{context.get('target_time','2:30')}</div><div class="sub2">{context.get('target_pace_per_km','7:06')}/km</div></div>
   </div>
+</div>
+
+<div class="sec">Today's Health {f'<span style="font-size:0.6rem;color:#334155;font-weight:400;text-transform:none;letter-spacing:0">({w_label})</span>' if w_label else ''}</div>
+<div class="cards">
+  <div class="card"><div class="lbl">Resting HR</div><div class="val" style="color:{rhr_color}">{w_rhr_s}</div><div class="sub2">Apple Watch</div></div>
+  <div class="card"><div class="lbl">HRV</div><div class="val" style="color:{hrv_color}">{w_hrv_s}</div><div class="sub2">last night</div></div>
+  <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.2rem">{w_steps_s}</div><div class="sub2">yesterday</div></div>
+  <div class="card"><div class="lbl">Sleep</div><div class="val" style="font-size:1.2rem">{w_sleep_s}</div><div class="sub2">last night</div></div>
 </div>
 
 <div class="sec">Daily Coach</div>
