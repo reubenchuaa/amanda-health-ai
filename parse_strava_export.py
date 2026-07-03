@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Parse Strava bulk export activities.csv into health/data.json."""
+"""Parse Strava bulk export activities.csv into health/data.json.
+Also extracts GPS routes from .fit.gz files for map rendering."""
 
 import csv
+import gzip
 import json
 import sys
 from datetime import datetime
@@ -11,6 +13,9 @@ SCRIPT_DIR = Path(__file__).parent
 DATA_FILE  = SCRIPT_DIR / "health" / "data.json"
 
 RUN_TYPES = {"run", "virtualrun", "treadmill"}
+
+# How many GPS points to keep per run (sampled evenly)
+MAX_GPS_POINTS = 250
 
 
 def parse_float(v):
@@ -29,7 +34,35 @@ def parse_int(v):
         return None
 
 
-def parse_export(csv_path):
+def extract_route(fit_gz_path, max_points=MAX_GPS_POINTS):
+    """Extract GPS polyline from a .fit.gz file. Returns [[lat, lon], ...]."""
+    try:
+        from fitparse import FitFile
+        with gzip.open(fit_gz_path) as f:
+            ff = FitFile(f)
+            coords = []
+            for record in ff.get_messages("record"):
+                d = {m.name: m.value for m in record}
+                lat = d.get("position_lat")
+                lon = d.get("position_long")
+                if lat and lon:
+                    coords.append([
+                        round(lat * 180 / 2**31, 6),
+                        round(lon * 180 / 2**31, 6)
+                    ])
+        if not coords:
+            return None
+        # Sample evenly to keep payload small
+        step = max(1, len(coords) // max_points)
+        sampled = coords[::step][:max_points]
+        return sampled
+    except Exception as e:
+        print(f"  Warning: could not parse GPS from {fit_gz_path.name}: {e}")
+        return None
+
+
+def parse_export(csv_path, extract_gps=True):
+    export_dir = csv_path.parent
     workouts = []
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -59,6 +92,7 @@ def parse_export(csv_path):
             elev     = parse_float(row.get("Elevation Gain"))
             cal      = parse_float(row.get("Calories"))
             cadence  = parse_float(row.get("Average Cadence"))
+            filename = (row.get("Filename") or "").strip()
 
             # Distance: Strava exports in metres when >100, or km when small
             if dist_m and dist_m > 100:
@@ -68,7 +102,14 @@ def parse_export(csv_path):
             else:
                 dist_km = 0
 
-            workouts.append({
+            # GPS route from FIT file
+            route = None
+            if extract_gps and filename:
+                fit_path = export_dir / filename
+                if fit_path.exists():
+                    route = extract_route(fit_path)
+
+            entry = {
                 "type":          "Run",
                 "name":          name,
                 "start":         start,
@@ -79,7 +120,11 @@ def parse_export(csv_path):
                 "elevation_m":   round(elev, 1) if elev else 0,
                 "calories":      int(cal) if cal else None,
                 "avg_cadence":   round(cadence, 1) if cadence else None,
-            })
+            }
+            if route:
+                entry["route"] = route
+
+            workouts.append(entry)
 
     return workouts
 
@@ -93,7 +138,7 @@ def merge(existing_workouts, new_workouts):
             existing_starts.add(w["start"])
             added += 1
         else:
-            # Update existing with richer data
+            # Update existing with richer data (prefer new GPS if present)
             for i, ew in enumerate(existing_workouts):
                 if ew["start"] == w["start"]:
                     existing_workouts[i] = {**ew, **{k: v for k, v in w.items() if v is not None}}
@@ -103,7 +148,6 @@ def merge(existing_workouts, new_workouts):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        # Auto-find export on Desktop
         candidates = list(Path.home().glob("Desktop/export_*/activities.csv"))
         if not candidates:
             print("Usage: python3 parse_strava_export.py /path/to/activities.csv")
@@ -131,5 +175,6 @@ if __name__ == "__main__":
     existing["workouts"] = sorted(merged, key=lambda w: w.get("start", ""), reverse=True)
 
     DATA_FILE.write_text(json.dumps(existing, indent=2, default=str))
-    print(f"Done — {added} new runs added, {len(existing['workouts'])} total")
+    routes_count = sum(1 for w in existing["workouts"] if w.get("route"))
+    print(f"Done — {added} new runs added, {len(existing['workouts'])} total, {routes_count} with GPS routes")
     print(f"Saved → {DATA_FILE}")

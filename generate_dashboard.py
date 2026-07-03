@@ -6,12 +6,15 @@ import re
 from datetime import date, timedelta
 from pathlib import Path
 
-SCRIPT_DIR  = Path(__file__).parent
-DATA_FILE   = SCRIPT_DIR / "health" / "data.json"
+SCRIPT_DIR   = Path(__file__).parent
+DATA_FILE    = SCRIPT_DIR / "health" / "data.json"
 CONTEXT_FILE = SCRIPT_DIR / "context.json"
-DOCS_DIR    = SCRIPT_DIR / "docs"
-OUTPUT_FILE = DOCS_DIR / "index.html"
+COACH_FILE   = SCRIPT_DIR / "health" / "coach_note.md"
+DOCS_DIR     = SCRIPT_DIR / "docs"
+OUTPUT_FILE  = DOCS_DIR / "index.html"
 
+
+# ── helpers ──────────────────────────────────────────────────────────────────
 
 def load_data():
     if not DATA_FILE.exists():
@@ -35,7 +38,7 @@ def g(d, *keys):
 
 
 def is_run(w):
-    return (w.get("type") or "").lower() in ("run", "virtualrun", "treadmill", "running", "workout")
+    return (w.get("type") or "").lower() in ("run", "virtualrun", "treadmill", "running")
 
 
 def pace_str(km, mins):
@@ -51,6 +54,10 @@ def dur_str(mins):
         return "—"
     h, m = divmod(int(mins), 60)
     return f"{h}h {m}m" if h else f"{m}m"
+
+
+def js_arr(lst):
+    return "[" + ",".join("null" if v is None else str(v) for v in lst) + "]"
 
 
 def get_recent_runs(data, n=10):
@@ -74,11 +81,13 @@ def get_weekly_volumes(data, weeks=14):
     return result
 
 
+# ── AI / rule-based coach ─────────────────────────────────────────────────────
+
 def get_coaching(data, context):
-    today      = date.today()
-    race_date  = date.fromisoformat(context.get("race_date", "2026-09-27"))
+    today        = date.today()
+    race_date    = date.fromisoformat(context.get("race_date", "2026-09-27"))
     days_to_race = (race_date - today).days
-    easy_hr_cap  = context.get("hr_zones", {}).get("easy_max", 145)
+    easy_cap     = context.get("hr_zones", {}).get("easy_max", 145)
     tempo_range  = context.get("hr_zones", {}).get("tempo_range", "160–170")
 
     current_phase = None
@@ -128,12 +137,12 @@ def get_coaching(data, context):
     if last_run:
         lr_hr = last_run.get("avg_hr")
         if lr_hr:
-            if lr_hr <= easy_hr_cap:
+            if lr_hr <= easy_cap:
                 lines.append(f"Last run avg HR was {lr_hr:.0f} bpm — nicely controlled, well within easy zone.")
-            elif lr_hr <= easy_hr_cap + 8:
-                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — slightly above {easy_hr_cap} bpm cap, likely the Singapore heat. Try starting slower next time.")
+            elif lr_hr <= easy_cap + 8:
+                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — slightly above {easy_cap} bpm cap, likely the Singapore heat. Try starting slower next time.")
             else:
-                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — above easy zone (cap: {easy_hr_cap} bpm). Slow down: if you can't hold a conversation, you're going too fast.")
+                lines.append(f"Last run avg HR {lr_hr:.0f} bpm — above easy zone (cap: {easy_cap} bpm). Slow down: if you can't hold a conversation, you're going too fast.")
             lines.append("")
 
     if phase_name == "Norway Hiking":
@@ -145,15 +154,15 @@ def get_coaching(data, context):
     elif phase_name == "Shake Out":
         lines.append("Welcome back from Norway! Two easy 4–5 km runs this week is all you need — just remind your body what road running feels like.")
     elif phase_name == "Base Building":
-        lines.append(f"Focus: keep it easy and consistent. Aim for 3 runs of 5–6 km, HR under {easy_hr_cap} bpm. In Singapore heat that means going slower than feels right — that's fine. The aerobic base you build now pays off in September.")
+        lines.append(f"Focus: keep it easy and consistent. Aim for 3 runs of 5–6 km, HR under {easy_cap} bpm. In Singapore heat that means going slower than feels right — that's fine. The aerobic base you build now pays off in September.")
     elif phase_name == "Build":
-        lines.append(f"Time to build! Long run can stretch to 10–12 km. Keep it easy (HR under {easy_hr_cap} bpm) and add one short tempo: 15–20 min at {tempo_range} bpm in the middle of a 6 km run.")
+        lines.append(f"Time to build! Long run can stretch to 10–12 km. Keep it easy (HR under {easy_cap} bpm) and add one short tempo: 15–20 min at {tempo_range} bpm in the middle of a 6 km run.")
     elif phase_name == "Peak Block":
-        lines.append(f"Peak block. Long runs up to 16–17 km, one tempo per week at race pace ({context.get('target_pace_per_km','7:06')}/km). Everything else easy (HR under {easy_hr_cap} bpm).")
+        lines.append(f"Peak block. Long runs up to 16–17 km, one tempo per week at race pace ({context.get('target_pace_per_km','7:06')}/km). Everything else easy (HR under {easy_cap} bpm).")
     elif phase_name == "Taper":
         lines.append("Pre-Norway taper. Cut volume by ~30%, keep all runs easy. Arrive in Norway feeling fresh.")
     else:
-        lines.append(f"Keep the consistency going: 3 runs this week, mostly easy (HR under {easy_hr_cap} bpm).")
+        lines.append(f"Keep the consistency going: 3 runs this week, mostly easy (HR under {easy_cap} bpm).")
 
     lines.append("")
 
@@ -174,7 +183,7 @@ def get_coaching(data, context):
         elif pname == "Taper":
             return f"**{label} ({dow}):** {'Easy 4–5 km, keep it light.' if offset % 2 == 0 else 'Rest or short walk.'}"
         elif pname == "Base Building":
-            return f"**{label} ({dow}):** {'Easy 5–6 km, HR under ' + str(easy_hr_cap) + ' bpm.' if offset % 2 == 0 else 'Rest or light walk.'}"
+            return f"**{label} ({dow}):** {'Easy 5–6 km, HR under ' + str(easy_cap) + ' bpm.' if offset % 2 == 0 else 'Rest or light walk.'}"
         elif pname == "Build":
             if offset == 2:
                 return f"**{label} ({dow}):** Long run — 10–12 km easy, time on feet over pace."
@@ -188,7 +197,7 @@ def get_coaching(data, context):
                 return f"**{label} ({dow}):** Rest or easy 5 km."
             return f"**{label} ({dow}):** Tempo — 8 km with 20 min at {context.get('target_pace_per_km','7:06')}/km."
         else:
-            return f"**{label} ({dow}):** {'Easy 5 km, HR under ' + str(easy_hr_cap) + ' bpm.' if offset % 2 == 0 else 'Rest.'}"
+            return f"**{label} ({dow}):** {'Easy 5 km, HR under ' + str(easy_cap) + ' bpm.' if offset % 2 == 0 else 'Rest.'}"
 
     lines.append("**3-Day Plan:**")
     lines.append("")
@@ -199,26 +208,44 @@ def get_coaching(data, context):
     return "\n".join(lines)
 
 
-def js_arr(lst):
-    return "[" + ",".join("null" if v is None else str(v) for v in lst) + "]"
-
+# ── HTML generator ────────────────────────────────────────────────────────────
 
 def generate_html(data, context, coaching_text):
-    today      = date.today()
-    race_date  = date.fromisoformat(context.get("race_date", "2026-09-27"))
+    today        = date.today()
+    race_date    = date.fromisoformat(context.get("race_date", "2026-09-27"))
     days_to_race = (race_date - today).days
 
+    # ── weekly stats ──
     weekly_vols = get_weekly_volumes(data, 14)
     week_labels = json.dumps([w[0] for w in weekly_vols])
     week_kms    = js_arr([w[1] for w in weekly_vols])
 
-    runs_7d    = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
-    km_7d      = sum((w.get("distance_km") or 0) for w in runs_7d)
-    elev_7d    = sum((w.get("elevation_m") or 0) for w in runs_7d)
-    count_7d   = len(runs_7d)
-    all_runs   = [w for w in data.get("workouts", []) if is_run(w)]
-    longest    = max(((w.get("distance_km") or 0) for w in all_runs), default=0)
+    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
+    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=13)).isoformat()]
+    km_7d    = sum((w.get("distance_km") or 0) for w in runs_7d)
+    km_prev  = sum((w.get("distance_km") or 0) for w in runs_14d) - km_7d
+    elev_7d  = sum((w.get("elevation_m") or 0) for w in runs_7d)
+    count_7d = len(runs_7d)
+    all_runs = [w for w in data.get("workouts", []) if is_run(w)]
+    longest  = max(((w.get("distance_km") or 0) for w in all_runs), default=0)
+    total_km = sum((w.get("distance_km") or 0) for w in all_runs)
+    total_runs = len(all_runs)
 
+    # Compute ACWR (acute:chronic workload ratio) — 7-day / 28-day average
+    km_28d = sum((w.get("distance_km") or 0) for w in data.get("workouts", [])
+                 if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=27)).isoformat())
+    chronic = km_28d / 4 if km_28d else 0
+    acwr    = round(km_7d / chronic, 2) if chronic else None
+    if acwr is None:
+        acwr_s, acwr_status, acwr_color = "—", "", "#64748b"
+    elif acwr < 0.8:
+        acwr_s, acwr_status, acwr_color = str(acwr), "Low load", "#64748b"
+    elif acwr < 1.3:
+        acwr_s, acwr_status, acwr_color = str(acwr), "Optimal", "#10b981"
+    else:
+        acwr_s, acwr_status, acwr_color = str(acwr), "High load", "#ef4444"
+
+    # ── pace/HR trend (last 10 runs) ──
     recent10   = get_recent_runs(data, 10)[::-1]
     run_labels = json.dumps([(r.get("start") or "")[:10][5:] for r in recent10])
     run_pace   = js_arr([
@@ -226,15 +253,18 @@ def generate_html(data, context, coaching_text):
         if r.get("distance_km") and r.get("duration_mins") and r["distance_km"] > 0 else None
         for r in recent10
     ])
-    run_hr     = js_arr([r.get("avg_hr") for r in recent10])
+    run_hr = js_arr([r.get("avg_hr") for r in recent10])
 
+    # ── latest run review ──
     latest_run = get_recent_runs(data, 1)
     latest_run = latest_run[0] if latest_run else None
     run_review_html = ""
+    map_js = ""
 
     if latest_run:
         lr       = latest_run
         lr_date  = (lr.get("start") or "")[:10]
+        lr_time  = (lr.get("start") or "")[:19].replace("T", " ")
         lr_name  = lr.get("name") or "Run"
         lr_km    = lr.get("distance_km") or 0
         lr_mins  = lr.get("duration_mins") or 0
@@ -246,6 +276,7 @@ def generate_html(data, context, coaching_text):
         lr_cal   = lr.get("calories") or "—"
         lr_cad_raw = lr.get("avg_cadence")
         lr_cad   = f"{lr_cad_raw * 2:.0f} spm" if lr_cad_raw else "—"
+        route    = lr.get("route")
 
         easy_cap = context.get("hr_zones", {}).get("easy_max", 145)
         verdict_parts = []
@@ -253,9 +284,9 @@ def generate_html(data, context, coaching_text):
             if lr_hr <= easy_cap:
                 verdict_parts.append(f"HR well controlled at {lr_hr:.0f} bpm — great aerobic discipline.")
             elif lr_hr <= easy_cap + 8:
-                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — slightly above {easy_cap} bpm cap, likely the Singapore heat. Try starting a bit slower.")
+                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — slightly above {easy_cap} bpm cap, likely the Singapore heat. Try starting slower.")
             else:
-                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — above easy zone. Slow down: if you can't chat, you're going too hard.")
+                verdict_parts.append(f"HR at {lr_hr:.0f} bpm — above easy zone (cap: {easy_cap} bpm). Slow down next time.")
         if lr_cad_raw:
             spm = lr_cad_raw * 2
             if spm < 160:
@@ -266,11 +297,31 @@ def generate_html(data, context, coaching_text):
                 verdict_parts.append(f"Cadence {spm:.0f} spm — excellent running economy.")
         verdict = " ".join(verdict_parts) if verdict_parts else "Solid effort — keep the consistency going!"
 
+        map_section = ""
+        if route:
+            route_json = json.dumps(route)
+            map_section = """<div id="runmap" style="height:220px;border-radius:8px;margin-top:12px;overflow:hidden"></div>"""
+            map_js = f"""
+// Leaflet route map
+(function(){{
+  var coords = {route_json};
+  var map = L.map('runmap', {{zoomControl:true, attributionControl:false}});
+  L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png',
+    {{subdomains:'abcd',maxZoom:19}}).addTo(map);
+  var poly = L.polyline(coords, {{color:'#a855f7',weight:3,opacity:.9}}).addTo(map);
+  // start/end markers
+  var startIcon = L.divIcon({{html:'<div style="width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid #fff"></div>',iconSize:[10,10],className:''}});
+  var endIcon   = L.divIcon({{html:'<div style="width:10px;height:10px;border-radius:50%;background:#ef4444;border:2px solid #fff"></div>',iconSize:[10,10],className:''}});
+  L.marker(coords[0], {{icon:startIcon}}).addTo(map);
+  L.marker(coords[coords.length-1], {{icon:endIcon}}).addTo(map);
+  map.fitBounds(poly.getBounds(), {{padding:[12,12]}});
+}})();"""
+
         run_review_html = f"""<div class="run-review">
   <div class="run-header">
     <div>
       <div class="run-title">{lr_name}</div>
-      <div class="run-date">{lr_date}</div>
+      <div class="run-date">🕐 {lr_time}</div>
     </div>
     <div class="run-stat-row">
       <div class="run-stat"><span class="rs-val">{lr_km:.2f} km</span><span class="rs-lbl">Distance</span></div>
@@ -283,22 +334,29 @@ def generate_html(data, context, coaching_text):
       <div class="run-stat"><span class="rs-val">{lr_cal}</span><span class="rs-lbl">Calories</span></div>
     </div>
   </div>
+  {map_section}
   <div class="run-verdict">💬 {verdict}</div>
 </div>"""
 
+    # ── activities table ──
     acts_rows = ""
-    for act in sorted(data.get("workouts", []), key=lambda w: w.get("start", ""), reverse=True)[:8]:
-        d    = (act.get("start") or "")[:10]
-        name = act.get("name") or act.get("type") or "Activity"
-        km   = act.get("distance_km") or 0
-        mins = act.get("duration_mins") or 0
-        p    = pace_str(km, mins) if is_run(act) and km > 0 else "—"
-        hr   = act.get("avg_hr") or "—"
-        hr_s = f"{hr:.0f}" if isinstance(hr, float) else str(hr)
-        elev = act.get("elevation_m") or 0
-        cal  = act.get("calories") or "—"
-        acts_rows += f"<tr><td>{d[5:]}</td><td>{name}</td><td>{km:.1f} km</td><td>{p}</td><td>{hr_s}</td><td>{dur_str(mins)}</td><td>{elev:.0f} m</td><td>{cal}</td></tr>\n"
+    for act in sorted(data.get("workouts", []), key=lambda w: w.get("start", ""), reverse=True)[:10]:
+        start = act.get("start") or ""
+        d     = start[:10]
+        t     = start[11:16] if len(start) >= 16 else ""
+        name  = act.get("name") or act.get("type") or "Activity"
+        km    = act.get("distance_km") or 0
+        mins  = act.get("duration_mins") or 0
+        p     = pace_str(km, mins) if is_run(act) and km > 0 else "—"
+        hr    = act.get("avg_hr") or "—"
+        hr_s  = f"{hr:.0f}" if isinstance(hr, float) else str(hr)
+        max_hr_s = str(act.get("max_hr") or "—")
+        elev  = act.get("elevation_m") or 0
+        cal   = act.get("calories") or "—"
+        has_route = "🗺" if act.get("route") else ""
+        acts_rows += f"<tr><td>{d[5:]} {t}</td><td>{has_route} {name}</td><td>{km:.1f} km</td><td>{p}</td><td>{hr_s}</td><td>{max_hr_s}</td><td>{dur_str(mins)}</td><td>{elev:.0f} m</td><td>{cal}</td></tr>\n"
 
+    # ── training phase timeline ──
     phase_html = ""
     for phase in context.get("training_phases", []):
         ps, pe = phase["start"], phase["end"]
@@ -311,6 +369,7 @@ def generate_html(data, context, coaching_text):
           <div class="phase-right"><span class="phase-dates">{ps[5:]} – {pe[5:]}</span><span class="phase-focus">{phase['focus']}</span></div>
         </div>\n"""
 
+    # ── coach HTML ──
     coach_html = ""
     for para in coaching_text.strip().split("\n"):
         para = para.strip()
@@ -320,14 +379,17 @@ def generate_html(data, context, coaching_text):
         coach_html += f"<p>{para}</p>\n"
 
     synced_at = (data.get("synced_at") or today.isoformat())[:10]
+    athlete   = context.get("athlete_name", "Amanda")
+    leaflet   = '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">\n<script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>' if map_js else ""
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{context.get('athlete_name','Amanda')} · Training Dashboard</title>
+<title>{athlete} · Training Dashboard</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+{leaflet}
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}}
@@ -338,23 +400,34 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgro
 .pill{{display:inline-block;padding:4px 12px;border-radius:20px;font-size:0.75rem;font-weight:600}}
 .pill-purple{{background:#2e1065;border:1px solid #a855f7;color:#d8b4fe}}
 .pill-green{{background:#052e16;border:1px solid #22c55e;color:#86efac}}
+.pill-blue{{background:#0c1a2e;border:1px solid #3b82f6;color:#93c5fd}}
 .wrap{{max-width:900px;margin:0 auto;padding:14px}}
 .sec{{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#475569;margin:22px 0 8px}}
-.cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}}
+/* stat grid */
+.stat-wrap{{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start}}
+.acwr-card{{background:#1e293b;border-radius:10px;padding:14px 16px;border:2px solid {acwr_color};min-width:110px;text-align:center}}
+.acwr-card .lbl{{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}}
+.acwr-card .score{{font-size:2.8rem;font-weight:800;color:{acwr_color};line-height:1}}
+.acwr-card .level{{font-size:0.8rem;color:{acwr_color};font-weight:700;margin-top:3px;text-transform:uppercase}}
+.cards{{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px}}
 .card{{background:#1e293b;border-radius:10px;padding:12px;border:1px solid #334155}}
 .card .lbl{{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}}
 .card .val{{font-size:1.5rem;font-weight:700;color:#f1f5f9;line-height:1}}
 .card .sub2{{font-size:0.7rem;color:#94a3b8;margin-top:2px}}
+/* coach */
 .coach-card{{background:#1e293b;border-radius:10px;padding:16px;border-left:3px solid #a855f7}}
 .coach-card p{{font-size:0.88rem;line-height:1.65;color:#cbd5e1}}
 .coach-card p+p{{margin-top:8px}}
 .coach-card strong{{color:#f1f5f9}}
+/* generic box */
 .box{{background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155;margin-bottom:8px}}
 .box h3{{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:#475569;margin-bottom:10px}}
+/* table */
 table{{width:100%;border-collapse:collapse;font-size:0.78rem}}
 th{{text-align:left;color:#475569;font-weight:600;font-size:0.65rem;text-transform:uppercase;letter-spacing:.04em;padding:5px 6px;border-bottom:1px solid #334155}}
 td{{padding:7px 6px;border-bottom:1px solid #1e293b;color:#cbd5e1}}
 tr:last-child td{{border-bottom:none}}
+/* phases */
 .phase{{display:flex;justify-content:space-between;align-items:center;padding:8px 12px;border-radius:8px;margin-bottom:5px;gap:12px}}
 .phase-past{{background:#0f172a;opacity:.5}}
 .phase-current{{background:#2e1065;border:1px solid #a855f7}}
@@ -367,17 +440,18 @@ tr:last-child td{{border-bottom:none}}
 .phase-focus{{font-size:0.73rem;color:#94a3b8;text-align:right}}
 .phase-current .phase-focus{{color:#d8b4fe}}
 .now-tag{{background:#a855f7;color:#fff;font-size:0.6rem;font-weight:700;padding:2px 6px;border-radius:4px;text-transform:uppercase}}
+/* run review */
 .run-review{{background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155;margin-bottom:8px}}
-.run-header{{margin-bottom:12px}}
 .run-title{{font-size:1rem;font-weight:700;color:#f1f5f9}}
 .run-date{{font-size:0.72rem;color:#64748b;margin-top:2px}}
-.run-stat-row{{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}}
-.run-stat{{display:flex;flex-direction:column;min-width:60px}}
+.run-stat-row{{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}}
+.run-stat{{display:flex;flex-direction:column;min-width:62px}}
 .rs-val{{font-size:0.95rem;font-weight:700;color:#f1f5f9}}
 .rs-lbl{{font-size:0.62rem;color:#64748b;text-transform:uppercase;letter-spacing:.04em;margin-top:1px}}
-.run-verdict{{background:#0f172a;border-radius:8px;padding:10px 12px;font-size:0.82rem;color:#94a3b8;margin-top:10px;line-height:1.5}}
+.run-verdict{{background:#0f172a;border-radius:8px;padding:10px 12px;font-size:0.82rem;color:#94a3b8;margin-top:12px;line-height:1.5}}
 .footer{{font-size:0.65rem;color:#334155;text-align:center;padding:20px 0 12px}}
-@media(max-width:520px){{
+@media(max-width:560px){{
+  .stat-wrap{{grid-template-columns:1fr}}
   .cards{{grid-template-columns:repeat(2,1fr)}}
   .phase-right{{display:none}}
 }}
@@ -386,23 +460,31 @@ tr:last-child td{{border-bottom:none}}
 <body>
 <div class="header">
 <div style="max-width:900px;margin:0 auto">
-  <h1>🏃‍♀️ {context.get('athlete_name','Amanda')} · Training Dashboard</h1>
-  <div class="sub">{context.get('race_name','Race')} · Target {context.get('target_time','')}</div>
+  <h1>🏃‍♀️ {athlete} · Training Dashboard</h1>
+  <div class="sub">{context.get('race_name','Kiprun Singapore Half Marathon')} · Target {context.get('target_time','2:30')}</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 {days_to_race} days to race</span>
-    <span class="pill pill-green">Updated {synced_at}</span>
+    <span class="pill pill-green">Synced {synced_at}</span>
+    <span class="pill pill-blue">📍 {total_runs} runs · {total_km:.0f} km total</span>
   </div>
 </div>
 </div>
 
 <div class="wrap">
 
-<div class="sec">This Week</div>
-<div class="cards">
-  <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.3rem">{km_7d:.1f} km</div><div class="sub2">{count_7d} run{'s' if count_7d != 1 else ''} this week</div></div>
-  <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.3rem">{elev_7d:.0f} m</div><div class="sub2">gain this week</div></div>
-  <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.3rem">{longest:.1f} km</div><div class="sub2">all time</div></div>
-  <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.3rem">{context.get('target_time','2:30')}</div><div class="sub2">{context.get('target_pace_per_km','7:06')}/km</div></div>
+<div class="sec">This Week's Load</div>
+<div class="stat-wrap">
+  <div class="acwr-card">
+    <div class="lbl">ACWR</div>
+    <div class="score">{acwr_s}</div>
+    <div class="level">{acwr_status}</div>
+  </div>
+  <div class="cards" style="margin:0">
+    <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.2rem">{km_7d:.1f} km</div><div class="sub2">{count_7d} run{'s' if count_7d != 1 else ''} · prev {km_prev:.1f} km</div></div>
+    <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">{elev_7d:.0f} m</div><div class="sub2">gain this week</div></div>
+    <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.2rem">{longest:.1f} km</div><div class="sub2">all time</div></div>
+    <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.2rem">{context.get('target_time','2:30')}</div><div class="sub2">{context.get('target_pace_per_km','7:06')}/km</div></div>
+  </div>
 </div>
 
 <div class="sec">Daily Coach</div>
@@ -411,20 +493,20 @@ tr:last-child td{{border-bottom:none}}
 </div>
 
 <div class="sec">Latest Run Review</div>
-{run_review_html if run_review_html else '<div class="box" style="color:#475569;font-size:0.85rem;padding:14px">No runs synced yet — check back after your next run!</div>'}
+{run_review_html if run_review_html else '<div class="box" style="color:#475569;font-size:0.85rem;padding:14px">No runs synced yet.</div>'}
 
 <div class="sec">14-Week Volume</div>
 <div class="box"><h3>Weekly Distance (km)</h3><canvas id="vol" height="80"></canvas></div>
 
-<div class="sec">Pace &amp; HR Trends</div>
-<div class="box"><h3>Avg Pace — last 10 runs (min/km)</h3><canvas id="pace" height="75"></canvas></div>
-<div class="box"><h3>Avg Heart Rate — last 10 runs (bpm)</h3><canvas id="hr" height="75"></canvas></div>
+<div class="sec">Pace &amp; HR Trends — last 10 runs</div>
+<div class="box"><h3>Avg Pace (min/km)</h3><canvas id="pace" height="75"></canvas></div>
+<div class="box"><h3>Avg Heart Rate (bpm)</h3><canvas id="hr" height="75"></canvas></div>
 
 <div class="sec">Recent Activities</div>
 <div class="box" style="overflow-x:auto">
   <table>
-    <thead><tr><th>Date</th><th>Name</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
-    <tbody>{acts_rows if acts_rows else '<tr><td colspan="8" style="color:#475569;text-align:center;padding:20px">No activities yet</td></tr>'}</tbody>
+    <thead><tr><th>Date/Time</th><th>Name</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Max HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
+    <tbody>{acts_rows if acts_rows else '<tr><td colspan="9" style="color:#475569;text-align:center;padding:20px">No activities yet</td></tr>'}</tbody>
   </table>
 </div>
 
@@ -433,7 +515,7 @@ tr:last-child td{{border-bottom:none}}
   {phase_html}
 </div>
 
-<div class="footer">Strava → Intervals.icu · auto-synced twice daily</div>
+<div class="footer">Strava → Intervals.icu · auto-synced 4 AM &amp; 4 PM SGT · <a href="https://github.com/reubenchuaa/amanda-health-ai" style="color:#475569">reubenchuaa/amanda-health-ai</a></div>
 </div>
 
 <script>
@@ -460,6 +542,7 @@ new Chart(document.getElementById('hr'), {{
   data: {{ labels: {run_labels}, datasets: [{{ label: 'bpm', data: {run_hr}, borderColor: '#ef4444', backgroundColor: 'rgba(239,68,68,.1)', fill: true, tension: .35, pointRadius: 4 }}] }},
   options: opt()
 }});
+{map_js}
 </script>
 </body>
 </html>"""
@@ -468,9 +551,16 @@ new Chart(document.getElementById('hr'), {{
 
 if __name__ == "__main__":
     DOCS_DIR.mkdir(exist_ok=True)
-    data     = load_data()
-    context  = load_context()
-    coaching = get_coaching(data, context)
-    html     = generate_html(data, context, coaching)
+    data    = load_data()
+    context = load_context()
+
+    if COACH_FILE.exists():
+        print("Using AI coach note...")
+        coaching = COACH_FILE.read_text().strip()
+    else:
+        print("Generating rule-based coaching...")
+        coaching = get_coaching(data, context)
+
+    html = generate_html(data, context, coaching)
     OUTPUT_FILE.write_text(html)
     print(f"Dashboard written → {OUTPUT_FILE}")

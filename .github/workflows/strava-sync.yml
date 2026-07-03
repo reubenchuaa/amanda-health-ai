@@ -28,7 +28,7 @@ jobs:
         env:
           INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
           INTERVALS_ATHLETE_ID: ${{ secrets.INTERVALS_ATHLETE_ID }}
-        run: python3 sync.py 14
+        run: python3 sync.py 7
 
       - name: Generate dashboard
         run: python3 generate_dashboard.py

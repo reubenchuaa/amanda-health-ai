@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Amanda · Training Dashboard</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}
@@ -15,23 +17,34 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .pill{display:inline-block;padding:4px 12px;border-radius:20px;font-size:0.75rem;font-weight:600}
 .pill-purple{background:#2e1065;border:1px solid #a855f7;color:#d8b4fe}
 .pill-green{background:#052e16;border:1px solid #22c55e;color:#86efac}
+.pill-blue{background:#0c1a2e;border:1px solid #3b82f6;color:#93c5fd}
 .wrap{max-width:900px;margin:0 auto;padding:14px}
 .sec{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#475569;margin:22px 0 8px}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+/* stat grid */
+.stat-wrap{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start}
+.acwr-card{background:#1e293b;border-radius:10px;padding:14px 16px;border:2px solid #64748b;min-width:110px;text-align:center}
+.acwr-card .lbl{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}
+.acwr-card .score{font-size:2.8rem;font-weight:800;color:#64748b;line-height:1}
+.acwr-card .level{font-size:0.8rem;color:#64748b;font-weight:700;margin-top:3px;text-transform:uppercase}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px}
 .card{background:#1e293b;border-radius:10px;padding:12px;border:1px solid #334155}
 .card .lbl{font-size:0.65rem;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}
 .card .val{font-size:1.5rem;font-weight:700;color:#f1f5f9;line-height:1}
 .card .sub2{font-size:0.7rem;color:#94a3b8;margin-top:2px}
+/* coach */
 .coach-card{background:#1e293b;border-radius:10px;padding:16px;border-left:3px solid #a855f7}
 .coach-card p{font-size:0.88rem;line-height:1.65;color:#cbd5e1}
 .coach-card p+p{margin-top:8px}
 .coach-card strong{color:#f1f5f9}
+/* generic box */
 .box{background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155;margin-bottom:8px}
 .box h3{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:#475569;margin-bottom:10px}
+/* table */
 table{width:100%;border-collapse:collapse;font-size:0.78rem}
 th{text-align:left;color:#475569;font-weight:600;font-size:0.65rem;text-transform:uppercase;letter-spacing:.04em;padding:5px 6px;border-bottom:1px solid #334155}
 td{padding:7px 6px;border-bottom:1px solid #1e293b;color:#cbd5e1}
 tr:last-child td{border-bottom:none}
+/* phases */
 .phase{display:flex;justify-content:space-between;align-items:center;padding:8px 12px;border-radius:8px;margin-bottom:5px;gap:12px}
 .phase-past{background:#0f172a;opacity:.5}
 .phase-current{background:#2e1065;border:1px solid #a855f7}
@@ -44,17 +57,18 @@ tr:last-child td{border-bottom:none}
 .phase-focus{font-size:0.73rem;color:#94a3b8;text-align:right}
 .phase-current .phase-focus{color:#d8b4fe}
 .now-tag{background:#a855f7;color:#fff;font-size:0.6rem;font-weight:700;padding:2px 6px;border-radius:4px;text-transform:uppercase}
+/* run review */
 .run-review{background:#1e293b;border-radius:10px;padding:14px;border:1px solid #334155;margin-bottom:8px}
-.run-header{margin-bottom:12px}
 .run-title{font-size:1rem;font-weight:700;color:#f1f5f9}
 .run-date{font-size:0.72rem;color:#64748b;margin-top:2px}
-.run-stat-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
-.run-stat{display:flex;flex-direction:column;min-width:60px}
+.run-stat-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:12px}
+.run-stat{display:flex;flex-direction:column;min-width:62px}
 .rs-val{font-size:0.95rem;font-weight:700;color:#f1f5f9}
 .rs-lbl{font-size:0.62rem;color:#64748b;text-transform:uppercase;letter-spacing:.04em;margin-top:1px}
-.run-verdict{background:#0f172a;border-radius:8px;padding:10px 12px;font-size:0.82rem;color:#94a3b8;margin-top:10px;line-height:1.5}
+.run-verdict{background:#0f172a;border-radius:8px;padding:10px 12px;font-size:0.82rem;color:#94a3b8;margin-top:12px;line-height:1.5}
 .footer{font-size:0.65rem;color:#334155;text-align:center;padding:20px 0 12px}
-@media(max-width:520px){
+@media(max-width:560px){
+  .stat-wrap{grid-template-columns:1fr}
   .cards{grid-template-columns:repeat(2,1fr)}
   .phase-right{display:none}
 }
@@ -67,19 +81,27 @@ tr:last-child td{border-bottom:none}
   <div class="sub">Kiprun Singapore Half Marathon · Target 2:30</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 85 days to race</span>
-    <span class="pill pill-green">Updated 2026-07-03</span>
+    <span class="pill pill-green">Synced 2026-07-03</span>
+    <span class="pill pill-blue">📍 99 runs · 419 km total</span>
   </div>
 </div>
 </div>
 
 <div class="wrap">
 
-<div class="sec">This Week</div>
-<div class="cards">
-  <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.3rem">6.5 km</div><div class="sub2">1 run this week</div></div>
-  <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.3rem">25 m</div><div class="sub2">gain this week</div></div>
-  <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.3rem">20.9 km</div><div class="sub2">all time</div></div>
-  <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.3rem">2:30</div><div class="sub2">7:06/km</div></div>
+<div class="sec">This Week's Load</div>
+<div class="stat-wrap">
+  <div class="acwr-card">
+    <div class="lbl">ACWR</div>
+    <div class="score">0.66</div>
+    <div class="level">Low load</div>
+  </div>
+  <div class="cards" style="margin:0">
+    <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.2rem">6.5 km</div><div class="sub2">1 run · prev 18.2 km</div></div>
+    <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">25 m</div><div class="sub2">gain this week</div></div>
+    <div class="card"><div class="lbl">Longest Run</div><div class="val" style="font-size:1.2rem">20.9 km</div><div class="sub2">all time</div></div>
+    <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.2rem">2:30</div><div class="sub2">7:06/km</div></div>
+  </div>
 </div>
 
 <div class="sec">Daily Coach</div>
@@ -101,7 +123,7 @@ tr:last-child td{border-bottom:none}
   <div class="run-header">
     <div>
       <div class="run-title">Evening Run</div>
-      <div class="run-date">2026-07-01</div>
+      <div class="run-date">🕐 2026-07-01 10:45:45</div>
     </div>
     <div class="run-stat-row">
       <div class="run-stat"><span class="rs-val">6.54 km</span><span class="rs-lbl">Distance</span></div>
@@ -114,28 +136,31 @@ tr:last-child td{border-bottom:none}
       <div class="run-stat"><span class="rs-val">271</span><span class="rs-lbl">Calories</span></div>
     </div>
   </div>
-  <div class="run-verdict">💬 HR at 161 bpm — above easy zone. Slow down: if you can't chat, you're going too hard.</div>
+  <div id="runmap" style="height:220px;border-radius:8px;margin-top:12px;overflow:hidden"></div>
+  <div class="run-verdict">💬 HR at 161 bpm — above easy zone (cap: 145 bpm). Slow down next time.</div>
 </div>
 
 <div class="sec">14-Week Volume</div>
 <div class="box"><h3>Weekly Distance (km)</h3><canvas id="vol" height="80"></canvas></div>
 
-<div class="sec">Pace &amp; HR Trends</div>
-<div class="box"><h3>Avg Pace — last 10 runs (min/km)</h3><canvas id="pace" height="75"></canvas></div>
-<div class="box"><h3>Avg Heart Rate — last 10 runs (bpm)</h3><canvas id="hr" height="75"></canvas></div>
+<div class="sec">Pace &amp; HR Trends — last 10 runs</div>
+<div class="box"><h3>Avg Pace (min/km)</h3><canvas id="pace" height="75"></canvas></div>
+<div class="box"><h3>Avg Heart Rate (bpm)</h3><canvas id="hr" height="75"></canvas></div>
 
 <div class="sec">Recent Activities</div>
 <div class="box" style="overflow-x:auto">
   <table>
-    <thead><tr><th>Date</th><th>Name</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
-    <tbody><tr><td>07-01</td><td>Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
-<tr><td>07-01</td><td>Evening Run</td><td>6.5 km</td><td>7:58/km</td><td>161</td><td>52m</td><td>25 m</td><td>271</td></tr>
-<tr><td>06-27</td><td>Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
-<tr><td>06-26</td><td>Morning Run</td><td>10.2 km</td><td>7:56/km</td><td>175</td><td>1h 20m</td><td>43 m</td><td>504</td></tr>
-<tr><td>06-25</td><td>Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
-<tr><td>06-25</td><td>Evening Run</td><td>8.0 km</td><td>7:24/km</td><td>177</td><td>59m</td><td>19 m</td><td>389</td></tr>
-<tr><td>06-24</td><td>Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
-<tr><td>06-22</td><td>Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+    <thead><tr><th>Date/Time</th><th>Name</th><th>Dist</th><th>Pace</th><th>Avg HR</th><th>Max HR</th><th>Time</th><th>Elev</th><th>Cal</th></tr></thead>
+    <tbody><tr><td>07-01 18:45</td><td> Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+<tr><td>07-01 10:45</td><td>🗺 Evening Run</td><td>6.5 km</td><td>7:58/km</td><td>161</td><td>188</td><td>52m</td><td>25 m</td><td>271</td></tr>
+<tr><td>06-27 06:58</td><td> Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+<tr><td>06-26 22:58</td><td>🗺 Morning Run</td><td>10.2 km</td><td>7:56/km</td><td>175</td><td>189</td><td>1h 20m</td><td>43 m</td><td>504</td></tr>
+<tr><td>06-25 18:59</td><td> Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+<tr><td>06-25 10:59</td><td>🗺 Evening Run</td><td>8.0 km</td><td>7:24/km</td><td>177</td><td>191</td><td>59m</td><td>19 m</td><td>389</td></tr>
+<tr><td>06-24 21:24</td><td> Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+<tr><td>06-22 20:57</td><td> Activity</td><td>0.0 km</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0 m</td><td>—</td></tr>
+<tr><td>06-12 23:23</td><td>🗺 Morning Run</td><td>8.1 km</td><td>7:40/km</td><td>168</td><td>181</td><td>1h 2m</td><td>59 m</td><td>389</td></tr>
+<tr><td>06-11 10:58</td><td>🗺 Evening Run</td><td>6.6 km</td><td>7:31/km</td><td>167</td><td>181</td><td>50m</td><td>49 m</td><td>320</td></tr>
 </tbody>
   </table>
 </div>
@@ -177,7 +202,7 @@ tr:last-child td{border-bottom:none}
 
 </div>
 
-<div class="footer">Strava → Intervals.icu · auto-synced twice daily</div>
+<div class="footer">Strava → Intervals.icu · auto-synced 4 AM &amp; 4 PM SGT · <a href="https://github.com/reubenchuaa/amanda-health-ai" style="color:#475569">reubenchuaa/amanda-health-ai</a></div>
 </div>
 
 <script>
@@ -204,6 +229,21 @@ new Chart(document.getElementById('hr'), {
   data: { labels: ["05-02", "05-09", "05-31", "06-05", "06-06", "06-11", "06-12", "06-25", "06-26", "07-01"], datasets: [{ label: 'bpm', data: [147.0,164.0,169.0,172.0,168.0,167.0,168.0,177.0,175.0,161.0], borderColor: '#ef4444', backgroundColor: 'rgba(239,68,68,.1)', fill: true, tension: .35, pointRadius: 4 }] },
   options: opt()
 });
+
+// Leaflet route map
+(function(){
+  var coords = [[1.303707, 103.876217], [1.30367, 103.875949], [1.303581, 103.875803], [1.303355, 103.875791], [1.303151, 103.875641], [1.302999, 103.875442], [1.302846, 103.875233], [1.302741, 103.875005], [1.302651, 103.874774], [1.302612, 103.874534], [1.302587, 103.874258], [1.302441, 103.874119], [1.302254, 103.874013], [1.302113, 103.873839], [1.301992, 103.873637], [1.301883, 103.873434], [1.30175, 103.873219], [1.301604, 103.87307], [1.301414, 103.873115], [1.301236, 103.873217], [1.301045, 103.873311], [1.300856, 103.873446], [1.300631, 103.873522], [1.300393, 103.873498], [1.300185, 103.873532], [1.300035, 103.873686], [1.299909, 103.87387], [1.299792, 103.874061], [1.299586, 103.874035], [1.299414, 103.873926], [1.299233, 103.873809], [1.29905, 103.873689], [1.298852, 103.873574], [1.298653, 103.873454], [1.298501, 103.873278], [1.29847, 103.873043], [1.298426, 103.872811], [1.298343, 103.872591], [1.298383, 103.872367], [1.298473, 103.872153], [1.29854, 103.871949], [1.29851, 103.871749], [1.298405, 103.87155], [1.298335, 103.87134], [1.298276, 103.87113], [1.298219, 103.870919], [1.298153, 103.870711], [1.298096, 103.870492], [1.298053, 103.870269], [1.298009, 103.870045], [1.297955, 103.869837], [1.297925, 103.869639], [1.297917, 103.86943], [1.297925, 103.86922], [1.297938, 103.868986], [1.297927, 103.868742], [1.29793, 103.868519], [1.297932, 103.868301], [1.29795, 103.868093], [1.297934, 103.867876], [1.297928, 103.867643], [1.298066, 103.867477], [1.298293, 103.867429], [1.29844, 103.867277], [1.298524, 103.86708], [1.298518, 103.86686], [1.298457, 103.86666], [1.298352, 103.866474], [1.298203, 103.866359], [1.298041, 103.866291], [1.297863, 103.866236], [1.297666, 103.866203], [1.29748, 103.866166], [1.297303, 103.866138], [1.297136, 103.866119], [1.296951, 103.866117], [1.296763, 103.866106], [1.296572, 103.866117], [1.296374, 103.866111], [1.29617, 103.866105], [1.295968, 103.866117], [1.295765, 103.866148], [1.295558, 103.866161], [1.295367, 103.866194], [1.295155, 103.866231], [1.294943, 103.866274], [1.294745, 103.866323], [1.294574, 103.866413], [1.29441, 103.866501], [1.29422, 103.866513], [1.294035, 103.866535], [1.293828, 103.866581], [1.293625, 103.866659], [1.293431, 103.866747], [1.293228, 103.866799], [1.293039, 103.866868], [1.29284, 103.866931], [1.292648, 103.867006], [1.29245, 103.867053], [1.292257, 103.867111], [1.292073, 103.867192], [1.291882, 103.867256], [1.291683, 103.867332], [1.291476, 103.867414], [1.291278, 103.867493], [1.291084, 103.867577], [1.290872, 103.867653], [1.290684, 103.867733], [1.290487, 103.867815], [1.290292, 103.867914], [1.290108, 103.868001], [1.289913, 103.868111], [1.289717, 103.868209], [1.289524, 103.868292], [1.289337, 103.868389], [1.289134, 103.868447], [1.288944, 103.868531], [1.28876, 103.868628], [1.288585, 103.868725], [1.288401, 103.868831], [1.288215, 103.86894], [1.288024, 103.869055], [1.287832, 103.869171], [1.287644, 103.869283], [1.287475, 103.86941], [1.287306, 103.869515], [1.287128, 103.869629], [1.286953, 103.869753], [1.286786, 103.869891], [1.286612, 103.870018], [1.286421, 103.870134], [1.286241, 103.87027], [1.28606, 103.870389], [1.2859, 103.870513], [1.28576, 103.870641], [1.285601, 103.870762], [1.285445, 103.870875], [1.285292, 103.871005], [1.285145, 103.871138], [1.284993, 103.871266], [1.284828, 103.871387], [1.284672, 103.871523], [1.284513, 103.871665], [1.284358, 103.8718], [1.284218, 103.871941], [1.284055, 103.872082], [1.2839, 103.872227], [1.283775, 103.872407], [1.283615, 103.872556], [1.283461, 103.872713], [1.28334, 103.872878], [1.283229, 103.873051], [1.283103, 103.873224], [1.282915, 103.873347], [1.282709, 103.873434], [1.28252, 103.873564], [1.282344, 103.87367], [1.28215, 103.873615], [1.282027, 103.873455], [1.281908, 103.873293], [1.281783, 103.873136], [1.281674, 103.872972], [1.281548, 103.87281], [1.281426, 103.872643], [1.2813, 103.872474], [1.281174, 103.872312], [1.28105, 103.872144], [1.280925, 103.871973], [1.280801, 103.871797], [1.280669, 103.871622], [1.280539, 103.871442], [1.280415, 103.87127], [1.280329, 103.871108], [1.280254, 103.87095], [1.280443, 103.870849], [1.280662, 103.870778], [1.28085, 103.870661], [1.281024, 103.870536], [1.281191, 103.87041], [1.281368, 103.870281], [1.281544, 103.870154], [1.281713, 103.870022], [1.28184, 103.86984], [1.28194, 103.869649], [1.282054, 103.86949], [1.28215, 103.869433], [1.282287, 103.869275], [1.282417, 103.869058], [1.282546, 103.868857], [1.282691, 103.868666], [1.282855, 103.868489], [1.282971, 103.868274], [1.282856, 103.868127], [1.282649, 103.868063], [1.282581, 103.867846], [1.282427, 103.867698], [1.28218, 103.867663], [1.28195, 103.867592], [1.281822, 103.86739], [1.281748, 103.867166], [1.281886, 103.866965], [1.282063, 103.866815], [1.282289, 103.866903], [1.28252, 103.86699], [1.282702, 103.866902], [1.282899, 103.866771], [1.283122, 103.866651], [1.283343, 103.866581], [1.283575, 103.866685], [1.283828, 103.866622], [1.284002, 103.866465], [1.284165, 103.866301], [1.284235, 103.86609], [1.284271, 103.865896], [1.28425, 103.865718], [1.284438, 103.865521], [1.28466, 103.865302], [1.284819, 103.865069], [1.284938, 103.864836], [1.284997, 103.864619], [1.285011, 103.864391], [1.285038, 103.864168], [1.284994, 103.863964], [1.285092, 103.863713], [1.285256, 103.863511], [1.285423, 103.863312], [1.285535, 103.863091], [1.285594, 103.862845], [1.285634, 103.862604], [1.285663, 103.862361], [1.28572, 103.862129], [1.285804, 103.861892], [1.285924, 103.861678], [1.286022, 103.861435], [1.286111, 103.861208], [1.286183, 103.861005], [1.286267, 103.860777], [1.286321, 103.860519], [1.286341, 103.860294], [1.286316, 103.860059], [1.28622, 103.859945], [1.286109, 103.859772], [1.286007, 103.859574], [1.285834, 103.859412], [1.285649, 103.859253], [1.285409, 103.859164], [1.285149, 103.859131], [1.28489, 103.859047], [1.284658, 103.858942], [1.28442, 103.858836]];
+  var map = L.map('runmap', {zoomControl:true, attributionControl:false});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    {subdomains:'abcd',maxZoom:19}).addTo(map);
+  var poly = L.polyline(coords, {color:'#a855f7',weight:3,opacity:.9}).addTo(map);
+  // start/end markers
+  var startIcon = L.divIcon({html:'<div style="width:10px;height:10px;border-radius:50%;background:#10b981;border:2px solid #fff"></div>',iconSize:[10,10],className:''});
+  var endIcon   = L.divIcon({html:'<div style="width:10px;height:10px;border-radius:50%;background:#ef4444;border:2px solid #fff"></div>',iconSize:[10,10],className:''});
+  L.marker(coords[0], {icon:startIcon}).addTo(map);
+  L.marker(coords[coords.length-1], {icon:endIcon}).addTo(map);
+  map.fitBounds(poly.getBounds(), {padding:[12,12]});
+})();
 </script>
 </body>
 </html>
