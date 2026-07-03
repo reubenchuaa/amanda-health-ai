@@ -147,7 +147,8 @@ def sync(days=14):
         else:
             existing.setdefault("daily", []).append(d)
 
-    existing["synced_at"] = today.isoformat() + "T00:00:00"
+    from datetime import datetime
+    existing["synced_at"] = datetime.now().strftime("%Y-%m-%dT%H:%M")
 
     DATA_FILE.write_text(json.dumps(existing, indent=2, default=str))
     print(f"\n  Saved → health/data.json")
