@@ -2,8 +2,13 @@ name: Health Dashboard
 
 on:
   schedule:
-    - cron: '0 20 * * *'   # 4 AM Singapore time (UTC+8)
-    - cron: '0 8 * * *'    # 4 PM Singapore time (UTC+8)
+    - cron: '0 23 * * *'   # 7 AM SGT
+    - cron: '0  2 * * *'   # 10 AM SGT
+    - cron: '0  4 * * *'   # 12 PM SGT
+    - cron: '0  7 * * *'   # 3 PM SGT
+    - cron: '0 10 * * *'   # 6 PM SGT
+    - cron: '0 13 * * *'   # 9 PM SGT
+    - cron: '0 16 * * *'   # 12 AM SGT
   workflow_dispatch:
 
 jobs:
