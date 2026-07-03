@@ -1,5 +1,187 @@
 {
-  "synced_at": "",
-  "workouts": [],
-  "daily": []
+  "synced_at": "2026-07-03T00:00:00",
+  "workouts": [
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-07-01T18:45:45",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    },
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-06-27T06:58:54",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    },
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-06-25T18:59:43",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    },
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-06-24T21:24:19",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    },
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-06-22T20:57:49",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-06-19",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-20",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-21",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-22",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-23",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-24",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-25",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-26",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-27",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-28",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-29",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-06-30",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-07-01",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-07-02",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    },
+    {
+      "date": "2026-07-03",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
+      "active_energy": null
+    }
+  ]
 }

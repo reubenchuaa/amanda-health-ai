@@ -1,15 +1,13 @@
 name: Health Dashboard
 
 on:
-  push:
-    paths:
-      - 'health/data.json'   # triggers whenever iPhone Shortcut pushes new data
   schedule:
-    - cron: '0 20 * * *'    # 4 AM Singapore time (UTC+8) fallback rebuild
+    - cron: '0 20 * * *'   # 4 AM Singapore time (UTC+8)
+    - cron: '0 8 * * *'    # 4 PM Singapore time (UTC+8)
   workflow_dispatch:
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,6 +21,15 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync from Intervals.icu
+        env:
+          INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+          INTERVALS_ATHLETE_ID: ${{ secrets.INTERVALS_ATHLETE_ID }}
+        run: python3 sync.py 14
+
       - name: Generate dashboard
         run: python3 generate_dashboard.py
 
@@ -30,6 +37,6 @@ jobs:
         run: |
           git config user.name "Health Sync Bot"
           git config user.email "sync@health-ai"
-          git add docs/
-          git diff --cached --quiet || git commit -m "dashboard: $(date -u '+%Y-%m-%d %H:%M')"
+          git add health/ docs/
+          git diff --cached --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d')"
           git push
