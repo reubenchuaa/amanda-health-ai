@@ -245,14 +245,8 @@ def generate_html(data, context, coaching_text):
     w_steps     = wellness.get("steps") if wellness else None
     w_sleep     = wellness.get("sleep_hours") if wellness else None
     w_rhr_s     = f"{w_rhr} bpm" if w_rhr else "—"
-    w_hrv_s     = f"{w_hrv:.0f} ms" if w_hrv else "—"
     w_steps_s   = f"{w_steps:,}" if w_steps else "—"
-    w_sleep_s   = f"{int(w_sleep)}h {round((w_sleep%1)*60)}m" if w_sleep else "—"
     w_label     = f"as of {w_date[5:]}" if w_date else ""
-    # HRV colour coding
-    hrv_color   = "#64748b"
-    if w_hrv:
-        hrv_color = "#10b981" if w_hrv >= 55 else ("#f59e0b" if w_hrv >= 40 else "#ef4444")
     # RHR colour
     rhr_color   = "#64748b"
     if w_rhr:
@@ -537,9 +531,7 @@ tr:last-child td{{border-bottom:none}}
 <div class="sec">Today's Health {f'<span style="font-size:0.6rem;color:#334155;font-weight:400;text-transform:none;letter-spacing:0">({w_label})</span>' if w_label else ''}</div>
 <div class="cards">
   <div class="card"><div class="lbl">Resting HR</div><div class="val" style="color:{rhr_color}">{w_rhr_s}</div><div class="sub2">Apple Watch</div></div>
-  <div class="card"><div class="lbl">HRV</div><div class="val" style="color:{hrv_color}">{w_hrv_s}</div><div class="sub2">last night</div></div>
   <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.2rem">{w_steps_s}</div><div class="sub2">yesterday</div></div>
-  <div class="card"><div class="lbl">Sleep</div><div class="val" style="font-size:1.2rem">{w_sleep_s}</div><div class="sub2">last night</div></div>
 </div>
 
 <div class="sec">Daily Coach</div>
