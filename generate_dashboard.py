@@ -97,8 +97,8 @@ def get_coaching(data, context):
             break
     phase_name = current_phase["name"] if current_phase else "Training"
 
-    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=7)).isoformat()]
-    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=14)).isoformat()]
+    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
+    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=13)).isoformat()]
     km_7d    = sum((w.get("distance_km") or 0) for w in runs_7d)
     km_14d   = sum((w.get("distance_km") or 0) for w in runs_14d)
     km_prev  = km_14d - km_7d
@@ -249,8 +249,8 @@ def generate_html(data, context, coaching_text):
     recent10   = get_recent_runs(data, 10)[::-1]
     run_labels = json.dumps([(r.get("start") or "")[:10][5:] for r in recent10])
     run_pace   = js_arr([
-        round(r["duration_mins"] / r["distance_km"], 2)
-        if r.get("distance_km") and r.get("duration_mins") and r["distance_km"] > 0 else None
+        round(r.get("duration_mins") / r.get("distance_km"), 2)
+        if r.get("distance_km") and r.get("duration_mins") and r.get("distance_km") > 0 else None
         for r in recent10
     ])
     run_hr = js_arr([r.get("avg_hr") for r in recent10])
@@ -338,9 +338,10 @@ def generate_html(data, context, coaching_text):
   <div class="run-verdict">💬 {verdict}</div>
 </div>"""
 
-    # ── activities table ──
+    # ── activities table — skip phantom zero-distance activities ──
+    real_acts = [w for w in data.get("workouts", []) if (w.get("distance_km") or 0) > 0 or (w.get("duration_mins") or 0) > 0]
     acts_rows = ""
-    for act in sorted(data.get("workouts", []), key=lambda w: w.get("start", ""), reverse=True)[:10]:
+    for act in sorted(real_acts, key=lambda w: w.get("start", ""), reverse=True)[:10]:
         start = act.get("start") or ""
         d     = start[:10]
         t     = start[11:16] if len(start) >= 16 else ""

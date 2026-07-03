@@ -113,7 +113,7 @@ def sync(days=14):
                 "hrv":           w.get("hrv") or w.get("hrvSDNN"),
                 "sleep_hours":   round(w["sleepSecs"] / 3600, 2) if w.get("sleepSecs") else None,
                 "steps":         w.get("steps"),
-                "active_energy": w.get("kcalConsumed") or w.get("calories"),
+                "calories_burned": w.get("calories") or w.get("kcalBurned"),
             }
             print(f"  Wellness: {d}")
     except Exception as e:
