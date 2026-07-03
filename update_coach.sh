@@ -6,6 +6,15 @@ cd /Users/amandakoh/Desktop/strava-ai
 # Pull latest data from GitHub
 git pull --quiet
 
+# Sync fresh run data from Intervals.icu before coach reads it
+# Load API key from local secrets file if not already in environment
+if [ -z "$INTERVALS_API_KEY" ] && [ -f .intervals_secret ]; then
+  export INTERVALS_API_KEY=$(cat .intervals_secret)
+fi
+if [ -n "$INTERVALS_API_KEY" ]; then
+  python3 sync.py 7 2>/dev/null
+fi
+
 # Run Claude to reason about the data and write coach_note.md
 /opt/homebrew/bin/claude --dangerously-skip-permissions -p "
 You are an expert running coach for Amanda. Read health/data.json and context.json in the current directory.
