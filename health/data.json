@@ -79404,6 +79404,18 @@
       "elevation_m": 0,
       "calories": null,
       "avg_cadence": null
+    },
+    {
+      "type": "WeightTraining",
+      "name": "Functional Strength Training",
+      "start": "2026-07-02T21:12:35",
+      "distance_km": 0,
+      "duration_mins": 50.5,
+      "avg_hr": 119,
+      "max_hr": 158,
+      "elevation_m": 0,
+      "calories": 182,
+      "avg_cadence": null
     }
   ],
   "daily": [
@@ -79527,10 +79539,10 @@
     },
     {
       "date": "2026-07-03",
-      "resting_hr": null,
-      "hrv": null,
+      "resting_hr": 63,
+      "hrv": 51.0,
       "sleep_hours": null,
-      "steps": null,
+      "steps": 6392,
       "active_energy": null,
       "calories_burned": null
     },
