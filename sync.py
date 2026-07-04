@@ -4,7 +4,7 @@
 import json
 import os
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 import requests
 from requests.auth import HTTPBasicAuth
@@ -129,12 +129,18 @@ def sync(days=14):
         except Exception:
             pass
 
-    # Merge workouts
+    # Merge workouts — add new, update existing with richer data
     existing_starts = {w["start"] for w in existing.get("workouts", [])}
     for w in workouts:
         if w["start"] not in existing_starts:
             existing.setdefault("workouts", []).append(w)
             existing_starts.add(w["start"])
+        else:
+            existing["workouts"] = [
+                {**e, **{k: v for k, v in w.items() if v is not None}}
+                if e["start"] == w["start"] else e
+                for e in existing["workouts"]
+            ]
 
     # Merge daily
     existing_dates = {d["date"] for d in existing.get("daily", [])}
@@ -147,8 +153,8 @@ def sync(days=14):
         else:
             existing.setdefault("daily", []).append(d)
 
-    from datetime import datetime
-    existing["synced_at"] = datetime.now().strftime("%Y-%m-%dT%H:%M")
+    sgt_now = datetime.utcnow() + timedelta(hours=8)
+    existing["synced_at"] = sgt_now.strftime("%Y-%m-%dT%H:%M")
 
     DATA_FILE.write_text(json.dumps(existing, indent=2, default=str))
     print(f"\n  Saved → health/data.json")

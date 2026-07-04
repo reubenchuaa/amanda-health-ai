@@ -50,10 +50,12 @@ Tone: warm, friendly, like a supportive friend who happens to be a running coach
 Write ONLY the markdown to health/coach_note.md.
 " 2>/dev/null
 
-# Prepend timestamp to coach note
+# Prepend timestamp to coach note (use temp file to avoid read/write race)
 if [ -f health/coach_note.md ]; then
   TIMESTAMP="_Updated: $(date '+%a, %d %b %Y at %I:%M %p SGT')_"
-  echo -e "$TIMESTAMP\n\n$(cat health/coach_note.md)" > health/coach_note.md
+  TMP=$(mktemp)
+  printf '%s\n\n%s\n' "$TIMESTAMP" "$(cat health/coach_note.md)" > "$TMP"
+  mv "$TMP" health/coach_note.md
 fi
 
 # Regenerate dashboard with new coach note

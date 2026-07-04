@@ -1,17 +1,17 @@
 {
-  "synced_at": "2026-07-04T14:39",
+  "synced_at": "2026-07-05T00:08",
   "workouts": [
     {
-      "type": "",
-      "name": "Activity",
+      "type": "Run",
+      "name": "Evening Run",
       "start": "2026-07-01T18:45:45",
-      "distance_km": 0,
-      "duration_mins": 0,
-      "avg_hr": null,
-      "max_hr": null,
-      "elevation_m": 0,
-      "calories": null,
-      "avg_cadence": null
+      "distance_km": 6.537,
+      "duration_mins": 52.0,
+      "avg_hr": 160,
+      "max_hr": 188,
+      "elevation_m": 58.3,
+      "calories": 271,
+      "avg_cadence": 78.7
     },
     {
       "type": "Run",
@@ -79548,6 +79548,14 @@
     },
     {
       "date": "2026-07-04",
+      "resting_hr": 71,
+      "hrv": 44.0,
+      "sleep_hours": null,
+      "steps": 6521,
+      "calories_burned": null
+    },
+    {
+      "date": "2026-07-05",
       "resting_hr": null,
       "hrv": null,
       "sleep_hours": null,

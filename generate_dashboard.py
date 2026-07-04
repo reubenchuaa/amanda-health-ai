@@ -6,26 +6,19 @@ import re
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-SGT = timedelta(hours=8)
-
-def to_sgt(dt_str):
-    """Convert UTC ISO timestamp string to SGT datetime."""
+def parse_dt(dt_str):
+    """Parse an ISO timestamp string (already in local/SGT time from Intervals.icu)."""
     if not dt_str:
         return None
     try:
-        return datetime.fromisoformat(dt_str[:19]) + SGT
+        return datetime.fromisoformat(dt_str[:19])
     except Exception:
         return None
 
-def sgt_display(dt_str):
-    """Return SGT time as 'DD Mon HH:MM' string."""
-    dt = to_sgt(dt_str)
+def dt_display(dt_str):
+    """Return 'DD Mon HH:MM' from a local timestamp string."""
+    dt = parse_dt(dt_str)
     return dt.strftime("%d %b %H:%M") if dt else "—"
-
-def sgt_date(dt_str):
-    """Return just the SGT date as YYYY-MM-DD."""
-    dt = to_sgt(dt_str)
-    return dt.date().isoformat() if dt else ""
 
 SCRIPT_DIR   = Path(__file__).parent
 DATA_FILE    = SCRIPT_DIR / "health" / "data.json"
@@ -281,7 +274,7 @@ def generate_html(data, context, coaching_text):
 
     # ── pace/HR trend (last 10 runs) ──
     recent10   = get_recent_runs(data, 10)[::-1]
-    run_labels = json.dumps([sgt_display(r.get("start") or "")[:5] for r in recent10])
+    run_labels = json.dumps([dt_display(r.get("start") or "")[:6] for r in recent10])
     run_pace   = js_arr([
         round(r.get("duration_mins") / r.get("distance_km"), 2)
         if r.get("distance_km") and r.get("duration_mins") and r.get("distance_km") > 0 else None
@@ -297,9 +290,9 @@ def generate_html(data, context, coaching_text):
 
     if latest_run:
         lr       = latest_run
-        lr_sgt   = to_sgt(lr.get("start") or "")
-        lr_date  = lr_sgt.strftime("%d %b %Y") if lr_sgt else "—"
-        lr_time  = lr_sgt.strftime("%d %b %Y, %I:%M %p SGT") if lr_sgt else "—"
+        lr_dt    = parse_dt(lr.get("start") or "")
+        lr_date  = lr_dt.strftime("%d %b %Y") if lr_dt else "—"
+        lr_time  = lr_dt.strftime("%d %b %Y, %I:%M %p SGT") if lr_dt else "—"
         lr_name  = lr.get("name") or "Run"
         lr_km    = lr.get("distance_km") or 0
         lr_mins  = lr.get("duration_mins") or 0
@@ -377,9 +370,9 @@ def generate_html(data, context, coaching_text):
     real_acts = [w for w in data.get("workouts", []) if (w.get("distance_km") or 0) > 0 or (w.get("duration_mins") or 0) > 0]
     acts_rows = ""
     for act in sorted(real_acts, key=lambda w: w.get("start", ""), reverse=True)[:10]:
-        act_sgt = to_sgt(act.get("start") or "")
-        d     = act_sgt.strftime("%d %b") if act_sgt else "—"
-        t     = act_sgt.strftime("%I:%M %p") if act_sgt else ""
+        act_dt = parse_dt(act.get("start") or "")
+        d     = act_dt.strftime("%d %b") if act_dt else "—"
+        t     = act_dt.strftime("%I:%M %p") if act_dt else ""
         name  = act.get("name") or act.get("type") or "Activity"
         km    = act.get("distance_km") or 0
         mins  = act.get("duration_mins") or 0
@@ -417,10 +410,9 @@ def generate_html(data, context, coaching_text):
     synced_at = (data.get("synced_at") or today.isoformat())[:16].replace("T", " ")
     coach_updated = ""
     if COACH_FILE.exists():
-        import os
-        from datetime import datetime as dt
-        ts = dt.fromtimestamp(os.path.getmtime(COACH_FILE)).strftime("%d %b %H:%M")
-        coach_updated = ts
+        first_line = COACH_FILE.read_text().split("\n")[0].strip().strip("_")
+        # first_line is like "Updated: Sat, 04 Jul 2026 at 01:59 AM SGT"
+        coach_updated = first_line.replace("Updated: ", "")
     athlete   = context.get("athlete_name", "Amanda")
     leaflet   = '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">\n<script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>' if map_js else ""
 
