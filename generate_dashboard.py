@@ -498,7 +498,7 @@ tr:last-child td{{border-bottom:none}}
   <div class="sub">{context.get('race_name','Kiprun Singapore Half Marathon')} · Target {context.get('target_time','2:30')}</div>
   <div class="pills">
     <span class="pill pill-purple">🏁 {days_to_race} days to race</span>
-    <span class="pill pill-green">🔄 Data synced {synced_at}</span>
+    <span class="pill pill-green">🔄 Data synced {synced_at} SGT</span>
     {'<span class="pill pill-blue">🤖 AI coach ' + coach_updated + '</span>' if coach_updated else ''}
   </div>
 </div>
