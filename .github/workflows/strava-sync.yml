@@ -30,6 +30,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Sync from Intervals.icu
+        continue-on-error: true
         env:
           INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
           INTERVALS_ATHLETE_ID: ${{ secrets.INTERVALS_ATHLETE_ID }}
@@ -43,5 +44,5 @@ jobs:
           git config user.name "Health Sync Bot"
           git config user.email "sync@health-ai"
           git add health/ docs/
-          git diff --cached --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d')"
+          git diff --cached --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d %H:%M')"
           git push

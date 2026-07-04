@@ -45,8 +45,8 @@ def is_run(act):
 
 def sync(days=14):
     if not API_KEY:
-        print("Error: set INTERVALS_API_KEY environment variable")
-        sys.exit(1)
+        print("Warning: INTERVALS_API_KEY not set — skipping sync")
+        return
 
     today     = date.today()
     date_from = (today - timedelta(days=days)).isoformat()
