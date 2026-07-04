@@ -1,17 +1,19 @@
-_Updated: Sat, 04 Jul 2026 at 01:59 AM SGT_
+_Updated: Sun, 05 Jul 2026 at 12:18 AM SGT_
 
-**You're showing up consistently and that 6.5 km on Tuesday proves you're building something real — keep it going!**
+_Updated: Sat, 05 Jul 2026 at 08:00 AM SGT_
+
+**You're back at it — Week 1 of Base Building is yours to own this weekend!**
 
 **How you're doing**
-Your last run (July 1) was a great 6.54 km at about 7:58/km — that's a solid base-building effort. Your HR has been running a little warm lately (avg 161 on Tuesday), which is super common in Singapore's heat — the humidity makes everyone's heart work harder! The good news: just slowing down a touch, even 15–20 seconds per km, will bring that HR down and make your runs feel way more sustainable.
+You put in a great 6.5 km run on Tuesday at a solid ~8:00/km pace — that's a genuinely strong start to your training block! Your legs have had a nice 4-day reset since then, so you're going to feel fresh out there today. Your heart rate has been sitting around 160 bpm on average, which is very common running in Singapore's heat and humidity — it makes everyone's HR spike. The key thing to try: slow down just a touch to a true conversational pace (around 8:30–9:00/km) and watch your HR come down beautifully over the coming weeks.
 
 **Today's session**
-Easy run — 5 to 6 km, feeling relaxed and in control. Try to keep your HR around 140–148 bpm by dialing the pace back to around 8:15–8:30/km, or use a run/walk if needed — there's zero shame in it, it's a legit training tool. Go before 7 am or after 7 pm to beat the heat. Put on a good playlist, take in the view, and just enjoy moving. You've got this!
+Easy run — 5 km at a chatty, relaxed pace. Aim to keep your avg HR under 150 bpm; heading out early morning or after 7 pm will help a lot with the heat. The goal isn't speed — it's time on your feet and building that beautiful habit. If you can hold a full conversation the whole way, you're doing it perfectly. You've got this — this run is going to feel great!
 
 **3-Day Plan**
-- Today (Sat, 4 Jul): Easy 5–6 km @ 8:15–8:30/km, HR ≤ 148 bpm
-- Tomorrow (Sun, 5 Jul): Full rest — let your body absorb the good work
-- Monday (6 Jul): Easy 5–6 km — same relaxed effort, same great energy
+- Today (Sat, 5 Jul): Easy 5 km, conversational pace, cool part of the day
+- Tomorrow (Sun, 6 Jul): Rest day — walk, stretch, recharge
+- Monday (7 Jul): Easy 5–6 km, same relaxed easy effort
 
 **This week's focus**
-You're in Base Building (through July 18) — three easy, aerobic runs a week to wire in the habit and grow your engine. Slow and steady here is the secret weapon for race day. Every km gets you closer to that finish line!
+Base Building is all about consistency over intensity — three easy, joyful runs a week is exactly what will lay the foundation for your sub-2:30 finish in September. Every km gets you closer to that finish line!
