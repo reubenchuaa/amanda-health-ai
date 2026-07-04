@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-05T00:08",
+  "synced_at": "2026-07-05T01:14",
   "workouts": [
     {
       "type": "Run",
@@ -1028,16 +1028,16 @@
       ]
     },
     {
-      "type": "",
-      "name": "Activity",
+      "type": "Run",
+      "name": "Morning Run",
       "start": "2026-06-27T06:58:54",
-      "distance_km": 0,
-      "duration_mins": 0,
-      "avg_hr": null,
-      "max_hr": null,
-      "elevation_m": 0,
-      "calories": null,
-      "avg_cadence": null
+      "distance_km": 10.197,
+      "duration_mins": 80.9,
+      "avg_hr": 175,
+      "max_hr": 189,
+      "elevation_m": 131.8,
+      "calories": 504,
+      "avg_cadence": 80.7
     },
     {
       "type": "Run",
