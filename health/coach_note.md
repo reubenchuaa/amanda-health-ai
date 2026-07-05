@@ -1,17 +1,17 @@
-_Updated: Sun, 05 Jul 2026 at 09:38 AM SGT_
+_Updated: Sun, 05 Jul 2026 at 09:44 AM SGT_
 
-**You nailed your 6.54 km on July 1st — and your body has had 4 great rest days. Today, we go again!**
+**4 days of rest done — time to lace up and keep that Base Building momentum rolling!**
 
 **How you're doing**
-Your July 1 run was a solid 6.54 km at a nice easy 7:57/km pace — right where we want to be for base building. Your avg HR has been around 160 bpm, which sounds high, but honestly? Singapore heat makes everyone's heart work harder — it's totally normal. The tweak to try is just dialing back to a conversational shuffle until your HR settles, and you'll start to see those numbers come down over the coming weeks as your body adapts.
+Your Jul 1 run was a win — 6.54 km in the bag and you're right on track for Base Building! Your avg HR has been sitting around 160–161 bpm lately, which is above the 145 easy cap, but the Singapore heat makes everyone's HR spike so please don't stress about it. The simple fix: ease off the pace by 15–20 seconds per km and let your body breathe — over the next few weeks you'll watch those numbers drop as your fitness climbs.
 
 **Today's session**
-Easy run, 5–6 km. No pressure on pace — just head out and keep it conversational (if you can't chat, slow down just a touch). Aim to keep your HR under 150 bpm; if the heat pushes it up, walk for 30 seconds and let it drift back down. This is going to feel great — your legs are fresh after 4 days off and you'll finish buzzing! You've absolutely got this!
+Easy run today — 5 km at a genuinely comfortable, conversational pace (think 8:10–8:30/km). Use your HR as your guide and aim to keep it under 150 bpm; if you need to slow to a shuffle to get there, that's absolutely the right call. Run in the cooler part of the day if you can (early morning or after 7 pm). You've got this — every easy km is laying the aerobic foundation for race day. Keep it fun!
 
 **3-Day Plan**
-- Today (Sun 5 Jul): Easy 5–6 km, HR under 150, run by feel
-- Tomorrow (Mon 6 Jul): Rest day — walk, stretch, sleep well
-- Tuesday (7 Jul): Easy 5–6 km, same relaxed effort
+- Today (Sunday): 5 km easy, HR under 150, slow and steady wins
+- Tomorrow (Monday): Full rest — walk, stretch, recover well
+- Tuesday: 5–6 km easy, same HR focus — let's see if that pace starts to feel more natural!
 
 **This week's focus**
-We're in Base Building right now — the goal is simply showing up three times this week and keeping it easy and enjoyable, building that habit one run at a time. Every km gets you closer to that finish line in September!
+You're in Base Building — the goal is simply showing up 3× this week at an easy effort and building the running habit that will carry you all the way to September. Every km gets you closer to that finish line!
