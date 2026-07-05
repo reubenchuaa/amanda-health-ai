@@ -304,7 +304,15 @@ def generate_html(data, context, coaching_text):
         lr_cal   = lr.get("calories") or "—"
         lr_cad_raw = lr.get("avg_cadence")
         lr_cad   = f"{lr_cad_raw * 2:.0f} spm" if lr_cad_raw else "—"
-        route    = lr.get("route")
+        # Use route from latest run; if missing, fall back to most recent run with a route
+        route = lr.get("route")
+        if not route:
+            all_runs = get_recent_runs(data, 50)
+            for r in all_runs:
+                if r.get("route"):
+                    route = r.get("route")
+                    break
+
 
         easy_cap = context.get("hr_zones", {}).get("easy_max", 145)
         verdict_parts = []
@@ -407,7 +415,12 @@ def generate_html(data, context, coaching_text):
         para = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', para)
         coach_html += f"<p>{para}</p>\n"
 
-    synced_at = (data.get("synced_at") or today.isoformat())[:16].replace("T", " ")
+    _sat_raw  = data.get("synced_at") or today.isoformat()
+    try:
+        _sat_dt   = datetime.fromisoformat(_sat_raw[:16])
+        synced_at = _sat_dt.strftime("%a, %d %b %Y at %I:%M %p")
+    except Exception:
+        synced_at = _sat_raw[:16].replace("T", " ")
     coach_updated = ""
     if COACH_FILE.exists():
         first_line = COACH_FILE.read_text().split("\n")[0].strip().strip("_")
@@ -520,7 +533,7 @@ tr:last-child td{{border-bottom:none}}
   </div>
 </div>
 
-<div class="sec">Today's Health {f'<span style="font-size:0.6rem;color:#334155;font-weight:400;text-transform:none;letter-spacing:0">({w_label})</span>' if w_label else ''}</div>
+<div class="sec">Latest Health {f'<span style="font-size:0.6rem;color:#334155;font-weight:400;text-transform:none;letter-spacing:0">({w_label})</span>' if w_label else ''}</div>
 <div class="cards">
   <div class="card"><div class="lbl">Resting HR</div><div class="val" style="color:{rhr_color}">{w_rhr_s}</div><div class="sub2">Apple Watch</div></div>
   <div class="card"><div class="lbl">Steps</div><div class="val" style="font-size:1.2rem">{w_steps_s}</div><div class="sub2">yesterday</div></div>
