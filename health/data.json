@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-05T21:44",
+  "synced_at": "2026-07-05T22:20",
   "workouts": [
     {
       "type": "Run",
@@ -79418,16 +79418,16 @@
       "avg_cadence": null
     },
     {
-      "type": "",
-      "name": "Activity",
+      "type": "Run",
+      "name": "Afternoon Run",
       "start": "2026-07-05T17:09:32",
-      "distance_km": 0,
-      "duration_mins": 0,
-      "avg_hr": null,
-      "max_hr": null,
-      "elevation_m": 0,
-      "calories": null,
-      "avg_cadence": null
+      "distance_km": 11.712,
+      "duration_mins": 94.6,
+      "avg_hr": 158,
+      "max_hr": 175,
+      "elevation_m": 161.8,
+      "calories": 552,
+      "avg_cadence": 81.0
     }
   ],
   "daily": [
