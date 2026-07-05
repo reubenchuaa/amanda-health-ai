@@ -1,17 +1,17 @@
-_Updated: Sun, 05 Jul 2026 at 03:11 PM SGT_
+_Updated: Sun, 05 Jul 2026 at 03:43 PM SGT_
 
-**Fresh legs, big energy — tonight's 5 km is waiting for you, Amanda!**
+**Those fresh legs won't run themselves — your 5 km is calling, Amanda!**
 
 **How you're doing**
-Your July 1st run was a lovely 6.54 km at 7:57/km — textbook Base Building pace — and you followed it up with 50 minutes of functional strength on July 2nd, which is quietly building the engine that'll carry you all the way to the Kiprun finish line. Four days of rest means your legs are fully topped up and primed to run. The avg HR of 160 bpm on your last run is simply Singapore doing its thing — the fix is easy: back off the pace a touch and let the effort feel like a gentle stroll-with-a-friend. You're adapting beautifully.
+Your July 1st run was a solid 6.54 km at 7:57/km — right in the Base Building sweet spot — and four days of rest since then means your legs are fully recharged and ready to go. Your HRV was a healthy 51 on Thursday, a great sign your body is absorbing the training beautifully. The 160 bpm average HR on your last run is just Singapore being Singapore — ease off the pace just a touch today and let the effort feel genuinely easy, and you'll notice the difference right away.
 
 **Today's session**
-Easy run — 5 km at a relaxed 8:15–8:30/km, keeping HR under 150 bpm. Head out after sunset when the air is a little kinder, settle into a rhythm that lets you hum a tune, and just enjoy moving. No pressure, no hustle — this is your wind-down lap for the week. You've absolutely got this, and it's going to feel wonderful on those fresh legs!
+Easy run — 5 km at a relaxed 8:15–8:30/km, keeping HR under 150 bpm. Head out after sunset when the air softens up, settle into a pace where you could hold a full conversation, and just enjoy moving. No watch-staring, no pressure — this one is all about feeling good out there. You've totally got this, and those fresh legs are going to love it!
 
 **3-Day Plan**
-- Today (Sun 5 Jul): Easy 5 km, HR ≤ 150 bpm, relaxed pace
-- Tomorrow (Mon 6 Jul): Rest day — hydrate, sleep, let the body absorb the work
-- Tue 7 Jul: Easy 5–6 km, same HR goal — keep that habit rolling!
+- Today (Sun 5 Jul): Easy 5 km, HR ≤ 150 bpm, relaxed conversational pace
+- Tomorrow (Mon 6 Jul): Rest day — hydrate well, sleep, let the body absorb the work
+- Tue 7 Jul: Easy 5–6 km, same HR goal — keep that beautiful habit rolling!
 
 **This week's focus**
-Base Building is all about showing up consistently and keeping things easy — three gentle runs this week and you're laying the foundation for an incredible September 27th. Every km gets you closer to that finish line!
+Base Building is all about showing up consistently and keeping things genuinely easy — three gentle runs this week lays the aerobic foundation that'll carry you all the way to that Kiprun finish line on September 27th. Every km gets you closer!
