@@ -304,8 +304,17 @@ def generate_html(data, context, coaching_text):
         lr_cal   = lr.get("calories") or "—"
         lr_cad_raw = lr.get("avg_cadence")
         lr_cad   = f"{lr_cad_raw * 2:.0f} spm" if lr_cad_raw else "—"
-        # Only show map if the latest run itself has a route
+        # Use route from latest run; if missing, fall back to most recent run with a route
         route = lr.get("route")
+        route_label = ""
+        if not route:
+            all_runs = get_recent_runs(data, 50)
+            for r in all_runs:
+                if r.get("route"):
+                    route = r.get("route")
+                    r_dt = parse_dt(r.get("start") or "")
+                    route_label = r_dt.strftime("Route from %d %b") if r_dt else "Previous route"
+                    break
 
 
         easy_cap = context.get("hr_zones", {}).get("easy_max", 145)
@@ -330,7 +339,8 @@ def generate_html(data, context, coaching_text):
         map_section = ""
         if route:
             route_json = json.dumps(route)
-            map_section = """<div id="runmap" style="height:220px;border-radius:8px;margin-top:12px;overflow:hidden"></div>"""
+            map_label = f'<div style="font-size:0.65rem;color:#64748b;margin-top:10px;margin-bottom:4px">{route_label}</div>' if route_label else ""
+            map_section = f'{map_label}<div id="runmap" style="height:220px;border-radius:8px;overflow:hidden"></div>'
             map_js = f"""
 // Leaflet route map
 (function(){{
