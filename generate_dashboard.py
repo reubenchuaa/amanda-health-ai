@@ -608,7 +608,11 @@ if __name__ == "__main__":
 
     if COACH_FILE.exists():
         print("Using AI coach note...")
-        coaching = COACH_FILE.read_text().strip()
+        raw = COACH_FILE.read_text()
+        # Strip all _Updated: timestamp lines (may have stacked from previous runs)
+        coaching = "\n".join(
+            line for line in raw.splitlines() if not line.strip().startswith("_Updated:")
+        ).strip()
     else:
         print("Generating rule-based coaching...")
         coaching = get_coaching(data, context)
