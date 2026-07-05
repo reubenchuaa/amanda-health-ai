@@ -1,12 +1,14 @@
+_Updated: Sun, 05 Jul 2026 at 09:45 PM SGT_
+
 _Updated: Sun, 05 Jul 2026 at 09:14 PM SGT_
 
-**Four days of rest banked — your legs are fully charged and tonight's easy 5 km is yours for the taking!**
+**Four days of fresh legs and a perfect Sunday evening run waiting for you — let's go, Amanda!**
 
 **How you're doing**
-Your 6.54 km on July 1st showed real commitment — getting out there is what counts! Your avg HR sat at 160 bpm on that run; in Singapore's heat that's completely understandable, so tonight's focus is simply dialling the pace back a touch to around 8:30–9:00/km and letting your heart rate settle. Your RHR on July 3rd was a lovely 63 bpm — a clear sign your body is recovering beautifully and your aerobic base is quietly building.
+Your 6.54 km on July 1st at a solid 7:57/km pace is a great reminder that you're out there doing the work — that's what builds a half marathoner! Your avg HR of 160 bpm reflects Singapore's heat more than your fitness, so tonight's mission is simply easing the pace back to around 8:30–9:00/km and letting your heart rate settle comfortably. Your RHR of 63 bpm on July 3rd is a lovely sign that your body is responding beautifully to training — your aerobic engine is quietly getting stronger every day.
 
 **Today's session**
-Easy run — 5 km at a relaxed 8:30–9:00/km, keeping HR under 145–150 bpm. Head out once the evening heat eases, slow right down from the first step, and just enjoy the rhythm. If your HR creeps up, a 30-second walk is smart training, not a setback. The goal tonight is to finish feeling fresh, like you had plenty left in the tank. You've absolutely got this!
+Easy run — 5 km at a relaxed 8:30–9:00/km, keeping HR under 145–150 bpm. Head out once the evening heat eases, start slow from the very first step, and just enjoy the rhythm of your feet on the road. If your HR creeps up, a 30-second walk break is smart training — not a setback. The goal is to finish feeling fresh with plenty left in the tank. You've absolutely got this — go have a brilliant run!
 
 **3-Day Plan**
 - Today (Sun 5 Jul): Easy 5 km, HR ≤ 150 bpm, conversational pace
