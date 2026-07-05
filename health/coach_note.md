@@ -1,26 +1,12 @@
-_Updated: Sun, 05 Jul 2026 at 02:37 PM SGT_
+_Updated: Sun, 05 Jul 2026 at 02:40 PM SGT_
 
-_Updated: Sun, 05 Jul 2026 at 02:36 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 02:06 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 01:36 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 01:06 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 12:36 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 12:05 PM SGT_
-
-_Updated: Sun, 05 Jul 2026 at 11:34 AM SGT_
-
-**Fresh legs, Sunday evening — your 5 km is ready and waiting, Amanda!**
+**Weights done, legs fresh — tonight's 5 km is yours, Amanda!**
 
 **How you're doing**
-Your July 1st run was a brilliant 6.54 km at 7:57/km — exactly the kind of solid Base Building effort that quietly stacks fitness. Four days of rest means your legs are feeling springy and primed tonight. Your resting HR was 70 bpm yesterday (up a touch from 63 on Thursday), which just means your body is still absorbing that training load — totally normal and a great sign that adaptation is happening!
+Your July 1st run was a solid 6.54 km at 7:57/km — classic Base Building gold. And then you hit the weights on July 2nd too — that strength work is quietly building the engine that'll carry you to that finish line in September. Four days since your last run means your legs are fully recharged and ready to roll tonight!
 
 **Today's session**
-Easy run — 5 km at a relaxed 8:15–8:30/km, keeping HR under 150 bpm. Your July 1st avg HR came in at 160 bpm, which is purely the Singapore heat doing its thing — everyone's HR runs high here! The fix is simple and fun: just ease off the throttle until the effort feels genuinely comfortable, like you could hold a full conversation. Head out in the cool evening air, keep it breezy, and let those fresh legs carry you. You've absolutely got this!
+Easy run — 5 km at a relaxed 8:15–8:30/km, keeping HR under 150 bpm. Your July 1st avg HR was 160 bpm, but that's Singapore doing what Singapore does to everyone — the fix is simply easing off until the effort feels like a breezy chat with a friend. Head out in the cooler evening air, keep the pace comfortable, and enjoy those fresh legs. You've absolutely got this — it's going to feel great!
 
 **3-Day Plan**
 - Today (Sun 5 Jul): Easy 5 km, HR ≤ 150 bpm, relaxed pace
@@ -28,4 +14,4 @@ Easy run — 5 km at a relaxed 8:15–8:30/km, keeping HR under 150 bpm. Your Ju
 - Tue 7 Jul: Easy 5–6 km, same HR goal — keep building that habit!
 
 **This week's focus**
-Base Building is all about showing up consistently — three easy runs this week and you are laying the foundation for an incredible September 27th. Every km gets you closer to that finish line!
+Base Building is all about showing up consistently — three easy runs this week and you're quietly laying the foundation for an incredible September 27th. Every km gets you closer to that finish line!
