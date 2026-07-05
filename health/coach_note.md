@@ -1,12 +1,14 @@
-_Updated: Sun, 05 Jul 2026 at 06:36 PM SGT_
+_Updated: Sun, 05 Jul 2026 at 07:08 PM SGT_
 
-**Four fresh days in the legs — Sunday's easy 5 km is all yours to enjoy!**
+_Updated: Sun, 05 Jul 2026 at 07:06 PM SGT_
+
+**Four rest days in — tonight's easy 5 km is calling your name!**
 
 **How you're doing**
-Your 6.54 km on July 1st at 7:57/km was a really solid Base Building effort — relaxed, controlled, exactly what this phase calls for. Your resting HR nudged up to 70 on Friday (from 63 on Thursday) and HRV settled at 44, which tells us your body is still absorbing the work and will love a gentle, easygoing run tonight more than a hard push. The 160 bpm average last time out is just Singapore doing its thing — a slightly softer pace tonight will bring that right down and keep the run feeling effortless.
+Your 6.54 km on July 1st at 7:57/km was a beautifully controlled Base Building run — relaxed and right on target for this phase. Your resting HR was 70 on Friday and HRV at 44, both signs your body is still happily absorbing the recovery — a gentle 5 km tonight is exactly what it's asking for. The 160 bpm average last time out is just Singapore's heat doing its thing; ease the pace a touch tonight and you'll feel like you're floating.
 
 **Today's session**
-Easy run — 5 km at a breezy 8:15–8:30/km, keeping HR under 150 bpm. Head out after the sun dips and treat this as a pure enjoyment run — no pressure, just you and your legs ticking over after four days of rest. If your body wants to go a little slower, let it! The goal is to finish feeling like you could have kept going. You've got this — it's going to feel amazing!
+Easy run — 5 km at a breezy 8:15–8:30/km, keeping HR under 150 bpm. Head out once the heat eases and treat this as a pure feel-good run — no pressure, just you and the evening air after a well-earned rest. If your legs want to drift a little slower, let them! The goal is to finish smiling, feeling like you could have kept going. You've got this — go enjoy every step!
 
 **3-Day Plan**
 - Today (Sun 5 Jul): Easy 5 km, HR ≤ 150 bpm, conversational pace
