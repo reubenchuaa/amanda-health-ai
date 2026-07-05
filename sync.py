@@ -70,27 +70,45 @@ def sync(days=14):
     for a in acts_raw:
         name     = a.get("name") or a.get("type") or "Activity"
         a_type   = a.get("type") or ""
+        a_id     = a.get("id") or ""
         start    = (a.get("start_date_local") or a.get("date") or "")[:19]
         dist_m   = a.get("distance") or 0
         move_s   = a.get("moving_time") or a.get("elapsed_time") or 0
-        avg_spd  = a.get("average_speed") or 0
         avg_hr   = a.get("average_heartrate") or a.get("average_heart_rate")
         max_hr   = a.get("max_heartrate") or a.get("max_heart_rate")
         elev     = a.get("total_elevation_gain") or 0
         cal      = a.get("calories") or a.get("kilojoules")
         cadence  = a.get("average_cadence")
 
+        # Fetch GPS route for runs
+        route = None
+        if a_id and is_run(a):
+            try:
+                streams = get(f"/activity/{a_id}/streams")
+                latlng  = next((s for s in streams if s.get("type") == "latlng"), None)
+                if latlng:
+                    lats = latlng.get("data", [])
+                    lngs = latlng.get("data2", [])
+                    pairs = [[lats[i], lngs[i]] for i in range(len(lats)) if lats[i] and lngs[i]]
+                    # Sample up to 250 points
+                    step  = max(1, len(pairs) // 250)
+                    route = pairs[::step][:250]
+                    print(f"    GPS: {len(route)} points")
+            except Exception as e:
+                print(f"    GPS fetch skipped: {e}")
+
         workouts.append({
-            "type":         a_type,
-            "name":         name,
-            "start":        start,
-            "distance_km":  round(dist_m / 1000, 3) if dist_m else 0,
+            "type":          a_type,
+            "name":          name,
+            "start":         start,
+            "distance_km":   round(dist_m / 1000, 3) if dist_m else 0,
             "duration_mins": round(move_s / 60, 1) if move_s else 0,
-            "avg_hr":       round(avg_hr, 1) if avg_hr else None,
-            "max_hr":       int(max_hr) if max_hr else None,
-            "elevation_m":  round(elev, 1) if elev else 0,
-            "calories":     int(cal) if cal else None,
-            "avg_cadence":  round(cadence, 1) if cadence else None,
+            "avg_hr":        round(avg_hr, 1) if avg_hr else None,
+            "max_hr":        int(max_hr) if max_hr else None,
+            "elevation_m":   round(elev, 1) if elev else 0,
+            "calories":      int(cal) if cal else None,
+            "avg_cadence":   round(cadence, 1) if cadence else None,
+            **({"route": route} if route else {}),
         })
         print(f"  Activity: {start[:10]} · {name}")
 
