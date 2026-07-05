@@ -304,14 +304,8 @@ def generate_html(data, context, coaching_text):
         lr_cal   = lr.get("calories") or "—"
         lr_cad_raw = lr.get("avg_cadence")
         lr_cad   = f"{lr_cad_raw * 2:.0f} spm" if lr_cad_raw else "—"
-        # Use route from latest run; if missing, fall back to most recent run with a route
+        # Only show map if the latest run itself has a route
         route = lr.get("route")
-        if not route:
-            all_runs = get_recent_runs(data, 50)
-            for r in all_runs:
-                if r.get("route"):
-                    route = r.get("route")
-                    break
 
 
         easy_cap = context.get("hr_zones", {}).get("easy_max", 145)
