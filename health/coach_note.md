@@ -1,12 +1,12 @@
-_Updated: Mon, 06 Jul 2026 at 09:52 PM SGT_
+_Updated: Mon, 06 Jul 2026 at 10:23 PM SGT_
 
-**Your aerobic engine is getting smarter — that HR drop is the proof!**
+**Rest up, Amanda — yesterday's Sunday run was a real statement of strength!**
 
 **How you're doing**
-Sunday's 11.7 km with 162 m of climbing was a genuinely strong effort, and the numbers tell a wonderful story: your avg HR has dropped from 177 bpm on June 25 all the way down to 158 bpm on Sunday — a 19 bpm improvement in just 10 days, all down to the consistent, patient work you've been putting in. This week's 18.2 km mirrors last week's almost exactly, and that steady rhythm is the Base Building sweet spot you want to be in!
+Sunday's 11.7 km with 161.8 m of climbing showed your aerobic engine is genuinely improving — your avg HR came in at 158 bpm, a full 19 bpm lower than your June 25 run, and that's with way more elevation thrown in! Two back-to-back weeks at 18.2 km is exactly the steady, confident Base Building rhythm that's going to carry you all the way to that Kiprun finish line.
 
 **Today's session**
-Full rest day — embrace every minute of it! This is when your body does its best work behind the scenes: muscles repair, your cardiovascular system locks in Sunday's gains, and your legs quietly recharge for tomorrow. Hydrate well, eat something nourishing, and maybe do a few gentle stretches if you feel like moving. Tomorrow's easy run is going to feel lighter and fresher because of today's rest — trust the process completely!
+Full rest day — embrace every minute of it! Recovery is where all the magic happens: muscles repair, your cardiovascular system locks in Sunday's gains, and your legs quietly recharge for tomorrow. Hydrate well, eat something nourishing, and maybe do a few gentle stretches if you feel like moving. Tomorrow's easy run is going to feel lighter and fresher because of today's rest — trust the process, you've absolutely got this!
 
 **3-Day Plan**
 - Today (Mon 6 Jul): Full rest day — hydrate, eat well, sleep great!
