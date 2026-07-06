@@ -1,14 +1,12 @@
-_Updated: Mon, 06 Jul 2026 at 08:23 AM SGT_
+_Updated: Mon, 06 Jul 2026 at 04:48 PM SGT_
 
-_Updated: Mon, 06 Jul 2026 at 08:21 AM SGT_
-
-**Sunday's 11.7 km with 162 m of hills? That was a big-time long run — and you crushed it!**
+**Rest day magic is happening — your aerobic engine is quietly levelling up!**
 
 **How you're doing**
-Yesterday's effort tells a brilliant story: 11.7 km of hilly terrain at an avg HR of just 158 bpm — holding steady even with all that climbing is a real sign of growing aerobic control. Zoom out and the trend is even more exciting: HR has dropped from 177 bpm on June 25 down to 158 on Sunday — a 19-bpm improvement in 10 days. And this week's 18.2 km total is a perfect match for last week's, which is exactly the steady, sustainable rhythm base-building calls for.
+Sunday's 11.7 km with 162 m of hills at an avg HR of just 158 bpm is one of your best efforts yet — a month ago that kind of climbing would have sent your heart rate through the roof. Zoom out at the trend and it's genuinely exciting: you've brought your avg HR down from 177 bpm on Jun 25 all the way to 158 on Jul 5 — a 19 bpm drop in just 10 days! And this week's 18.2 km mirrors last week's almost exactly, which is precisely the consistent, sustainable rhythm that base building calls for.
 
 **Today's session**
-Today is a fully deserved rest day after yesterday's big effort! Your legs worked hard — 11.7 km and 162 m of climbing needs real recovery time to turn into lasting fitness. Hydrate well, eat something nourishing, and let your body do its quiet magic. Tomorrow's easy run will feel so much lighter for it — trust the process, you've absolutely earned this rest!
+Full rest day — and you've earned every single minute of it! After 11.7 km and 162 m of climbing yesterday, your legs deserve to do absolutely nothing running-related today. Hydrate well, eat something nourishing, and let your body do its quiet repair work in the background. Tomorrow's easy run is going to feel so much lighter for it — trust the process, you're building something real here!
 
 **3-Day Plan**
 - Today (Mon 6 Jul): Full rest day — hydrate, eat well, sleep great!
