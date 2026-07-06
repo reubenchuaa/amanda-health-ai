@@ -1,19 +1,17 @@
-_Updated: Mon, 06 Jul 2026 at 12:05 AM SGT_
+_Updated: Mon, 06 Jul 2026 at 08:05 AM SGT_
 
-_Updated: Sun, 05 Jul 2026 at 11:34 PM SGT_
-
-**Your heart is officially getting smarter — 19 bpm dropped in 10 days is elite-level adapting!**
+**Rest days are training days too — and your body is busy doing incredible work right now!**
 
 **How you're doing**
-The data is telling a brilliant story: avg HR has tumbled from 177 bpm on June 25 all the way to 158 today — a 19-bpm drop in just 10 days — and max HR has fallen from 191 to 175, meaning your cardiovascular system is genuinely becoming more efficient with every session. With 18.2 km logged this week across two runs plus a strength session, you are building a rock-solid aerobic foundation and your body is responding beautifully to the Singapore heat.
+The numbers keep telling a brilliant story: avg HR has dropped from 177 bpm on June 25 all the way to 158 on Sunday's run — 19 bpm of pure cardiovascular improvement in 10 days — and this week's 18.2 km perfectly matched last week's volume, which is exactly the steady, sustainable base building you need. That Sunday long run with 162 m of hills is a testament to how much stronger your legs are already getting.
 
 **Today's session**
-Already crushed and it was a cracker — 11.7 km, 8:05/km, 162 m of hills, 552 calories all done! Your only job now is pure recovery: eat a good meal, hydrate well, do some easy stretching, and let those hardworking legs rest. Tonight your body quietly rebuilds itself to be even stronger — that's where the real fitness gains happen. You have absolutely earned it!
+Today is a full rest day — and it is genuinely one of the most important sessions on your plan! While you're going about your day, your body is quietly repairing muscle fibres, restocking energy, and making all those recent hard efforts stick. Your only jobs are to drink plenty of water, eat a nourishing meal, and get a great night's sleep. Tomorrow's easy run will feel so much better for it — trust the process, you've absolutely earned this rest!
 
 **3-Day Plan**
-- Today (Sun 5 Jul): ✓ Crushed — 11.7 km, avg HR 158, 162 m elevation. Superstar!
-- Tomorrow (Mon 6 Jul): Full rest day — well earned. Hydrate, sleep, let those legs bounce back.
-- Tue 7 Jul: Easy 5–6 km at a gentle 8:30–9:00/km, HR ≤ 150 bpm — nice and relaxed to keep the habit rolling!
+- Today (Mon 6 Jul): Full rest day — hydrate, eat well, sleep! Your legs are rebuilding.
+- Tomorrow (Tue 7 Jul): Easy 5–6 km at a relaxed 8:30–9:00/km, HR ≤ 150 bpm — keep it light and fun!
+- Wed 8 Jul: Rest day or a gentle 20–30 min walk/strength session to keep things ticking over
 
 **This week's focus**
-Base Building is all about showing up consistently and stacking easy kilometres — and with a strong week already behind you, Tuesday's gentle run is simply about feeling fresh and joyful. Every km you log is another brick in the foundation that carries you to that Kiprun finish line on September 27th!
+Base Building is about showing up consistently and keeping each run easy and joyful — every kilometre you log is another brick in the foundation carrying you to that Kiprun finish line on September 27th!
