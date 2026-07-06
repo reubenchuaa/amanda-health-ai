@@ -6,8 +6,11 @@
   "target_time": "2:30",
   "target_pace_per_km": "7:06",
 
+  "weekly_run_days": 2,
+  "preferred_run_days": ["Wednesday", "Saturday"],
+
   "training_phases": [
-    { "name": "Base Building",    "start": "2026-06-30", "end": "2026-07-18", "focus": "Easy 3×/week, 5–6 km, build habit" },
+    { "name": "Base Building",    "start": "2026-06-30", "end": "2026-07-18", "focus": "Easy 2×/week (Wed + Sat), 5–6 km, build habit" },
     { "name": "Build",            "start": "2026-07-19", "end": "2026-08-01", "focus": "Long run to 12 km, add tempo" },
     { "name": "Taper",            "start": "2026-08-02", "end": "2026-08-07", "focus": "Ease off before Norway" },
     { "name": "Norway Hiking",    "start": "2026-08-08", "end": "2026-08-22", "focus": "~79 km, 7,400 m — active adventure" },
