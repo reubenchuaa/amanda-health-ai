@@ -1,14 +1,12 @@
-_Updated: Mon, 06 Jul 2026 at 09:20 PM SGT_
+_Updated: Mon, 06 Jul 2026 at 09:52 PM SGT_
 
-_Updated: Mon, 06 Jul 2026 at 08:49 PM SGT_
-
-**Rest day well earned — your aerobic engine is quietly growing stronger right now!**
+**Your aerobic engine is getting smarter — that HR drop is the proof!**
 
 **How you're doing**
-Sunday's 11.7 km with 162 m of climbing was genuinely impressive — and your avg HR of 158 bpm shows your body handled it beautifully, down a full 19 bpm from where you were just 10 days ago on Jun 25. This week's 18.2 km matches last week's almost exactly, and that consistent, steady rhythm is precisely the Base Building sweet spot you want to be in. You are building real, lasting fitness with every outing!
+Sunday's 11.7 km with 162 m of climbing was a genuinely strong effort, and the numbers tell a wonderful story: your avg HR has dropped from 177 bpm on June 25 all the way down to 158 bpm on Sunday — a 19 bpm improvement in just 10 days, all down to the consistent, patient work you've been putting in. This week's 18.2 km mirrors last week's almost exactly, and that steady rhythm is the Base Building sweet spot you want to be in!
 
 **Today's session**
-Full rest day — embrace every minute of it! This is when your muscles quietly repair and your aerobic system locks in all the gains from Sunday's big effort. Hydrate well, eat something nourishing, and maybe do some light stretching if you feel like moving. Tomorrow's easy run is going to feel lighter and fresher because of today's rest — trust the process, your legs are recharging beautifully!
+Full rest day — embrace every minute of it! This is when your body does its best work behind the scenes: muscles repair, your cardiovascular system locks in Sunday's gains, and your legs quietly recharge for tomorrow. Hydrate well, eat something nourishing, and maybe do a few gentle stretches if you feel like moving. Tomorrow's easy run is going to feel lighter and fresher because of today's rest — trust the process completely!
 
 **3-Day Plan**
 - Today (Mon 6 Jul): Full rest day — hydrate, eat well, sleep great!
