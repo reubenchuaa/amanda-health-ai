@@ -1,12 +1,14 @@
-_Updated: Tue, 07 Jul 2026 at 06:01 PM SGT_
+_Updated: Tue, 07 Jul 2026 at 06:11 PM SGT_
 
-**19 beats lower in under two weeks — your aerobic engine is on fire!**
+_Updated: Tue, 07 Jul 2026 at 06:10 PM SGT_
+
+**Two rest days in, and that aerobic engine is still firing strong!**
 
 **How you're doing**
-Your HR trend is genuinely one of the best signs a coach can see: from 177 bpm on June 25th all the way down to 158 bpm on Sunday's hilly 11.7 km — and that run had 161.8 m of Singapore elevation to deal with! That means your body is getting more efficient on harder terrain, not just flat roads. Two rest days post-hills is perfect recovery strategy; you're doing everything right.
+That HR drop is worth celebrating again: from 177 bpm on June 25th down to 158 bpm on Sunday's hilly 11.7 km — a full 19 beats lower, over terrain with 161.8 m of Singapore elevation packed in. Your body is adapting beautifully, getting more efficient even on the tough stuff. Two days of recovery post-hills is exactly the right call; you're doing everything right.
 
 **Today's session**
-Pure rest day — and you're absolutely nailing it! Let your legs quietly absorb Sunday's hill work: drink plenty of water, eat well, and get a great night's sleep. A gentle walk or easy stretching is totally welcome if you want to move, but there's zero pressure today. Think of it as charging your battery for tomorrow — you're going to show up feeling fresh and ready to fly. You've got this!
+Pure rest day — and you're absolutely nailing it! Let your legs quietly soak up Sunday's hill work: drink plenty of water, eat well, and get a great night's sleep. A gentle walk or easy stretching is totally welcome if you want to move, but there's zero pressure today. Think of it as charging your battery for tomorrow — you're going to show up feeling fresh and ready to fly. You've got this!
 
 **3-Day Plan**
 - Today (Tue 7 Jul): Rest day — hydrate, eat well, sleep great!
