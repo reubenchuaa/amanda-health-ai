@@ -1,12 +1,12 @@
-_Updated: Tue, 07 Jul 2026 at 11:26 PM SGT_
+_Updated: Tue, 07 Jul 2026 at 11:57 PM SGT_
 
-**19 beats of pure adaptation — your aerobic engine is the real deal, Amanda!**
+**Your heart rate dropped 19 beats in less than two weeks — that's real fitness, Amanda!**
 
 **How you're doing**
-Four runs and the data keeps getting better: your average HR has dropped from 177 bpm on June 25th all the way to 158 bpm on Sunday's hilly 11.7 km — 19 beats of earned fitness over 161.8 m of Singapore elevation! That downward HR trend is your aerobic engine quietly becoming more powerful with every kilometre, and two rest days after a tough hill session is exactly how smart runners recover. Tomorrow's easy run is going to feel great.
+The numbers tell a beautiful story: your avg HR has fallen from 177 bpm on June 25th all the way to 158 bpm on Sunday's hilly 11.7 km — 19 beats of earned adaptation over 161.8 m of Singapore elevation! Two rest days after that big hill session is exactly right; your aerobic engine is quietly growing stronger with every hour of recovery. Tomorrow's easy run is going to feel like a reward.
 
 **Today's session**
-Rest day — and you're doing it perfectly! Tonight is all about water, good food, and a quality night of sleep while your legs soak up Sunday's hill work and come back stronger. A gentle walk or a few easy stretches is totally welcome if you feel like moving, but there's zero obligation. Think of tonight as the final fuel-up before tomorrow's run — you're going to show up feeling light and ready to fly. You've got this!
+Rest day — and you're nailing it! Tonight is all about hydrating well, eating something nourishing, and getting a quality sleep while your legs finish soaking up Sunday's work. A gentle walk or a few easy stretches is totally welcome if you feel like moving, but there's zero obligation. Think of tonight as the final fuel-up before tomorrow — you're going to show up feeling light and ready to fly. You've got this!
 
 **3-Day Plan**
 - Today (Tue 7 Jul): Rest day — hydrate, eat well, sleep great!
