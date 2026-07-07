@@ -1,12 +1,14 @@
-_Updated: Wed, 08 Jul 2026 at 06:53 AM SGT_
+_Updated: Wed, 08 Jul 2026 at 07:13 AM SGT_
 
-**Your aerobic engine is humming, Amanda — three days of rest have done their magic and today's run is going to feel amazing!**
+_Updated: Wed, 08 Jul 2026 at 07:12 AM SGT_
+
+**Your aerobic engine is quietly getting stronger — 19 beats of HR improvement in 10 days is seriously impressive, Amanda!**
 
 **How you're doing**
-Your HR trend over the past two weeks tells a brilliant story: 177 bpm on June 25th all the way down to 158 bpm on Sunday's 11.7 km hilly run — a 19-beat drop in just 10 days, and it's happening because your body is adapting beautifully. Last week you nailed 18.2 km across two runs, including that impressive hill session with 162 m of elevation gain. Three days of rest since then means your legs are fresh, recharged, and absolutely ready to go!
+Your HR trend over the past 10 days tells a brilliant story: 177 bpm on Jun 25 all the way down to 158 bpm on Sunday's 11.7 km hilly run — your body is adapting beautifully to the training load. Last week you nailed 18.2 km across two runs, including that 162 m elevation session, and three days of rest since then means your legs are fully recharged and ready to roll. The easy cap of 145 bpm is within striking distance — just keep slowing a touch when the Singapore heat nudges your HR up, and it'll keep dropping!
 
 **Today's session**
-Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — your Wednesday easy run awaits! Head out slow, keep the effort fully conversational (you should be able to chat the whole way), and let the pace look after itself. If Singapore's heat nudges your HR up, just ease off the throttle a touch — effort over pace every single time. Every relaxed kilometre today is building the aerobic base that will carry you all the way to the Kiprun finish line. You've got this!
+Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — your Wednesday run awaits! Head out at a pace where you could comfortably hold a full conversation, and let effort be your guide rather than the watch. If the heat is on today, slow down and trust the process — every single easy kilometre is layering fitness onto that incredible aerobic base you're building. You've got this!
 
 **3-Day Plan**
 - Today (Wed 8 Jul): Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — run day!
@@ -14,4 +16,4 @@ Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — your Wednesday easy run awai
 - Sat 11 Jul: Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — second run of the week!
 
 **This week's focus**
-Base Building is all about two joyful, relaxed runs that build your habit and your aerobic engine — keep it breezy, keep it fun, and every km gets you closer to that finish line!
+Base Building is all about two relaxed, joyful runs that reinforce your habit and keep expanding your aerobic engine — keep it breezy, keep it fun, and every km gets you closer to that finish line!
