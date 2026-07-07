@@ -1,17 +1,17 @@
-_Updated: Mon, 06 Jul 2026 at 10:52 PM SGT_
+_Updated: Tue, 07 Jul 2026 at 08:04 AM SGT_
 
-**Sunday's 11.7 km was a powerhouse effort — now let the rest work its magic!**
+**Two weeks of textbook consistency — Wednesday is going to feel amazing!**
 
 **How you're doing**
-Two weeks running at ~18.2 km each is textbook Base Building consistency — your body is absorbing every step and getting stronger. Sunday's avg HR of 158 bpm with 161.8 m of climbing is genuinely impressive; that's a tough, hilly route, and the Singapore heat makes everyone's HR climb a little, so the key is simply slowing down a touch on Wednesday to keep it feeling easy and breezy. The trend is pointing in exactly the right direction!
+Back-to-back weeks at ~18.2 km is exactly the kind of steady base building that pays dividends come race day — your body is quietly getting stronger with every rest you take. Sunday's 11.7 km with 161.8 m of climbing was a genuinely impressive effort; the Singapore heat nudges everyone's HR up, so the simple tweak for Wednesday is just easing off the pace a touch to keep it comfortably conversational at HR ≤ 150 bpm. The trend is pointing in exactly the right direction!
 
 **Today's session**
-Full rest day — you've earned every minute of it! Recovery is where all the adaptation happens: muscles repair, your aerobic engine locks in Sunday's gains, and your legs quietly recharge for Wednesday. Hydrate well, eat something nourishing, and maybe do a few gentle stretches if you feel like moving. Wednesday's run is going to feel fantastic because of how well you rest today — trust the process, you've absolutely got this!
+Pure rest day — you're earning tomorrow's run right now! Use today to hydrate well, eat something nourishing, and let those legs quietly recharge. A gentle walk or some easy stretching is totally fine if you feel like moving. Wednesday's run is going to feel fresh and fun because of how smartly you're recovering today — trust the process, you've absolutely got this!
 
 **3-Day Plan**
-- Today (Mon 6 Jul): Full rest day — hydrate, eat well, sleep great!
-- Tue 7 Jul: Rest day — let those legs keep recharging!
-- Wed 8 Jul: Easy 5–6 km at a relaxed 8:30–9:30/km, HR ≤ 150 bpm — first run of the week, keep it fun and conversational!
+- Today (Tue 7 Jul): Rest day — hydrate, eat well, sleep great!
+- Wed 8 Jul: Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — keep it breezy and conversational!
+- Sat 11 Jul: Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — second run of the week, same relaxed effort!
 
 **This week's focus**
-Base Building is all about showing up on Wednesday and Saturday with easy, joyful effort — every relaxed kilometre is another brick in the foundation carrying you all the way to that Kiprun finish line on September 27th!
+Base Building is all about showing up on Wednesday and Saturday with easy, joyful effort — every relaxed kilometre is another stepping stone on the path to that Kiprun finish line on September 27th!
