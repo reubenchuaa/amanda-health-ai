@@ -1,31 +1,21 @@
-_Updated: Wed, 08 Jul 2026 at 04:45 PM SGT_
+_Updated: Wed, 08 Jul 2026 at 06:03 PM SGT_
 
-_Updated: Wed, 08 Jul 2026 at 04:15 PM SGT_
+_Updated: Wed, 08 Jul 2026 at 06:01 PM SGT_
 
-_Updated: Wed, 08 Jul 2026 at 03:44 PM SGT_
-
-_Updated: Wed, 08 Jul 2026 at 03:38 PM SGT_
-
-_Updated: Wed, 08 Jul 2026 at 02:56 PM SGT_
-
-_Updated: Wed, 08 Jul 2026 at 02:56 PM SGT_
-
-_Updated: Wed, 08 Jul 2026 at 02:38 PM SGT_
-
-_Updated: Wed, 08 Jul 2026 at 02:37 PM SGT_
-
-**Wednesday run day — your aerobic engine is getting stronger with every easy kilometre!**
+**Week 2 of Base Building is here — and your first 10 km long run is on the horizon!**
 
 **How you're doing**
-That Sunday 11.7 km with 162 m of elevation at 158 bpm average is still turning heads — tackling those hills and keeping your heart rate that controlled is genuinely impressive base-building work. Zoom out at the full trend and it's stunning: 177 bpm on Jun 25 all the way down to 158 bpm on Jul 5, a 19-beat improvement in under two weeks of patient, consistent running. Three days of rest since Sunday means your legs are completely recharged and ready to roll!
+Three days of rest since that stellar Sunday 11.7 km with 162 m of elevation at 158 bpm — your legs are fully recharged and ready to go. Your RHR on Jul 5 was a lovely 56 bpm, a strong green light that your body absorbed last week's effort beautifully. You're stepping into Week 2 with a fresh aerobic engine and every reason to feel confident.
 
 **Today's session**
-Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — it's your Wednesday run day, and those fresh legs are going to love it! Head out at a comfortable conversational pace — the kind where you could easily chat your way through a podcast episode. Singapore heat is real, so if your HR nudges above 150, just ease the pace back a touch; that's the exact habit that's been driving your gorgeous downward HR trend. Keep it breezy, keep it fun, and trust that every relaxed kilometre is quietly building your aerobic engine. You've got this!
+You haven't run yet this week, so today is a great time for your easy opener: 5–6 km at a comfortable, conversational pace, keeping HR ≤ 150 bpm (roughly 8:30–9:30/km). Think of this run as warming up the engine — relaxed, breezy, enjoyable. If Singapore heat nudges your HR above 150, just ease the pace back; that's exactly the smart habit that's been driving your HR improvements. No heroics needed — just show up and move!
+
+Your second run this week steps it up: a 10 km easy long run (HR ≤ 155 bpm, roughly 8:00–9:00/km). This is the Week 2 progression of your long-run build — a little more time on your feet, still fully conversational, building the endurance that will carry you all the way to Kiprun. Save it for when you feel fresh, ideally Saturday.
 
 **3-Day Plan**
-- Today (Wed 8 Jul): Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — run day!
+- Today (Wed 8 Jul): Easy 5–6 km, HR ≤ 150 bpm — run day!
 - Tomorrow (Thu 9 Jul): Rest day — hydrate well and enjoy the recovery
-- Sat 11 Jul: Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — second run of the week!
+- Sat 11 Jul: Key session — easy long run 10 km, HR ≤ 155 bpm — run day!
 
 **This week's focus**
-Base Building is all about two joyful, relaxed runs that cement your habit and keep expanding that aerobic engine — keep it light, keep it fun, and every km gets you closer to that finish line!
+Base Building Week 2 adds your first 10 km long run — same easy effort, just a little more time on your feet cementing the aerobic foundation that every future kilometre will build on. You've got this!
