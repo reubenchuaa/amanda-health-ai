@@ -7,20 +7,17 @@
   "target_pace_per_km": "7:06",
 
   "weekly_run_days": 2,
-  "preferred_run_days": ["Wednesday", "Saturday"],
-  "run_structure": {
-    "wednesday": "Easy run (recovery/maintenance)",
-    "saturday": "Key run (long run or tempo, alternating)"
-  },
+  "run_structure": "2 runs per week. Run 1 is ALWAYS easy. Run 2 is the key session (long run or tempo, depending on the phase). Days are flexible — Amanda chooses when she runs. The coach should adapt the plan to whichever days she actually runs, not prescribe specific days.",
 
   "training_principles": {
-    "polarized_80_20": "With 2 runs/week: Wednesday is ALWAYS easy (HR < easy_max). Saturday alternates between long run and tempo.",
+    "polarized_80_20": "With 2 runs/week: one run is ALWAYS easy (HR < easy_max). The other is the key session (long or tempo depending on phase).",
     "10_percent_rule": "Total weekly km must not increase by more than 10% week-over-week. Flag if exceeded.",
-    "cutback_weeks": "Every 3rd week is a cutback: reduce long run by 30% and easy run by 20%. Essential for adaptation.",
-    "long_run_cap": "Long run should never exceed 55-60% of total weekly volume.",
-    "recovery": "48-72 hours between runs with only 2x/week is built in. If RHR is elevated >5 bpm above baseline, suggest extra rest.",
+    "cutback_weeks": "Every 3rd week is a cutback: reduce key session distance by 30% and easy run by 20%. Essential for adaptation.",
+    "long_run_cap": "Key session (long run) should never exceed 55-60% of total weekly volume.",
+    "recovery": "48-72 hours between runs with only 2x/week is naturally built in. If RHR is elevated >5 bpm above baseline, suggest extra rest.",
     "heat_adjustment": "Singapore heat adds 10-15 bpm to HR. Pace should be guided by HR, not speed. If HR exceeds zone, slow down — never push through.",
-    "rpe_guidance": "Easy runs: RPE 3-4 (can hold a conversation). Tempo: RPE 6-7 (can speak in short sentences). Long runs: RPE 4-5 (comfortable but purposeful)."
+    "rpe_guidance": "Easy runs: RPE 3-4 (can hold a conversation). Tempo: RPE 6-7 (can speak in short sentences). Long runs: RPE 4-5 (comfortable but purposeful).",
+    "flexible_scheduling": "Amanda picks her run days. If she has done 0 runs this week and it is late in the week, gently encourage getting one in. If she has done 1, suggest the second. If she has done 2, the rest of the week is recovery. Never guilt-trip about missed days."
   },
 
   "hr_zones": {
@@ -37,8 +34,8 @@
       "start": "2026-06-30",
       "end": "2026-07-18",
       "focus": "Build aerobic base and running habit. All runs easy (HR < 150). No tempo work yet.",
-      "wednesday": "Easy 5-6 km",
-      "saturday": "Easy long run: 8 → 10 → 8 (cutback) km",
+      "easy_run": "5-6 km",
+      "key_session": "Easy long run: 8 → 10 → 8 (cutback) km",
       "weekly_km_target": "13-16 km"
     },
     {
@@ -46,53 +43,50 @@
       "start": "2026-07-19",
       "end": "2026-08-01",
       "focus": "Introduce tempo segments. Long run extends. 80/20 polarization begins.",
-      "wednesday": "Easy 5-6 km",
-      "saturday": "Wk1: Long 12 km (easy). Wk2: Tempo 8 km (2 km warm-up, 4 km @ 7:00-7:15/km, 2 km cool-down).",
+      "easy_run": "5-6 km",
+      "key_session": "Alternating: Long 12 km (easy) OR Tempo 8 km (2 km warm-up, 4 km @ 7:00-7:15/km, 2 km cool-down)",
       "weekly_km_target": "17-18 km"
     },
     {
       "name": "Pre-Travel Taper",
       "start": "2026-08-02",
       "end": "2026-08-07",
-      "focus": "Reduce volume by 40%. Maintain intensity on one short tempo. Stay fresh for Norway.",
-      "wednesday": "Easy 4 km",
-      "saturday": "Easy 6 km with 2 km @ tempo",
+      "focus": "Reduce volume by 40%. One short tempo. Stay fresh for Norway.",
+      "easy_run": "4 km",
+      "key_session": "6 km with 2 km @ tempo",
       "weekly_km_target": "10 km"
     },
     {
       "name": "Norway Hiking",
       "start": "2026-08-08",
       "end": "2026-08-22",
-      "focus": "Active cross-training. ~79 km hiking, 7,400 m elevation. Maintain aerobic fitness through hiking. No running pressure.",
-      "wednesday": "Hike (counts as cross-training)",
-      "saturday": "Hike (counts as cross-training)",
-      "weekly_km_target": "N/A — hiking volume"
+      "focus": "Active cross-training. ~79 km hiking, 7,400 m elevation. Maintain aerobic fitness through hiking. No running pressure."
     },
     {
       "name": "Return to Running",
       "start": "2026-08-23",
       "end": "2026-08-29",
       "focus": "Ease back in after hiking. Very easy effort, short distances. Legs need 5-7 days to readapt to road impact.",
-      "wednesday": "Easy 4-5 km (very gentle, walk breaks OK)",
-      "saturday": "Easy 6 km",
+      "easy_run": "4-5 km (very gentle, walk breaks OK)",
+      "key_session": "6 km easy",
       "weekly_km_target": "10-11 km"
     },
     {
       "name": "Peak Block",
       "start": "2026-08-30",
       "end": "2026-09-19",
-      "focus": "Race-specific training. Long runs reach 18 km. Tempo at race pace (7:06/km). This is the hardest 3 weeks.",
-      "wednesday": "Easy 6 km OR tempo 6 km (alternate weeks)",
-      "saturday_progression": "Wk1: Long 14 km. Wk2: Long 16 km. Wk3 (cutback): Long 12 km.",
+      "focus": "Race-specific training. Long runs reach 18 km. Tempo at race pace (7:06/km). Hardest 3 weeks.",
+      "easy_run": "6 km easy OR 6 km tempo (alternate weeks)",
+      "key_session_progression": "Wk1: Long 14 km. Wk2: Long 16 km. Wk3 (cutback): Long 12 km.",
       "weekly_km_target": "20-22 km (cutback: 18 km)"
     },
     {
       "name": "Race Taper",
       "start": "2026-09-20",
       "end": "2026-09-26",
-      "focus": "Reduce volume 50%. Keep 1-2 short race-pace strides. Rest legs, trust the training. Carb-load Thu-Sat.",
-      "wednesday": "Easy 3-4 km with 4x100m strides",
-      "saturday": "Rest or 2 km shakeout jog",
+      "focus": "Reduce volume 50%. 1-2 short race-pace strides. Rest legs, trust the training. Carb-load Thu-Sat.",
+      "easy_run": "3-4 km with 4x100m strides",
+      "key_session": "Rest or 2 km shakeout jog",
       "weekly_km_target": "5-6 km max"
     },
     {
