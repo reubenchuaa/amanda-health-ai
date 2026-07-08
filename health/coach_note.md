@@ -1,21 +1,19 @@
-_Updated: Wed, 08 Jul 2026 at 06:03 PM SGT_
+_Updated: Wed, 08 Jul 2026 at 08:13 PM SGT_
 
-_Updated: Wed, 08 Jul 2026 at 06:01 PM SGT_
-
-**Week 2 of Base Building is here — and your first 10 km long run is on the horizon!**
+**Week 2 is yours — your first 10 km long run is within reach!**
 
 **How you're doing**
-Three days of rest since that stellar Sunday 11.7 km with 162 m of elevation at 158 bpm — your legs are fully recharged and ready to go. Your RHR on Jul 5 was a lovely 56 bpm, a strong green light that your body absorbed last week's effort beautifully. You're stepping into Week 2 with a fresh aerobic engine and every reason to feel confident.
+Three days of solid rest since Sunday's brilliant 11.7 km at 158 bpm, and your most recent RHR (56 bpm on Jul 5) is a beautiful green light that your body has fully absorbed that effort. No runs yet this week, so your legs are fresh and glycogen-topped — exactly the state you want heading into Week 2's two sessions. With the sync at 8 PM tonight, there's still a great evening window if the urge strikes!
 
 **Today's session**
-You haven't run yet this week, so today is a great time for your easy opener: 5–6 km at a comfortable, conversational pace, keeping HR ≤ 150 bpm (roughly 8:30–9:30/km). Think of this run as warming up the engine — relaxed, breezy, enjoyable. If Singapore heat nudges your HR above 150, just ease the pace back; that's exactly the smart habit that's been driving your HR improvements. No heroics needed — just show up and move!
+With 0 runs done this week, your first move is the easy opener: **5–6 km, HR ≤ 150 bpm** (roughly 8:30–9:30/km). Evening Singapore air is cooler than midday, which makes it a perfect window for keeping HR nice and low. Think of this run as warming the aerobic engine — relaxed, conversational, enjoyable. If the humidity nudges HR above 150, ease the pace back; that's exactly the smart habit that's been steadily strengthening your aerobic fitness. No heroics needed, just show up and move!
 
-Your second run this week steps it up: a 10 km easy long run (HR ≤ 155 bpm, roughly 8:00–9:00/km). This is the Week 2 progression of your long-run build — a little more time on your feet, still fully conversational, building the endurance that will carry you all the way to Kiprun. Save it for when you feel fresh, ideally Saturday.
+Your second run this week is the week's highlight: a **10 km easy long run, HR ≤ 155 bpm** (roughly 8:00–9:00/km). This is your first 10 km long run — a genuine milestone on the road to Kiprun. Save it for a day you feel fresh and unhurried, ideally Saturday.
 
 **3-Day Plan**
-- Today (Wed 8 Jul): Easy 5–6 km, HR ≤ 150 bpm — run day!
-- Tomorrow (Thu 9 Jul): Rest day — hydrate well and enjoy the recovery
+- Today (Wed, 8 Jul): Easy 5–6 km, HR ≤ 150 bpm — run day!
+- Tomorrow (Thu, 9 Jul): Rest day — hydrate well and move gently
 - Sat 11 Jul: Key session — easy long run 10 km, HR ≤ 155 bpm — run day!
 
 **This week's focus**
-Base Building Week 2 adds your first 10 km long run — same easy effort, just a little more time on your feet cementing the aerobic foundation that every future kilometre will build on. You've got this!
+Base Building Week 2 is about logging your first 10 km long run at a fully conversational pace — more time on your feet cementing the aerobic foundation that every future kilometre will build on. You've absolutely got this!
