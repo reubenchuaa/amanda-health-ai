@@ -1,14 +1,12 @@
-_Updated: Wed, 08 Jul 2026 at 07:13 AM SGT_
+_Updated: Wed, 08 Jul 2026 at 12:56 PM SGT_
 
-_Updated: Wed, 08 Jul 2026 at 07:12 AM SGT_
-
-**Your aerobic engine is quietly getting stronger — 19 beats of HR improvement in 10 days is seriously impressive, Amanda!**
+**Sunday's 11.7 km with 162 m of hills at 158 bpm — your aerobic engine is absolutely firing, Amanda!**
 
 **How you're doing**
-Your HR trend over the past 10 days tells a brilliant story: 177 bpm on Jun 25 all the way down to 158 bpm on Sunday's 11.7 km hilly run — your body is adapting beautifully to the training load. Last week you nailed 18.2 km across two runs, including that 162 m elevation session, and three days of rest since then means your legs are fully recharged and ready to roll. The easy cap of 145 bpm is within striking distance — just keep slowing a touch when the Singapore heat nudges your HR up, and it'll keep dropping!
+Your HR trend over the past two weeks is something to genuinely celebrate: 177 bpm on Jun 25 all the way down to 158 bpm on Sunday's hilly 11.7 km — a 19-beat improvement in under two weeks, and on a course with serious elevation! Three days of rest since that big effort means your legs are fully recharged. The easy cap of 145 bpm is still a work in progress, but every relaxed run like today's chips away at it — your body is adapting beautifully, so just keep trusting the process.
 
 **Today's session**
-Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — your Wednesday run awaits! Head out at a pace where you could comfortably hold a full conversation, and let effort be your guide rather than the watch. If the heat is on today, slow down and trust the process — every single easy kilometre is layering fitness onto that incredible aerobic base you're building. You've got this!
+Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — your Wednesday run is here and it's going to feel great! Head out at a pace where you could hold a full conversation without any effort and let your body be the guide rather than your watch. If the Singapore heat nudges your HR up, just ease off the pace a touch — that is the right call every time. Every easy kilometre today is quietly layering fitness onto that incredible aerobic base you're building. You've got this!
 
 **3-Day Plan**
 - Today (Wed 8 Jul): Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — run day!
