@@ -111,11 +111,12 @@ def get_coaching(data, context):
             break
     phase_name = current_phase["name"] if current_phase else "Training"
 
-    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
-    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=13)).isoformat()]
+    _week_start = (today - timedelta(days=today.weekday())).isoformat()
+    _prev_start = (today - timedelta(days=today.weekday() + 7)).isoformat()
+    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= _week_start]
+    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= _prev_start and (w.get("start") or "")[:10] < _week_start]
     km_7d    = sum((w.get("distance_km") or 0) for w in runs_7d)
-    km_14d   = sum((w.get("distance_km") or 0) for w in runs_14d)
-    km_prev  = km_14d - km_7d
+    km_prev  = sum((w.get("distance_km") or 0) for w in runs_14d)
 
     last_run = get_recent_runs(data, 1)
     last_run = last_run[0] if last_run else None
@@ -250,19 +251,25 @@ def generate_html(data, context, coaching_text):
     week_labels = json.dumps([w[0] for w in weekly_vols])
     week_kms    = js_arr([w[1] for w in weekly_vols])
 
-    runs_7d  = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
-    runs_14d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=13)).isoformat()]
-    km_7d    = sum((w.get("distance_km") or 0) for w in runs_7d)
-    km_prev  = sum((w.get("distance_km") or 0) for w in runs_14d) - km_7d
-    elev_7d  = sum((w.get("elevation_m") or 0) for w in runs_7d)
-    count_7d = len(runs_7d)
+    # Calendar week (Mon–Sun) for distance display
+    week_start = (today - timedelta(days=today.weekday())).isoformat()
+    prev_week_start = (today - timedelta(days=today.weekday() + 7)).isoformat()
+
+    runs_this_week = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= week_start]
+    runs_prev_week = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= prev_week_start and (w.get("start") or "")[:10] < week_start]
+    km_7d    = sum((w.get("distance_km") or 0) for w in runs_this_week)
+    km_prev  = sum((w.get("distance_km") or 0) for w in runs_prev_week)
+    elev_7d  = sum((w.get("elevation_m") or 0) for w in runs_this_week)
+    count_7d = len(runs_this_week)
     all_runs = [w for w in data.get("workouts", []) if is_run(w)]
 
-    # Compute ACWR (acute:chronic workload ratio) — 7-day / 28-day average
-    km_28d = sum((w.get("distance_km") or 0) for w in data.get("workouts", [])
-                 if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=27)).isoformat())
+    # ACWR uses rolling 7-day / 28-day (standard definition)
+    runs_rolling_7d = [w for w in data.get("workouts", []) if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=6)).isoformat()]
+    km_rolling_7d = sum((w.get("distance_km") or 0) for w in runs_rolling_7d)
+    km_28d  = sum((w.get("distance_km") or 0) for w in data.get("workouts", [])
+                  if is_run(w) and (w.get("start") or "")[:10] >= (today - timedelta(days=27)).isoformat())
     chronic = km_28d / 4 if km_28d else 0
-    acwr    = round(km_7d / chronic, 2) if chronic else None
+    acwr    = round(km_rolling_7d / chronic, 2) if chronic else None
     if acwr is None:
         acwr_s, acwr_status, acwr_color = "—", "", "#64748b"
     elif acwr < 0.8:
@@ -433,7 +440,9 @@ def generate_html(data, context, coaching_text):
     athlete   = context.get("athlete_name", "Amanda")
     leaflet   = '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9/dist/leaflet.css">\n<script src="https://unpkg.com/leaflet@1.9/dist/leaflet.js"></script>' if map_js else ""
 
+    generated_at = (datetime.utcnow() + timedelta(hours=8)).strftime("%Y-%m-%dT%H:%M:%S")
     html = f"""<!DOCTYPE html>
+<!-- generated: {generated_at} SGT -->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
