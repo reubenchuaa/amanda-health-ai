@@ -1,12 +1,12 @@
-_Updated: Wed, 08 Jul 2026 at 01:35 PM SGT_
+_Updated: Wed, 08 Jul 2026 at 02:07 PM SGT_
 
-**Wednesday run day — your aerobic engine is firing and your legs are primed!**
+**Wednesday run day — your aerobic engine is humming and those legs are fresh and ready!**
 
 **How you're doing**
-Your HR trend is one of the most satisfying things to watch right now: from 177 bpm on Jun 25 all the way down to 158 bpm on Sunday's hilly 11.7 km — that's 19 beats of adaptation in just 10 days, and on a route with 162 m of climb! Last week's 18.2 km across two runs was a genuinely strong week, and after three rest days your legs are completely fresh and ready to roll. You're doing everything right — the aerobic base is quietly but powerfully growing with every outing.
+Sunday's 11.7 km with 162 m of elevation at just 158 bpm average is a standout number — your aerobic system handled those hills without your heart rate shooting up, which is exactly what great base training looks like. Zoom out and the trend speaks for itself: from 177 bpm on Jun 25 down to 158 bpm on Jul 5, that's a 19-beat drop in under two weeks of consistent, patient running. Last week's 18.2 km across two runs was a rock-solid effort, and three days of rest means you arrive today completely recharged.
 
 **Today's session**
-Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — Wednesday run day is here! Head out at a pace where chatting feels completely comfortable, and let your body lead. If the Singapore heat nudges your HR up, ease off the pace rather than pushing through — that's the exact habit that's been driving that beautiful 19-beat improvement. Every relaxed kilometre today adds another layer of fitness to your growing engine. You've got this!
+Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — it's Wednesday run day! Head out at a conversational pace, the kind where you could comfortably narrate a podcast out loud. If the Singapore heat nudges your HR above 150, just ease off the pace a touch — that's the exact discipline that's been driving that gorgeous 19-beat improvement. Keep it breezy, enjoy the movement, and trust that every relaxed kilometre is quietly stacking up into something powerful. You've got this!
 
 **3-Day Plan**
 - Today (Wed 8 Jul): Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — run day!
@@ -14,4 +14,4 @@ Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — Wednesday run day is here! H
 - Sat 11 Jul: Easy 5–6 km at 8:30–9:30/km, HR ≤ 150 bpm — second run of the week!
 
 **This week's focus**
-Base Building is all about two relaxed, joyful runs that reinforce your habit and keep expanding that aerobic engine — keep it breezy, keep it fun, and every km gets you closer to that finish line!
+Base Building is about two joyful, relaxed runs that cement your habit and keep expanding that aerobic engine — keep it light, keep it fun, and every km gets you closer to that finish line!
