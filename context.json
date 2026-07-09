@@ -20,6 +20,10 @@
     "flexible_scheduling": "Amanda picks her run days. If she has done 0 runs this week and it is late in the week, gently encourage getting one in. If she has done 1, suggest the second. If she has done 2, the rest of the week is recovery. Never guilt-trip about missed days."
   },
 
+  "injury_notes": [
+    {"date": "2026-07-08", "note": "Slight pain in left shin after Night Run. Monitor for shin splints — reduce volume if it persists, suggest calf raises and shin stretches, avoid hard surfaces."}
+  ],
+
   "hr_zones": {
     "easy_max": 150,
     "tempo_range": "160–170",
