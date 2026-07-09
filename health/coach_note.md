@@ -1,21 +1,19 @@
-_Updated: Thu, 09 Jul 2026 at 08:16 PM SGT_
+_Updated: Fri, 10 Jul 2026 at 12:07 AM SGT_
 
-_Updated: Thu, 09 Jul 2026 at 08:14 PM SGT_
-
-**Your body is singing — and tonight's easy run is going to feel like flying!**
+**Wednesday's run is in — Saturday's 10 km milestone is yours for the taking!**
 
 **How you're doing**
-Your recovery this week has been genuinely impressive: RHR has dropped three days in a row (57 → 55 → 54 bpm) and your HRV has surged from 57 to an outstanding 75 — that's your nervous system signalling that it has fully absorbed Sunday's 11.7 km effort and is hungry for more. With numbers like these, you are heading into tonight's session in peak condition.
+You got out on Wednesday for 5.9 km — that's run one of two ticked off for the week. Your RHR is holding rock-steady at 54 bpm, and the HRV dip from 75 (Wednesday) down to 53 (Thursday) is a perfectly normal post-run response: your body is busy absorbing and adapting to the effort, which is exactly what it's supposed to do. Singapore heat pushes HR up even on night runs, so Wednesday's elevated readings are simply the climate doing its thing — the important thing is you laced up and went. Today, resting is the training.
 
 **Today's session**
-You have 0 runs logged this week, so it's time for your easy run. Head out for **5–6 km, keeping HR ≤ 150 bpm** (roughly 8:30–9:30/km in Singapore conditions). The goal is conversational — if you can chat easily, you're nailing it. If the heat nudges your HR above 150, ease off to a brisk walk for 30–60 seconds; that's disciplined aerobic training, not a setback. Start gently and let the first kilometre serve as your warm-up.
+With 1 of your 2 weekly runs complete, today is a rest day — let Wednesday's work settle in quietly. The headline session is Saturday's **10 km easy long run**, the furthest long run of this phase and a genuine milestone.
 
-Save fresh legs for Saturday's **10 km easy long run (HR ≤ 155 bpm, roughly 8:00–9:00/km)** — that's a genuine landmark session in your half-marathon build, and with your body in the shape it's in right now, you are absolutely ready for it.
+Head out keeping **HR ≤ 155 bpm** (roughly 8:00–9:00/km in Singapore's heat). Start even slower than feels necessary — that first kilometre is a gift to your aerobic system, not a warm-up to skip. If the heat nudges HR above 155, take a 30–60 second walk break; that's disciplined aerobic training, not weakness. Early morning or cooler early evening will work in your favour.
 
 **3-Day Plan**
-- Today (Thu, 9 Jul): Easy run — 5–6 km, HR ≤ 150 bpm
-- Tomorrow (Fri, 10 Jul): Rest — let today's work settle in
-- Saturday (Sat, 11 Jul): Key session — easy long run 10 km, HR ≤ 155 bpm
+- Today (Fri, 10 Jul): Rest — let Wednesday's adaptation settle
+- Tomorrow (Sat, 11 Jul): Key session — easy long run 10 km, HR ≤ 155 bpm
+- Sunday (Sun, 12 Jul): Rest — week complete, body rebuilding
 
 **This week's focus**
-Base Building Week 2 is about teaching your aerobic engine that 10 km at a gentle, steady effort is completely within reach — every easy kilometre you run this week lays another brick in the foundation that will carry you across the Kiprun finish line in September. Your numbers say you're ready. Let's go!
+Base Building Week 2 is about extending your longest aerobic effort to 10 km — every relaxed, easy kilometre lays another brick in the engine that will carry you across the Kiprun finish line in September. You are ready for Saturday. Go get it.
