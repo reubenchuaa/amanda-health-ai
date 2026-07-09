@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-09T08:11",
+  "synced_at": "2026-07-09T13:56",
   "workouts": [
     {
       "type": "Run",
@@ -8633,6 +8633,18 @@
       "type": "",
       "name": "Activity",
       "start": "2026-02-13T10:18:56",
+      "distance_km": 0,
+      "duration_mins": 0,
+      "avg_hr": null,
+      "max_hr": null,
+      "elevation_m": 0,
+      "calories": null,
+      "avg_cadence": null
+    },
+    {
+      "type": "",
+      "name": "Activity",
+      "start": "2026-07-08T21:06:01",
       "distance_km": 0,
       "duration_mins": 0,
       "avg_hr": null,
