@@ -1,4 +1,6 @@
-_Updated: Sat, 11 Jul 2026 at 05:46 AM SGT_
+_Updated: Sat, 11 Jul 2026 at 06:20 AM SGT_
+
+_Updated: Sat, 11 Jul 2026 at 06:16 AM SGT_
 
 **Long run morning — 8 km of aerobic gold is waiting for you right now!**
 
