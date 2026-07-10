@@ -1,22 +1,20 @@
-_Updated: Sat, 11 Jul 2026 at 06:54 AM SGT_
+_Updated: Sat, 11 Jul 2026 at 07:28 AM SGT_
 
-_Updated: Sat, 11 Jul 2026 at 06:50 AM SGT_
-
-**Your long run is waiting — go build that aerobic engine with 8 strong km!**
+**8 km of pure base building ahead — this is where the September magic starts!**
 
 **How you're doing**
-Your body is in great shape to run: the latest wellness data (Thursday 9 Jul) shows RHR at 54 bpm — right at your baseline — and HRV at 53, a solid recovery signal after the Night Run. Three days of rest since your last run means your legs should feel properly refreshed. Before heading out, do a quick shin press along the left shin bone: mild background achiness is fine to run through, but anything sharp means starting with a 5-min walk — the shin always has veto power.
+Great recovery signals coming through: the most recent data (Thursday 9 Jul) shows your RHR at 54 bpm — right on your baseline — and HRV at 53 after Wednesday's Night Run, solid signs your body has absorbed that effort well. Three full days of rest since that run means your legs are ready to go. Quick pre-run shin check: press lightly along the left shin bone — mild background achiness is fine to run through, but anything sharp means starting with a 5-min walk first.
 
 **Today's session**
-One run in the bank this week (Wednesday's Night Run, 5.9 km — easy session done!). Now for the main event: **8 km long run, all easy (HR ≤ 150 bpm, approximately 8:30–9:30/km)**. Wednesday's Night Run averaged HR 161 in humid conditions, so today aim to go even more deliberately slow and use walk breaks freely whenever HR nudges above 150 — that's not slowing down, that's exactly how aerobic fitness is built. Soft or grassy surface preferred to spare the shin.
+One run in the bank this week (Wednesday's Night Run, 5.9 km ✓). Now for the key session: **8 km easy long run, HR ≤ 150 bpm (approximately 8:30–9:30/km)**. Wednesday's Night Run averaged 161 bpm in the humid evening — today go even more deliberately slow and reach for walk breaks freely whenever HR nudges above 150. That's not slowing down; that's exactly how aerobic fitness is built. Soft or grassy surface preferred to give the shin the kindest conditions possible.
 
 Before: 5-min brisk walk + leg swings and hip circles.
 After: 5-min easy walk + calf stretch + 3 × 15 slow calf raises.
 
 **3-Day Plan**
-- Today (Saturday, 11 Jul): Long run 8 km easy — HR ≤ 150 bpm, walk breaks freely, soft surface preferred
+- Today (Saturday, 11 Jul): Long run 8 km easy — HR ≤ 150 bpm, walk breaks welcome, soft surface preferred
 - Tomorrow (Sunday, 12 Jul): Rest — calf raises and shin stretches
-- Day after (Monday, 13 Jul): Rest — week complete, well earned!
+- Day after (Monday, 13 Jul): Rest — week complete, well done!
 
 **This week's focus**
-Base Building is about laying aerobic infrastructure before any speed enters the picture — every kilometre at HR ≤ 150 today is a brick in the engine you'll race on in September. Easy run ticked off, long run next. Go enjoy those 8 km!
+Base Building is aerobic infrastructure work — every km held under HR 150 today is a brick in the engine you'll race on in September. Easy run ticked off, long run next. Go get those 8 km!
