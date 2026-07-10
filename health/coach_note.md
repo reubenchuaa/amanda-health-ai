@@ -1,16 +1,14 @@
-_Updated: Fri, 10 Jul 2026 at 11:29 AM SGT_
+_Updated: Fri, 10 Jul 2026 at 04:04 PM SGT_
 
-_Updated: Fri, 10 Jul 2026 at 07:48 AM SGT_
+_Updated: Fri, 10 Jul 2026 at 16:02 PM SGT_
 
-_Updated: Fri, 10 Jul 2026 at 07:45 AM SGT_
-
-**Saturday long run is one good night's sleep away — and you are perfectly set up for it.**
+**Tomorrow's 8 km is locked in — your legs are as ready as they're going to be.**
 
 **How you're doing**
-Your RHR on Jul 9 was 54 bpm — right at your healthy baseline, zero recovery flag. HRV sat at 53, a solid reading. Wednesday's Night Run (5.9 km at avg HR 161) was your first run of the week, and the elevated HR is exactly what we'd expect running in Singapore's evening heat — nothing to worry about. Two full rest days since then means your legs are genuinely fresh and primed for tomorrow's long effort.
+Your RHR has been rock-solid at 54 bpm all week — zero recovery flag, your body is responding beautifully to the training load. HRV yesterday came in at 53, a healthy and stable reading. Wednesday's Night Run (5.9 km, avg HR 161) is already banked, and with two full rest days since, your aerobic system has had the time it needs to absorb that effort. You are primed.
 
 **Today's session**
-Today is a rest day, and rest is doing real work — your aerobic system is quietly absorbing Wednesday's effort right now. Spend a few minutes on your shin rehab: 3 × 15 slow calf raises on a flat surface or a step, then a gentle kneeling shin stretch on carpet or a mat. Give your left shin a quick self-check — a gentle press along the bone, a short walk around the room. Any lingering tenderness? Do the rehab, note how it feels, and reassess tomorrow morning before heading out. Feeling clear? You are good to go.
+Rest day — and this is where the adaptation actually beds in, not during the run itself. Keep the shin rehab ticking over: 3 × 15 slow calf raises on a flat surface or a step, then a gentle kneeling shin stretch held 30 seconds each side. Give your left shin a quick self-check — a gentle press along the bone, a short walk around the room. Any lingering tenderness? Note how it feels and reassess tomorrow morning before heading out. Feeling clear? You are absolutely good to go. If there's any sharpness rather than just mild awareness, take the first few minutes as a walk and let it guide you — no need to push through.
 
 **3-Day Plan**
 - Today (Friday, 10 Jul): Rest — shin rehab exercises, let the adaptation bed in
