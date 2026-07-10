@@ -1,19 +1,17 @@
-_Updated: Fri, 10 Jul 2026 at 04:04 PM SGT_
+_Updated: Fri, 10 Jul 2026 at 04:12 PM SGT_
 
-_Updated: Fri, 10 Jul 2026 at 16:02 PM SGT_
-
-**Tomorrow's 8 km is locked in — your legs are as ready as they're going to be.**
+**Tomorrow's 8 km is sitting right there — and your body is primed to go get it.**
 
 **How you're doing**
-Your RHR has been rock-solid at 54 bpm all week — zero recovery flag, your body is responding beautifully to the training load. HRV yesterday came in at 53, a healthy and stable reading. Wednesday's Night Run (5.9 km, avg HR 161) is already banked, and with two full rest days since, your aerobic system has had the time it needs to absorb that effort. You are primed.
+Your RHR has held rock-solid at 54 bpm for three straight days — zero recovery flag, your aerobic system is absorbing Wednesday's effort beautifully. HRV came in at 53 yesterday, a strong and stable reading for a post-run day. With two full rest days since the Night Run (5.9 km, avg HR 161), you are genuinely ready.
 
 **Today's session**
-Rest day — and this is where the adaptation actually beds in, not during the run itself. Keep the shin rehab ticking over: 3 × 15 slow calf raises on a flat surface or a step, then a gentle kneeling shin stretch held 30 seconds each side. Give your left shin a quick self-check — a gentle press along the bone, a short walk around the room. Any lingering tenderness? Note how it feels and reassess tomorrow morning before heading out. Feeling clear? You are absolutely good to go. If there's any sharpness rather than just mild awareness, take the first few minutes as a walk and let it guide you — no need to push through.
+Rest day — and today's job is to arrive at tomorrow's start line feeling sharp. Keep the shin rehab going: 3 × 15 slow calf raises (flat ground or a step), then a kneeling shin stretch held 30 seconds each side. Give your left shin a gentle self-check — press lightly along the bone, take a short walk around the room. Just mild awareness with no sharpness? You are good to go. Any lingering sting? Start tomorrow with a 5-minute walk and let your body guide the pace — no need to push through. If pain persists into the run or across more than 3 sessions total, that's a good reason to get a physio to take a look.
 
 **3-Day Plan**
-- Today (Friday, 10 Jul): Rest — shin rehab exercises, let the adaptation bed in
-- Tomorrow (Saturday, 11 Jul): Long run 8 km easy (HR ≤ 150 bpm, ~8:30–9:30/km) — 5 min walk + leg swings to start, walk breaks any time HR climbs above 150, grass or track preferred
-- Day after (Sunday, 12 Jul): Rest — week complete
+- Today (Friday, 10 Jul): Rest — shin rehab, calf raises, shin stretches
+- Tomorrow (Saturday, 11 Jul): Long run 8 km easy (HR ≤ 150 bpm, ~8:30–9:30/km) — 5 min walk + leg swings to start, walk breaks any time HR climbs above 150, grass or track preferred for the shin
+- Day after (Sunday, 12 Jul): Rest — week complete, well earned
 
 **This week's focus**
-Base Building is about wiring your aerobic engine to run efficiently at low intensity — every kilometre at HR ≤ 150 lays another brick in the foundation your Kiprun finish line will rest on. Tomorrow's 8 km is a real milestone. Go get it.
+Every kilometre at HR ≤ 150 in Base Building lays down aerobic infrastructure — quiet, invisible work that will carry you across that finish line in September. Tomorrow's 8 km is the brick that tops off this week. Go lay it down.
