@@ -1,4 +1,4 @@
-_Updated: Sat, 11 Jul 2026 at 10:26 PM SGT_
+_Updated: Sun, 12 Jul 2026 at 06:53 AM SGT_
 
 **Week 2 of Base Building: in the bag — now your body gets to work its magic!**
 
