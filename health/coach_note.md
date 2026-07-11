@@ -1,6 +1,6 @@
-_Updated: Sat, 11 Jul 2026 at 11:07 AM SGT_
+_Updated: Sat, 11 Jul 2026 at 11:40 AM SGT_
 
-_Updated: Sat, 11 Jul 2026 at 11:04 AM SGT_
+_Updated: Sat, 11 Jul 2026 at 11:37 AM SGT_
 
 **Long run Saturday — your biggest training day yet is right here waiting for you!**
 
@@ -16,7 +16,7 @@ After: 5-min easy walk + calf stretch + 3 × 15 slow calf raises (shin rehab gol
 **3-Day Plan**
 - Today (Saturday, 11 Jul): Long run 8–10 km easy — HR ≤ 150 bpm, soft surface, walk breaks welcome
 - Tomorrow (Sunday, 12 Jul): Rest — shin stretches + calf raises
-- Day after (Monday, 13 Jul): Rest — week complete, cutback week begins Tue 14 Jul!
+- Day after (Monday, 13 Jul): Rest — Week 2 complete, cutback week starts Mon 14 Jul!
 
 **This week's focus**
 Base Building is about laying quiet, invisible aerobic foundations — every kilometre held under HR 150 today makes your engine bigger and more efficient come race day. Week 2 done means you're right on track. Go get it!
