@@ -1,9 +1,9 @@
-_Updated: Mon, 13 Jul 2026 at 06:29 PM SGT_
+_Updated: Mon, 13 Jul 2026 at 06:46 PM SGT_
 
-**Fresh week, fresh legs — cutback week is here to let your body bank all that hard work!**
+**Fresh legs, fresh week — cutback week is here to let all that hard work sink in!**
 
 **How you're doing**
-Saturday's 10.0 km run at 7:52/km (avg HR 162 bpm) capped a strong 15.9 km week — right on target for Base Building. That HR ran a touch above your 155 long-run zone, but that's Singapore heat doing its thing, not a fitness issue. Even better news: your resting HR dropped to 48 bpm on Sunday, well under your 54-57 baseline, a clear sign your body is recovering beautifully — and you've now had two rest days since that run.
+Saturday's 10.0 km run at 7:52/km (avg HR 162 bpm) wrapped up a strong 15.9 km week — right on target for Base Building. That HR ran a touch above your 155 long-run zone, but that's Singapore heat at work, not a fitness dip. Even better: your resting HR has dropped to 48 bpm (well under your 54-57 baseline) after two full rest days — a clear sign your body is soaking up the adaptation beautifully.
 
 **Today's session**
 No runs logged yet this week, so today's a great day to kick things off — your pick of order. This is a cutback week, so both sessions are lighter than last week's:
