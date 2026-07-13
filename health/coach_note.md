@@ -1,21 +1,21 @@
-_Updated: Mon, 13 Jul 2026 at 11:09 PM SGT_
+_Updated: Tue, 14 Jul 2026 at 07:54 AM SGT_
 
-**Cutback week, fresh legs — a great week to bank an easy win!**
+**Fresh legs, low resting heart rate — you're primed for a great cutback week!**
 
 **How you're doing**
-Saturday's 10.0 km run (7:52/km, avg HR 162 bpm) capped off a strong 15.9 km week — right on track for Base Building. That HR ran a touch above your 155 long-run zone, but that's Singapore heat at work, not a fitness dip. Sunday's resting HR was 48 bpm, well under your 54-57 baseline, so your body has bounced back beautifully — two full rest days out from that run and raring to go.
+Saturday's 10.0 km run (7:52/km, avg HR 162 bpm) was a strong close to last week's 15.9 km — right at the top of your Base Building range. That HR sat a bit above the 155 long-run zone, but that's Singapore heat doing its thing, not your fitness slipping. Sunday's resting HR came in at 48 bpm, well under your 54-57 baseline, so your body has recovered beautifully — three days of rest banked and ready to go.
 
 **Today's session**
-No runs logged yet this week — today's a perfect day to kick one off, your choice of order. It's a cutback week, so both sessions are lighter than last week:
+No runs logged yet this week, so today's a great day to get one started — your pick of order, since it's a cutback week and both options are lighter than last week:
 - **Easy run**: 5-6 km, keep HR under 150 (~8:00-8:30/km)
-- **Long run**: 8 km, keep HR under 155 (~7:45-8:15/km) — 5 min walk + dynamic stretches to warm up, 5 min easy jog + stretching to cool down
+- **Long run** (cutback): 8 km, keep HR under 155 (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
-Whichever you choose, keep giving that shin some love: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and softer surfaces where you can find them. It's been quiet since the flag on the 8th and stayed calm through Saturday's run — a great sign — but keep watching it, and see a physio if anything sharper shows up.
+Whichever you choose, keep looking after that shin: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and softer surfaces where you can find them. It's stayed quiet since the flag on the 8th and through Saturday's run too — just one more run to watch before we can call it settled. See a physio if anything sharper shows up.
 
 **3-Day Plan**
-- Monday, 13 Jul: Easy run (5-6 km, HR <150) or long run (8 km, HR <155) — your choice
-- Tuesday, 14 Jul: Whichever session you didn't do Monday, or rest if the shin wants another day
-- Wednesday, 15 Jul: Rest, or your second run of the week if not done yet
+- Tuesday, 14 Jul: Easy run (5-6 km, HR <150) or long run (8 km cutback, HR <155) — your choice
+- Wednesday, 15 Jul: Whichever you didn't do Tuesday, or rest if the shin wants another day
+- Thursday, 16 Jul: Rest, or your second run of the week if not done yet
 
 **This week's focus**
-Cutback weeks let your body fully absorb the aerobic gains you've built, giving that shin room to settle too — 76 days from Kiprun Singapore and building it exactly right!
+This cutback week trims your long run so your body can fully absorb the aerobic gains you've built and give that shin room to settle — 75 days out from Kiprun Singapore, and you're building it exactly right!
