@@ -1,16 +1,16 @@
-_Updated: Mon, 13 Jul 2026 at 06:23 PM SGT_
+_Updated: Mon, 13 Jul 2026 at 06:29 PM SGT_
 
-**Fresh legs, fantastic recovery — cutback week is off to a great start!**
+**Fresh week, fresh legs — cutback week is here to let your body bank all that hard work!**
 
 **How you're doing**
-Saturday's 10 km run at 7:52/km capped a strong 15.9 km week, right where your Base Building target wants you. Avg HR of 162 bpm ran a bit above the 155 long-run target, but that's exactly what Singapore heat does to effort — nothing to worry about. Even better: your resting HR dropped to 48 bpm on Sunday, well below your 54-57 baseline, a clear sign your body is soaking up the training beautifully, and you've now banked two full rest days since that run.
+Saturday's 10.0 km run at 7:52/km (avg HR 162 bpm) capped a strong 15.9 km week — right on target for Base Building. That HR ran a touch above your 155 long-run zone, but that's Singapore heat doing its thing, not a fitness issue. Even better news: your resting HR dropped to 48 bpm on Sunday, well under your 54-57 baseline, a clear sign your body is recovering beautifully — and you've now had two rest days since that run.
 
 **Today's session**
-No runs logged yet this week, so today or tomorrow is a great time to get moving — your pick of order. This is your cutback week, so the two sessions are lighter than last week's:
+No runs logged yet this week, so today's a great day to kick things off — your pick of order. This is a cutback week, so both sessions are lighter than last week's:
 - **Easy run**: 5-6 km, keep HR under 150 (~8:00-8:30/km)
-- **Long run**: 8 km, keep HR under 155 (~7:45-8:15/km), with 5 min walk + dynamic stretches to warm up and 5 min easy jog + stretching to cool down
+- **Long run**: 8 km, keep HR under 155 (~7:45-8:15/km) — 5 min walk + dynamic stretches to warm up, 5 min easy jog + stretching to cool down
 
-Whichever you choose, give the shin some love: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and stick to softer surfaces where you can. You're one run in since it first flagged and it's looking settled — just keep monitoring, and see a physio if anything sharper shows up.
+Whichever you choose, give that shin some love: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and softer surfaces where you can find them. Just one run since it first flagged and it's looking settled — keep monitoring, and see a physio if anything sharper shows up.
 
 **3-Day Plan**
 - Monday, 13 Jul: Easy run (5-6 km, HR <150) or long run (8 km, HR <155) — your choice
