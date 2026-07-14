@@ -1,4 +1,4 @@
-_Updated: Tue, 14 Jul 2026 at 08:49 PM SGT_
+_Updated: Tue, 14 Jul 2026 at 09:08 PM SGT_
 
 **Saturday's 10 km is fresh in the legs and Kiprun Singapore is 75 days out — you're building exactly the base you need!**
 
