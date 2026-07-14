@@ -1,16 +1,16 @@
-_Updated: Tue, 14 Jul 2026 at 07:54 AM SGT_
+_Updated: Tue, 14 Jul 2026 at 08:05 AM SGT_
 
-**Fresh legs, low resting heart rate — you're primed for a great cutback week!**
+**Rested, recovered, and ready to kick off your cutback week!**
 
 **How you're doing**
-Saturday's 10.0 km run (7:52/km, avg HR 162 bpm) was a strong close to last week's 15.9 km — right at the top of your Base Building range. That HR sat a bit above the 155 long-run zone, but that's Singapore heat doing its thing, not your fitness slipping. Sunday's resting HR came in at 48 bpm, well under your 54-57 baseline, so your body has recovered beautifully — three days of rest banked and ready to go.
+Saturday's 10.0 km run (7:52/km, avg HR 162 bpm) capped a strong 15.9 km week — right in your Base Building range, with that HR sitting a touch high only because of Singapore's heat, not your fitness. Sunday's resting HR was 48 bpm, well below your 54-57 baseline, so your body has bounced back beautifully. It's now been three days since that run — plenty of recovery banked and legs primed to go today.
 
 **Today's session**
-No runs logged yet this week, so today's a great day to get one started — your pick of order, since it's a cutback week and both options are lighter than last week:
+No runs logged yet this week, so today's a great day to start — your choice of order since it's a lighter cutback week:
 - **Easy run**: 5-6 km, keep HR under 150 (~8:00-8:30/km)
 - **Long run** (cutback): 8 km, keep HR under 155 (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
-Whichever you choose, keep looking after that shin: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and softer surfaces where you can find them. It's stayed quiet since the flag on the 8th and through Saturday's run too — just one more run to watch before we can call it settled. See a physio if anything sharper shows up.
+Whichever you pick, keep tending that shin: 3×15 slow calf raises each leg, 30 seconds of gentle shin stretches per side, and softer surfaces where possible. It's stayed quiet since the flag on the 8th and through Saturday's run — one more clean run and we can call it settled. See a physio if anything sharper shows up.
 
 **3-Day Plan**
 - Tuesday, 14 Jul: Easy run (5-6 km, HR <150) or long run (8 km cutback, HR <155) — your choice
