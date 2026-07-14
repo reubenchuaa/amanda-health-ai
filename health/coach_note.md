@@ -1,9 +1,9 @@
-_Updated: Tue, 14 Jul 2026 at 09:50 PM SGT_
+_Updated: Tue, 14 Jul 2026 at 10:21 PM SGT_
 
-**Cutback week, still cruising — 75 days to Kiprun Singapore and your base is looking rock solid!**
+**Final cutback week of Base Building — 75 days to Kiprun Singapore and your engine is primed!**
 
 **How you're doing**
-Saturday's 10.0 km at 7:52/km with an average HR of 162 bpm was a strong, controlled long run — remember, Singapore's heat can add 10-15 bpm on its own, so that number reflects the humidity, not overreaching. You're now 3 days rested, yesterday's resting HR of 55 bpm sits right in your usual 54-57 baseline with healthy HRV too, so every recovery signal says you're ready to go again.
+Saturday's 10.0 km at 7:52/km with an average HR of 162 bpm was a strong, controlled long run — remember, Singapore's heat can add 10-15 bpm on its own, so that number reflects the humidity, not overreaching. You're now 3 days rested, your resting HR of 55 bpm sits right in your usual 54-57 baseline with healthy HRV too, so every recovery signal says you're ready to go again.
 
 **Today's session**
 No runs logged yet this week — totally fine, it's only Tuesday and this is the final cutback week of Base Building, so there's no rush. Pick whichever suits your day:
