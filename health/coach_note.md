@@ -1,4 +1,4 @@
-_Updated: Tue, 14 Jul 2026 at 10:53 PM SGT_
+_Updated: Tue, 14 Jul 2026 at 11:23 PM SGT_
 
 **Final cutback week of Base Building — 75 days to Kiprun Singapore and your engine is primed!**
 
