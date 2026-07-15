@@ -1,9 +1,9 @@
-_Updated: Wed, 15 Jul 2026 at 10:12 PM SGT_
+_Updated: Wed, 15 Jul 2026 at 10:16 PM SGT_
 
 **One more clean week and Base Building is officially in the bag — you've got this, Amanda!**
 
 **How you're doing**
-Saturday's 10 km at 7:52/km with an average HR of 162 bpm was a genuinely strong long run — and remember, Singapore's heat alone adds 10-15 bpm, so that number reflects the humidity, not overreaching. You're now 4 days rested with resting HR sitting at 55 bpm, right in your healthy baseline range, so every recovery signal is green. No runs logged yet this week — completely normal for a Wednesday, and this is your final cutback week of Base Building, so there's zero rush.
+Saturday's 10 km at 7:52/km with an average HR of 162 bpm was a genuinely strong long run — and remember, Singapore's heat alone adds 10-15 bpm, so that number reflects the humidity, not overreaching. You're now 4 days rested with resting HR sitting in your healthy 54-57 bpm baseline range, so every recovery signal is green. No runs logged yet this week — completely normal for a Wednesday, and this is your final cutback week of Base Building, so there's zero rush.
 
 **Today's session**
 Pick whichever suits your day:
