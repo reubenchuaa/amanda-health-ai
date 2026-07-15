@@ -64,16 +64,29 @@
       "name": "Norway Hiking",
       "start": "2026-08-08",
       "end": "2026-08-22",
-      "focus": "Active cross-training. ~79 km hiking, 7,400 m elevation. Maintain aerobic fitness through hiking. No running pressure."
+      "focus": "Major active cross-training block. 9 hike days across 14 days. All hikes rated Hard. Total ~83 km, ~6,059 m elevation gain. This is equivalent to a high-altitude training camp — the aerobic and muscular stimulus is enormous. No running needed or expected.",
+      "hike_schedule": [
+        {"date": "2026-08-09", "hike": "Husfjellet", "km": 8.2, "elev_m": 640, "difficulty": "Hard"},
+        {"date": "2026-08-10", "hike": "Segla + Hesten (double day)", "km": 9.7, "elev_m": 1155, "difficulty": "Hard — back-to-back summits"},
+        {"date": "2026-08-11", "hike": "Grytetippen + Keipen", "km": 8.9, "elev_m": 1002, "difficulty": "Hard — 3rd consecutive day, biggest elevation"},
+        {"date": "2026-08-14", "hike": "Matmora + Delpen traverse", "km": 9.7, "elev_m": 835, "difficulty": "Hard"},
+        {"date": "2026-08-15", "hike": "Reinebringen", "km": 6.0, "elev_m": 448, "difficulty": "Hard"},
+        {"date": "2026-08-17", "hike": "Munkebu + Munken", "km": 13.0, "elev_m": 800, "difficulty": "Hard — longest day"},
+        {"date": "2026-08-18", "hike": "Ryten + Kvalvika", "km": 7.6, "elev_m": 597, "difficulty": "Hard"},
+        {"date": "2026-08-19", "hike": "Haen via Hornet (Vaeroy)", "km": 10.3, "elev_m": 582, "difficulty": "Moderate-Hard"}
+      ],
+      "coach_notes": "Aug 9-11 are 3 consecutive hard days — the most physically demanding stretch. Aug 12-13 and 16 are natural rest days. The hiking will build significant leg strength, aerobic capacity, and mental toughness that directly transfers to the half marathon. Expect legs to feel heavy in the first week back running.",
+      "pre_norway_prep": "In Build Phase 1 (Jul 19 - Aug 1), incorporate hills into runs where possible. Mention that Norway elevation training is a huge advantage for the race."
     },
     {
       "name": "Return to Running",
       "start": "2026-08-23",
       "end": "2026-08-29",
-      "focus": "Ease back in after hiking. Very easy effort, short distances. Legs need 5-7 days to readapt to road impact.",
-      "easy_run": "4-5 km (very gentle, walk breaks OK)",
-      "key_session": "6 km easy",
-      "weekly_km_target": "10-11 km"
+      "focus": "Ease back in after 9 hard hike days and long-haul travel. Legs have done enormous work (83 km, 6,059 m elevation) and need time to transition back to road running. Do NOT rush.",
+      "easy_run": "4-5 km very gentle, walk breaks fully OK. HR < 145.",
+      "key_session": "6 km easy — no tempo yet. Legs will feel different from hiking vs running. Trust the process.",
+      "weekly_km_target": "10-11 km max",
+      "coach_notes": "If legs feel unusually heavy or dead in the first 2 runs back, that is normal post-hiking DOMS. Do not increase pace or distance until running feels fluid again. The Norway fitness gains will show up in weeks 2-3 post-return."
     },
     {
       "name": "Peak Block",
