@@ -1,9 +1,9 @@
-_Updated: Wed, 15 Jul 2026 at 07:58 AM SGT_
+_Updated: Wed, 15 Jul 2026 at 08:20 AM SGT_
 
-**Midweek and fresh — your cutback week is working exactly as designed!**
+**Still golden in your cutback week — every recovery signal says "go for it today"!**
 
 **How you're doing**
-Saturday's 10.0 km at 7:52/km with an average HR of 162 bpm was a genuinely strong long run — remember, Singapore's heat alone adds 10-15 bpm, so that number reflects the humidity, not overreaching. You're now 4 days rested, resting HR sits at 55 bpm (right in your 54-57 baseline) with healthy HRV too, so every recovery signal is green. No runs logged yet this week — completely fine, it's only Wednesday and this is your final cutback week of Base Building, so there's no rush at all.
+Your last run was Saturday's 10.0 km at 7:52/km with an average HR of 162 bpm — a genuinely strong long run, and remember Singapore's heat alone adds 10-15 bpm, so that number reflects the humidity, not overreaching. You're now 4 days rested, resting HR sits at 55 bpm (right in your 54-57 baseline) with healthy HRV too, so every recovery signal is green. No runs logged yet this week — completely fine, it's only Wednesday and this is your final cutback week of Base Building, so there's no rush at all.
 
 **Today's session**
 Pick whichever suits your day:
