@@ -1,12 +1,12 @@
-_Updated: Thu, 16 Jul 2026 at 05:32 PM SGT_
+_Updated: Thu, 16 Jul 2026 at 06:03 PM SGT_
 
-**Base Building's final stretch — you're one or two runs from locking it in, Amanda!**
+**Base Building's final stretch — one or two runs and you've locked it in, Amanda!**
 
 **How you're doing**
-Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a great effort — remember Singapore heat adds 10-15 bpm, so that HR reflects the conditions, not overreaching. You've had 5 days of recovery since then, and yesterday's resting HR of 57 bpm still sits comfortably inside your healthy 48-57 bpm range — your body is well recovered and ready for your next session.
+Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a strong effort — remember Singapore heat adds 10-15 bpm, so that number reflects the conditions, not overreaching. Five days of recovery later, your resting HR sits at 57 bpm, comfortably inside your normal 48-57 bpm range, so your body is well rested and ready to go.
 
 **Today's session**
-No runs logged yet this week, and that's completely fine — today, tomorrow, and Saturday are all open to fit your two sessions in before Base Building wraps up. Pick whichever suits your day:
+No runs logged yet this week — totally fine, you've got today, tomorrow, and Saturday to fit your two sessions in before Base Building wraps up. Pick whichever suits your day:
 - **Easy run**: 5-6 km, keep HR under 150 bpm (~8:00-8:30/km)
 - **Long run (cutback, key session)**: 8 km, keep HR under 155 bpm (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
