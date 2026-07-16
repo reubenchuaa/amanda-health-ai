@@ -1,16 +1,16 @@
-_Updated: Thu, 16 Jul 2026 at 09:40 PM SGT_
+_Updated: Thu, 16 Jul 2026 at 10:11 PM SGT_
 
-**Base Building's last few days — let's finish this phase strong, Amanda!**
+**Base Building's final stretch — let's close it out strong, Amanda!**
 
 **How you're doing**
-Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a genuinely solid effort — remember, Singapore heat adds 10-15 bpm, so that HR reflects the conditions, not overreaching. It's been 5 days since that run, and your resting HR (57 bpm) sits right in your normal 48-57 bpm range, so you're fully recovered and ready to move.
+Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a genuinely strong effort — remember, Singapore heat adds 10-15 bpm, so that number reflects the conditions, not overreaching. It's been 5 days since then, and your resting HR (57 bpm on 15 Jul) sits right in your normal 48-57 bpm range, so you're fully recovered and fresh for these last two sessions.
 
 **Today's session**
-No runs logged yet this week — no worries at all, you've still got today, tomorrow, and Saturday to fit in your two sessions before Base Building wraps up. Pick whichever suits your day:
+No runs logged yet this week — totally fine, you've still got today, tomorrow, and Saturday to fit in your two sessions before Base Building wraps. Pick whichever suits your day:
 - **Easy run**: 5-6 km, keep HR under 150 bpm (~8:00-8:30/km)
 - **Long run (cutback, key session)**: 8 km, keep HR under 155 bpm (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
-Keep tending to that left shin either way: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. Your last run went cleanly with no flare-up — one more clean session and we can call it settled. If it ever feels sharper or lingers after resting, get it checked by a physio.
+Keep tending to that left shin either way: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. It's held up cleanly through your last run — one more clean session and we can call it settled. If it ever feels sharper or lingers after resting, get it checked by a physio.
 
 **3-Day Plan**
 - Thursday, 16 Jul: Easy run (5-6 km, HR <150) or long run cutback (8 km, HR <155) — your choice
