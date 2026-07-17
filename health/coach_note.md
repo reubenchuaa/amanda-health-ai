@@ -1,16 +1,16 @@
-_Updated: Fri, 17 Jul 2026 at 10:59 PM SGT_
+_Updated: Fri, 17 Jul 2026 at 11:30 PM SGT_
 
-**Last stretch of Base Building — you're one easy week away from Build Phase, Amanda!**
+**Final Stretch of Base Building — You're Fresh and Ready, Amanda!**
 
 **How you're doing**
-Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a strong, controlled effort — remember, Singapore heat adds 10-15 bpm to every number, so that HR reflects the conditions, not overreaching. You've banked 6 full recovery days since, and your resting HR (54 bpm on 16 Jul) sits right in your normal 48-57 bpm range — a great sign you're fresh and ready.
+Your last run was a strong, controlled 10.0 km at 7:52/km with avg HR 162 bpm on 11 Jul — remember, Singapore heat adds 10-15 bpm to every number, so that reflects the conditions, not overreaching. You've banked 6 full recovery days since, and your resting HR (54 bpm on 16 Jul) sits right in your normal 48-57 bpm range — a great sign you're fresh and ready to run.
 
 **Today's session**
 No runs logged yet this week — totally fine, you've still got today, tomorrow, and Sunday to fit in your two sessions. This is a cutback week, so pick either:
 - **Easy run**: 5-6 km, keep HR under 150 bpm (~8:00-8:30/km)
 - **Long run (cutback, key session)**: 8 km, keep HR under 155 bpm (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
-Keep looking after that left shin: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. It's held up cleanly through your last run — if it ever turns sharp or lingers afterward, get it checked by a physio.
+Keep looking after that left shin from the 8 Jul Night Run: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. It's held up cleanly through your last run — if it ever turns sharp or lingers afterward, get it checked by a physio.
 
 **3-Day Plan**
 - Friday, 17 Jul: Easy run (5-6 km, HR <150) or long run cutback (8 km, HR <155) — your choice
