@@ -1,4 +1,4 @@
-_Updated: Fri, 17 Jul 2026 at 04:28 PM SGT_
+_Updated: Fri, 17 Jul 2026 at 04:37 PM SGT_
 
 **Base Building's final stretch — let's bring it home, Amanda!**
 
@@ -18,4 +18,4 @@ Keep tending to that left shin: 3×15 slow calf raises each leg, gentle shin str
 - Sunday, 19 Jul: Catch-up run if needed, or rest to close out Base Building strong
 
 **This week's focus**
-This cutback week trims your long run to 8 km so your aerobic base fully locks in and your shin gets extra recovery room before tempo work begins in Build Phase 1 — you're building this beautifully, one steady week at a time!
+This cutback week trims your long run to 8 km so your aerobic base fully locks in and your shin gets extra recovery room before tempo work begins in Build Phase 1 next week — you're building this beautifully, one steady week at a time!
