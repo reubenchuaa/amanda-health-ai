@@ -1,6 +1,6 @@
-_Updated: Fri, 17 Jul 2026 at 08:33 AM SGT_
+_Updated: Fri, 17 Jul 2026 at 04:28 PM SGT_
 
-**One more push and Base Building is in the bag, Amanda!**
+**Base Building's final stretch — let's bring it home, Amanda!**
 
 **How you're doing**
 Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a strong, steady effort — remember, Singapore heat adds 10-15 bpm to every number, so that HR reflects the conditions, not overreaching. You've had 6 days of recovery since, and your resting HR (54 bpm on 16 Jul) sits right in your normal 48-57 bpm range — a great sign you're fresh and ready to go.
@@ -18,4 +18,4 @@ Keep tending to that left shin: 3×15 slow calf raises each leg, gentle shin str
 - Sunday, 19 Jul: Catch-up run if needed, or rest to close out Base Building strong
 
 **This week's focus**
-This cutback week trims your long run to 8 km so your aerobic base fully locks in and your shin gets extra recovery room before tempo work begins Monday — you're building this beautifully, one steady week at a time!
+This cutback week trims your long run to 8 km so your aerobic base fully locks in and your shin gets extra recovery room before tempo work begins in Build Phase 1 — you're building this beautifully, one steady week at a time!
