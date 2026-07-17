@@ -1,16 +1,16 @@
-_Updated: Fri, 17 Jul 2026 at 12:14 AM SGT_
+_Updated: Fri, 17 Jul 2026 at 08:14 AM SGT_
 
-**Final push through Base Building, Amanda — you're almost there!**
+**Final stretch of Base Building, Amanda — today's the day to lock it in!**
 
 **How you're doing**
-Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a strong, steady effort — and remember, Singapore heat adds 10-15 bpm to every number, so that HR reflects the conditions, not overreaching. It's been 6 days of recovery since then, and your resting HR (57 bpm on 15 Jul) is still within your normal 48-57 bpm range, so you're fresh and fully ready for these final two sessions.
+Your last run (10.0 km, 7:52/km, avg HR 162 bpm on 11 Jul) was a strong, steady effort — remember, Singapore heat adds 10-15 bpm to every number, so that HR reflects the conditions, not overreaching. You've had 6 full days of recovery since, and your resting HR (54 bpm on 16 Jul) sits right in your normal 48-57 bpm range — a great sign you're fresh and ready.
 
 **Today's session**
-No runs logged yet this week — totally fine, you've still got today, tomorrow, and Sunday. Since it's getting later in the week, let's aim to get one in today if you can. Pick either:
+No runs logged yet this week — completely fine, you've still got today, tomorrow, and Sunday, but since it's Friday let's aim to get one in today if you can. This is your cutback week, so pick either:
 - **Easy run**: 5-6 km, keep HR under 150 bpm (~8:00-8:30/km)
 - **Long run (cutback, key session)**: 8 km, keep HR under 155 bpm (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
 
-Keep tending to that left shin: 3×15 slow calf raises each leg, gentle shin stretches, softer surfaces where possible. This would be your 3rd run since the initial twinge — it's held up cleanly so far, which is a great sign, but if it ever feels sharp or lingers afterward, please get it checked by a physio.
+Keep tending to that left shin: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where possible. This would be your 2nd run since the initial twinge — it held up cleanly last time, which is a great sign, but if it ever feels sharp or lingers afterward, please get it checked by a physio.
 
 **3-Day Plan**
 - Friday, 17 Jul: Easy run (5-6 km, HR <150) or long run cutback (8 km, HR <155) — your choice
