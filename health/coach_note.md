@@ -1,21 +1,19 @@
-_Updated: Sat, 18 Jul 2026 at 09:45 PM SGT_
+_Updated: Sun, 19 Jul 2026 at 02:04 PM SGT_
 
-**Last Day of Base Building — Let's Send It Off Right, Amanda!**
+**Cutback Week Complete — Base Building Locked In, Amanda!**
 
 **How you're doing**
-Your last run was a rock-solid 10.0 km at 7:52/km with avg HR 162 bpm on 11 Jul — remember, Singapore heat adds 10-15 bpm to every number, so that's the tropical air talking, not overreaching. You've had a full week of rest since then, and your resting HR (54 bpm on 17 Jul) sits comfortably in your normal 48-57 bpm range — a great sign you're recovered and ready to close out this phase strong.
+Sunday's 6.6 km run at 7:53/km (avg HR 157 bpm — remember, Singapore heat adds 10-15 bpm, so that's the tropical air talking, not overreaching) wraps up your cutback week and officially closes out Base Building. Your resting HR ticked up to 65 bpm on 18 Jul (above your recent 48-57 bpm range), so your body's asking for a little extra recovery — great timing, since tomorrow's already a rest day.
 
 **Today's session**
-No runs logged yet this week, and today's the last day of Base Building — perfect timing to get one in. Pick either:
-- **Easy run**: 5-6 km, keep HR under 150 bpm (~8:00-8:30/km)
-- **Long run (cutback, key session)**: 8 km, keep HR under 155 bpm (~7:45-8:15/km) — 5 min walk + dynamic stretches before, 5 min easy jog + stretching after
+You've already banked it — nice work! This easy-effort run is exactly what a cutback week calls for, and it eases you right into Build Phase 1, which begins today. No more running needed — let the legs soak up the rest of the day.
 
-Keep looking after that left shin from the 8 Jul Night Run: 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. It's held up cleanly through your last run — if it ever turns sharp or lingers afterward, get it checked by a physio.
+Keep an eye on that left shin from the 8 Jul Night Run — it's held up cleanly through two runs since, so stay consistent with 3×15 slow calf raises each leg, gentle shin stretches, and softer surfaces where you can find them. If it ever turns sharp or lingers, get it checked by a physio.
 
 **3-Day Plan**
-- Saturday, 18 Jul: Easy run (5-6 km, HR <150) or long run cutback (8 km, HR <155) — your choice
-- Sunday, 19 Jul: Whichever you didn't do Saturday, or rest if both are done — this also opens Build Phase 1, where tempo work begins
-- Monday, 20 Jul: Rest — recovery is training too, and your legs will be primed for tempo work this week
+- Sunday, 19 Jul: Done — 6.6 km easy run completed, cutback week closed out
+- Monday, 20 Jul: Rest — with that RHR blip, extra recovery is exactly the right call
+- Tuesday, 21 Jul: First Build Phase 1 session, your pick — easy run (5-6 km, keep HR under 150, ~8:00-8:30/km) or ease into tempo (5 min walk + dynamic stretches, 2 km warm-up, 4 km with HR 160-170 ~7:00-7:15/km, 2 km cool-down, 5 min easy jog + stretching)
 
 **This week's focus**
-This cutback week trims your long run by 30% so your aerobic base fully locks in and your shin gets extra recovery room before tempo training begins — you're closing out Base Building exactly as planned, one steady week at a time!
+Build Phase 1 layers controlled tempo work on top of the aerobic base you just built — introducing that intensity now, while keeping your 80/20 easy-hard balance, is exactly what turns base fitness into race-ready speed. You're right on schedule for Kiprun!
