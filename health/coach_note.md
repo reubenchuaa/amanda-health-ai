@@ -6,7 +6,7 @@ _Updated: Mon, 20 Jul 2026 at 08:05 PM SGT_
 Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a lovely, controlled aerobic effort once you account for Singapore's heat adding 10-15 bpm to every number — solid work. Your resting HR has come down nicely from Saturday's elevated 65 bpm to 58 bpm, just a touch above your usual 51-57 bpm baseline, so today's extra day of rest lets it finish settling. One day since your last run, zero runs logged this week so far — right on plan for a Monday.
 
 **Today's session**
-Rest — and that's genuinely productive time. Your muscles are rebuilding and your aerobic system is adapting while you're off your feet. With legs fresh and RHR nearly back to baseline, you're perfectly primed for tomorrow's tempo debut.
+Rest — and that's genuinely productive time. Your muscles are rebuilding and your aerobic system is adapting while you're off your feet. With legs fresh and RHR nearly back to baseline, you're perfectly primed for tomorrow's tempo debut: 2 km easy warm-up (HR under 150, ~7:45-8:15/km), then 4 km at HR 160-170 (~7:00-7:15/km), 2 km cool-down.
 
 **3-Day Plan**
 - Monday, 20 Jul: Rest — let RHR finish settling, legs fully recover
