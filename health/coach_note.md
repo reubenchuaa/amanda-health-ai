@@ -1,4 +1,4 @@
-_Updated: Mon, 20 Jul 2026 at 01:32 PM SGT_
+_Updated: Mon, 20 Jul 2026 at 05:05 PM SGT_
 
 **Monday recovery, Amanda — tempo debut is loading and your legs are ready!**
 
