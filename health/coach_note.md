@@ -1,4 +1,4 @@
-_Updated: Mon, 20 Jul 2026 at 07:21 PM SGT_
+_Updated: Mon, 20 Jul 2026 at 08:05 PM SGT_
 
 **Rest day banked, Amanda — tomorrow you launch your first tempo run of Build Phase 1!**
 
