@@ -1,4 +1,4 @@
-_Updated: Mon, 20 Jul 2026 at 05:46 PM SGT_
+_Updated: Mon, 20 Jul 2026 at 06:17 PM SGT_
 
 **Rest day banked, Amanda — tomorrow you kick off tempo training!**
 
