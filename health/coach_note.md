@@ -1,6 +1,6 @@
-_Updated: Mon, 20 Jul 2026 at 08:05 PM SGT_
+_Updated: Mon, 20 Jul 2026 at 08:16 PM SGT_
 
-**Rest day banked, Amanda — tomorrow you launch your first tempo run of Build Phase 1!**
+**Rest day banked, Amanda — tomorrow's your first tempo run of Build Phase 1!**
 
 **How you're doing**
 Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a lovely, controlled aerobic effort once you account for Singapore's heat adding 10-15 bpm to every number — solid work. Your resting HR has come down nicely from Saturday's elevated 65 bpm to 58 bpm, just a touch above your usual 51-57 bpm baseline, so today's extra day of rest lets it finish settling. One day since your last run, zero runs logged this week so far — right on plan for a Monday.
