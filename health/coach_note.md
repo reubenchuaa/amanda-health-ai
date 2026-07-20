@@ -1,19 +1,17 @@
-_Updated: Mon, 20 Jul 2026 at 12:28 PM SGT_
+_Updated: Mon, 20 Jul 2026 at 01:00 PM SGT_
 
-**Welcome to Build Phase 1, Amanda — easy run banked and shin still holding strong!**
+**Monday reset, Amanda — recovery day banked, tempo debut is loading!**
 
 **How you're doing**
-Great start today: 6.6 km at 7:53/km, avg HR 157 bpm — genuinely easy effort once you account for Singapore's heat adding 10-15 bpm to every reading. Your resting HR was up at 65 bpm yesterday (18 Jul), above your recent 54-57 bpm baseline, so tomorrow's rest day is perfectly timed to let your body recover. Your left shin has now held up cleanly through two runs since the 8 Jul niggle — a great sign of progress.
+Yesterday's 6.6 km at 7:53/km with avg HR 157 bpm was a lovely, genuinely easy effort once you factor in Singapore's heat adding 10-15 bpm to every reading. Your resting HR has eased from Friday's elevated 65 bpm down to 58 bpm — trending nicely back toward your 54-57 bpm baseline, so today's rest day is exactly what your body needs to finish that recovery. Left shin is holding strong through two clean runs since the 8 Jul niggle.
 
 **Today's session**
-Done and dusted — that 6.6 km run is this week's easy session, right on script. Nothing more needed; enjoy the rest of your Sunday.
-
-Keep favouring softer surfaces where you can, and add 3×15 slow calf raises each leg plus gentle shin stretches after runs. If it ever turns sharp or lingers past 3 runs, get it checked by a physio.
+Rest day — and rest is training too. Your body is busy adapting to yesterday's run right now, laying down the aerobic gains that make tomorrow's tempo session possible. Nothing to do but relax and maybe stretch those legs.
 
 **3-Day Plan**
-- Sunday, 19 Jul: Done — 6.6 km easy run completed, week's easy session in the bank
-- Monday, 20 Jul: Rest — ideal timing with that RHR blip, let your body recover and adapt
-- Tuesday, 21 Jul: First tempo run of Build Phase 1! 5 min walk + dynamic stretches, then 2 km easy warm-up, 4 km @ HR 160-170 (~7:00-7:15/km), 2 km cool-down, finishing with 5 min easy jog + stretching
+- Monday, 20 Jul: Rest — let that RHR keep settling before tomorrow's tempo debut
+- Tuesday, 21 Jul: First tempo run of Build Phase 1! 5 min walk + dynamic stretches, then 2 km easy warm-up, 4 km @ HR 160-170 (~7:00-7:15/km), 2 km cool-down, finishing with 5 min easy jog + stretching. This will be run #3 since the shin niggle — keep favouring softer surfaces, and add 3×15 slow calf raises each leg plus gentle shin stretches after. Any sharp pain or discomfort lingering past this run, get it checked by a physio.
+- Wednesday, 22 Jul: Rest — with tempo done, save your legs; pick your easy 5-6 km run any day later this week
 
 **This week's focus**
-Build Phase 1 layers controlled tempo effort on top of your aerobic base — teaching your body to hold a purposeful pace without redlining, exactly the skill that carries you to that sub 2:30 finish. You're doing everything right — keep it up!
+Build Phase 1 layers controlled tempo effort onto your aerobic base, teaching your body to hold a purposeful pace without redlining — exactly the skill that carries you to that sub 2:30 finish. You're building this smartly, Amanda — keep trusting the process!
