@@ -1,12 +1,12 @@
-_Updated: Tue, 21 Jul 2026 at 05:25 PM SGT_
+_Updated: Tue, 21 Jul 2026 at 05:56 PM SGT_
 
-**Build Phase 1, Day 1 — let's top up that aerobic engine!**
+**Build Phase 1, Day 1 — your aerobic engine is warmed up and ready!**
 
 **How you're doing**
-Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a great opener for Build Phase 1 — with Singapore heat adding 10-15 bpm to every reading, that effort was genuinely easy-zone under the hood. Your resting HR climbed to 67 bpm on Monday (vs. your usual 54-57 baseline, and a second elevated reading this week), so your body's still asking for a touch more patience before we load anything harder.
+Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a strong opener for Build Phase 1 — remember, Singapore heat adds 10-15 bpm to every reading, so that effort was truly easy-zone under the hood. Your resting HR has bounced around lately (65 → 58 → 67 bpm over the last three days, vs. your usual 54-57 baseline), which is your body's way of asking for one more easy, patient day before we load anything harder.
 
 **Today's session**
-No runs logged yet this week — today's the one! Easy run, 5-6 km, keep HR under 150 (~7:45-8:15/km), fully conversational throughout. This keeps building your aerobic base (exactly Build Phase 1's job) while giving your RHR another day to settle. Stick to soft surfaces for that left shin, and finish with 3×15 slow calf raises each leg plus gentle shin stretches — this will be your 4th run since the shin first niggled, so if it's still talking to you afterward, a quick physio check-in is a smart, proactive move.
+No runs logged yet this week — today's the one! Easy run, 5-6 km, keep HR under 150 (~7:45-8:15/km), fully conversational the whole way. This keeps building your aerobic base — exactly Build Phase 1's job — while giving your RHR another chance to settle back toward baseline. Stick to soft surfaces for that left shin, and finish with 3×15 slow calf raises each leg plus gentle shin stretches. This will be your 4th run since the shin first niggled, so if it's still talking to you afterward, a quick physio check-in is a smart, proactive move — not a setback.
 
 **3-Day Plan**
 - Tuesday, 21 Jul: Easy run, 5-6 km, HR<150 (~7:45-8:15/km) + calf raises/shin stretches after
