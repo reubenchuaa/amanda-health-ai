@@ -1,9 +1,9 @@
-_Updated: Tue, 21 Jul 2026 at 11:08 PM SGT_
+_Updated: Tue, 21 Jul 2026 at 11:39 PM SGT_
 
-**Build Phase 1 has begun — today's the day to bank your first easy km, Amanda!**
+**Build Phase 1 continues — today's easy km is still yours to bank, Amanda!**
 
 **How you're doing**
-Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a lovely, controlled aerobic effort — remember, Singapore heat adds 10-15 bpm to every reading, so that was genuinely easy running. Your resting HR was still up at 67 bpm as of Monday (vs. your usual 54-57 baseline), which is just your body asking for one more gentle day before we load anything harder — completely normal after a solid training block.
+Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a great, controlled aerobic effort — remember, Singapore heat adds 10-15 bpm to every reading, so that was genuinely easy running. Your resting HR was 67 bpm yesterday (Monday) vs. your usual 54-57 baseline, so your body is still asking for one more gentle day before we load anything harder — completely normal and nothing to worry about.
 
 **Today's session**
 No runs logged yet this week, so today is your easy run: 5-6 km, keep HR under 150 (roughly 7:45-8:15/km), fully conversational the whole way. This will be your 4th run since the shin first niggled on July 8, so stick to soft surfaces and finish with 3×15 slow calf raises each leg plus gentle shin stretches. If it's still talking to you afterward, a quick physio check-in is a smart proactive step, not a setback.
