@@ -1,12 +1,12 @@
-_Updated: Tue, 21 Jul 2026 at 11:39 PM SGT_
+_Updated: Wed, 22 Jul 2026 at 08:02 AM SGT_
 
-**Build Phase 1 continues — today's easy km is still yours to bank, Amanda!**
+**Patience is paying off — your easy km is ready and waiting, Amanda!**
 
 **How you're doing**
-Sunday's 6.6 km at 7:53/km (avg HR 157 bpm) was a great, controlled aerobic effort — remember, Singapore heat adds 10-15 bpm to every reading, so that was genuinely easy running. Your resting HR was 67 bpm yesterday (Monday) vs. your usual 54-57 baseline, so your body is still asking for one more gentle day before we load anything harder — completely normal and nothing to worry about.
+Your last run — Sunday's 6.6 km at 7:53/km with an average HR of 157 bpm — was a smooth, controlled effort (remember, Singapore heat adds 10-15 bpm to every reading, so that HR reflects genuinely easy work). Your resting HR was 67 bpm on Monday, still above your recent 54-57 baseline, so your body is asking for a touch more recovery before we load anything harder — totally normal, not a setback.
 
 **Today's session**
-No runs logged yet this week, so today is your easy run: 5-6 km, keep HR under 150 (roughly 7:45-8:15/km), fully conversational the whole way. This will be your 4th run since the shin first niggled on July 8, so stick to soft surfaces and finish with 3×15 slow calf raises each leg plus gentle shin stretches. If it's still talking to you afterward, a quick physio check-in is a smart proactive step, not a setback.
+No runs logged yet this week, so today's session is your easy run: 5-6 km, keep HR under 150 (roughly 7:45-8:15/km), fully conversational the whole way. Since your shin first spoke up on 8 Jul, stick to soft surfaces and finish with 3×15 slow calf raises each leg plus gentle shin stretches — if it's still talking to you afterward, a physio check-in is a smart, proactive step, not a setback.
 
 **3-Day Plan**
 - Tuesday, 21 Jul: Easy run, 5-6 km, HR<150 (~7:45-8:15/km) + calf raises/shin stretches after
