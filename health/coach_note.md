@@ -1,17 +1,17 @@
-_Updated: Wed, 22 Jul 2026 at 05:36 PM SGT_
+_Updated: Wed, 22 Jul 2026 at 05:40 PM SGT_
 
-**Rest is the workout right now, Amanda — your body is doing important work fighting off Influenza A, and that's the only training that matters today.**
+**Rest is still the win today, Amanda — your body is doing the real training right now, fighting off Influenza A.**
 
 **How you're doing**
-Your last run was that lovely 6.6 km at 7:53/km on 19 Jul, so your legs already have some fresh aerobic credit banked. Since then your resting HR has climbed to 67 bpm (vs. your usual ~55-58 bpm) and your daily steps have dropped right down — completely normal and expected signs that your immune system is working hard. None of this is fitness slipping away; it's exactly what a body fighting a virus should look like.
+Your last run was a lovely 6.6 km at 7:53/km (avg HR 157) back on 19 Jul, so you've got solid aerobic credit already banked. Since then your resting HR has stayed up around 67 bpm (vs. your usual ~54-58 bpm) and your daily steps have dropped right down to the low thousands — exactly what a body working hard to fight off a virus should look like. This is not fitness slipping away, it's your immune system doing its job.
 
 **Today's session**
-No running today, and none until you're clearly on the other side of this. The rule of thumb: no running until you've been fever-free for 3 full days *without* medication, and everything below the neck — body aches, chest congestion, fatigue — has fully cleared. Even light jogging while the virus is still active can put real strain on your heart, so this pause is non-negotiable and it's the right call.
+No running today. The rule stands firm: no running until you've been fever-free for 3 full days *without* medication, and everything below the neck — aches, chest congestion, fatigue — has fully cleared. Even gentle exercise right now can strain the heart during/after flu, so this pause is 100% the right call.
 
 **3-Day Plan**
 - Wednesday, 22 Jul: Rest and recover — hydrate, sleep, let your body do its thing
-- Thursday, 23 Jul: Rest and recover — no training, focus on feeling better
-- Friday, 24 Jul: Rest and recover, unless you're fully symptom-free — then a gentle walk (not a run) is the first small step back
+- Thursday, 23 Jul: Rest and recover — no training, just focus on feeling better
+- Friday, 24 Jul: Rest and recover, unless you're fully symptom-free — then a gentle walk (not a run) is a fine first step back
 
 **This week's focus**
-The only goal this week is getting fully well — once you're cleared, we'll ease back in with short, gentle sessions and rebuild patiently, well within reach of your 27 Sep race. You have plenty of runway, so there is zero need to rush; taking care of your health now is exactly how we protect your race day later. Feel better soon, Amanda — we've got this.
+The only goal this week is getting fully well — once you're cleared we'll ease back in with short, gentle sessions and rebuild patiently, with plenty of runway to 27 Sep. As a bonus, once you're back on your feet we'll start weaving in a little leg and ankle strength work too, which will double as prep for your Norway hike — something to look forward to! For now, though, health comes first. Feel better soon, Amanda — we've got this.
