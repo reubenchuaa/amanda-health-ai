@@ -20,6 +20,24 @@
     "flexible_scheduling": "Amanda picks her run days. If she has done 0 runs this week and it is late in the week, gently encourage getting one in. If she has done 1, suggest the second. If she has done 2, the rest of the week is recovery. Never guilt-trip about missed days."
   },
 
+  "strength_training": {
+    "purpose": "Prepare legs, ankles and core for the Norway hiking block (Aug 8-22): ~83 km with 6,059 m of elevation GAIN and an equal amount of DESCENT. The biggest demand is eccentric (downhill) loading on the quads and calves, plus ankle/knee stability on uneven rock. This same work builds half-marathon durability and protects the left shin.",
+    "when": "2 short sessions/week (20-30 min), home/bodyweight — no gym needed. Do them on non-running days OR right after an easy run. NEVER on the same day as the key running session, and never back-to-back with it. Runs remain the priority; strength is a supplement, not a third hard day.",
+    "illness_override": "Do NOT start any strength work until the Influenza A illness override is lifted (fever-free 3 full days without medication AND all below-the-neck symptoms cleared). Strength counts as exercise and is subject to the same 'neck check' rule as running. Once cleared, reintroduce it gently at ~50% volume alongside the walk-back protocol — bodyweight only, 2 sets, before adding load or reps.",
+    "progression": "First week back: bodyweight only, 2 sets, focus on form. Build to 3 sets over 2-3 weeks. Emphasise a slow, controlled eccentric (lowering) phase — 3 seconds down — because that is what trains the legs for downhill hiking and prevents the deep soreness Norway would otherwise cause.",
+    "key_exercises": [
+      {"exercise": "Reverse lunges", "sets_reps": "2-3 x 10 each leg", "why": "Single-leg strength and knee stability for uneven trails"},
+      {"exercise": "Step-ups onto a sturdy step/bench", "sets_reps": "2-3 x 10 each leg", "why": "Directly mimics steep ascent; builds glutes and quads"},
+      {"exercise": "Slow eccentric squats (3s down)", "sets_reps": "2-3 x 12", "why": "Downhill quad control — the single biggest soreness driver in Norway"},
+      {"exercise": "Calf raises, straight + bent knee", "sets_reps": "3 x 15 each", "why": "Achilles/ankle resilience for long descents; also protects the left shin"},
+      {"exercise": "Single-leg balance / heel-to-toe walk", "sets_reps": "30-45s each leg", "why": "Ankle stability on rocky, uneven ground"},
+      {"exercise": "Glute bridges", "sets_reps": "2-3 x 15", "why": "Posterior chain power for climbing and running"},
+      {"exercise": "Plank + side plank", "sets_reps": "30-45s each", "why": "Core stability for long days and carrying a daypack"}
+    ],
+    "shin_care": "The slow eccentric calf raises and controlled step-downs double as shin-splint prevention for the left shin flagged 8 Jul. Stop any movement that provokes sharp shin pain and reduce volume.",
+    "coach_guidance": "Once she is recovered from the flu, weave ONE strength cue into each coach note — name a couple of exercises and connect them to Norway ('building your hiking legs') and to becoming a more durable runner. Keep it light, encouraging and injury-proofing in spirit, never bodybuilding. While she is still ill, you may briefly PREVIEW that strength prep is coming once she is well, so she has something positive to look forward to — but do not prescribe it yet."
+  },
+
   "injury_notes": [
     {"date": "2026-07-08", "note": "Slight pain in left shin after Night Run. Monitor for shin splints — reduce volume if it persists, suggest calf raises and shin stretches, avoid hard surfaces."}
   ],
