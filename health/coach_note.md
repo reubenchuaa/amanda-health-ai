@@ -1,4 +1,4 @@
-_Updated: Wed, 22 Jul 2026 at 11:49 PM SGT_
+_Updated: Wed, 22 Jul 2026 at 11:50 PM SGT_
 
 **Your body is doing exactly what it should be doing, Amanda — hang in there.**
 
