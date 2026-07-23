@@ -1,12 +1,12 @@
-_Updated: Thu, 23 Jul 2026 at 08:04 PM SGT_
+_Updated: Thu, 23 Jul 2026 at 08:29 PM SGT_
 
-**Good signs today, Amanda — your body is quietly turning the corner, and that 6.6 km run from 19 Jul is still safely banked for when you're back.**
+**Still on the mend, Amanda — and every quiet day right now is progress you can't see on a chart but your heart absolutely feels.**
 
 **How you're doing**
-There's real encouragement in the numbers: your resting HR dropped to 63 bpm on 22 Jul, down from 67 bpm the two days before, and your steps rose to 4,983 — both signs your system is climbing out of the thick of the Influenza A fight. You're not fully back to your normal ~54-58 bpm baseline yet, so the priority stays the same: rest and let recovery finish the job properly. It's now been 4 days since your last run, and every one of those days is banking real, protective recovery for your heart.
+Your resting HR was 63 bpm on 22 Jul — holding in the same encouraging range as the day before, and still well down from the 67 bpm peak on 20-21 Jul while your body was fighting hardest. Steps were at 4,983, another sign of steady, gentle movement rather than pushing. You're not fully back to your ~54-58 bpm baseline yet, so the job stays the same: rest and let recovery finish properly. It's now been 4 days since your 6.6 km run on 19 Jul, and that run is safely banked, waiting for you.
 
 **Today's session**
-Still no running and no strength work today — both count as exercise under the neck-check rule while any below-the-neck symptoms linger. You're cleared to return once you've been fever-free for 3 full days *without* medication and all symptoms have fully resolved. The trend is moving the right way, so keep listening to your body rather than the calendar.
+No running and no strength work today — both count as exercise under the neck-check rule while any below-the-neck symptoms remain. You're cleared to return once you've gone 3 full fever-free days *without* medication and every symptom has fully resolved. Keep tuning into your body rather than the calendar — the trend is genuinely moving the right way.
 
 **3-Day Plan**
 - Thursday, 23 Jul: Rest and recover — no training, just keep feeling better
