@@ -1,4 +1,4 @@
-_Updated: Thu, 23 Jul 2026 at 04:19 PM SGT_
+_Updated: Thu, 23 Jul 2026 at 05:06 PM SGT_
 
 **Rest is still the winning move, Amanda — that strong 6.6 km run from 19 Jul is safely banked and waiting for you.**
 
