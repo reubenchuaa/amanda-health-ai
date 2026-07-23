@@ -1,4 +1,4 @@
-_Updated: Thu, 23 Jul 2026 at 08:08 AM SGT_
+_Updated: Thu, 23 Jul 2026 at 08:13 AM SGT_
 
 **Rest is still the smart move, Amanda — your 6.6 km run from 19 Jul is safe in the bank.**
 
