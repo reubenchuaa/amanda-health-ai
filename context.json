@@ -45,8 +45,10 @@
   "illness": {
     "condition": "Influenza A",
     "confirmed_date": "2026-07-20",
-    "status": "recovering",
-    "coaching_override": "CRITICAL — this overrides all training plans. Influenza A is a systemic viral illness with myocarditis risk. Do NOT prescribe any running until: (1) fever-free for at least 3 full days WITHOUT medication, AND (2) all below-the-neck symptoms (body aches, chest congestion, fatigue) fully resolved. Apply the 'neck check' rule: any symptoms below the neck = no exercise. Even light exercise during/right after flu can cause dangerous heart complications.",
+    "status": "recovering_improving",
+    "fever_broke": "2026-07-23",
+    "returning_to_work": "2026-07-24",
+    "recovery_update": "Great progress: fever broke on 23 Jul and she is well enough to return to work on 24 Jul (Fri). This is the turning point, NOT the all-clear for exercise. Start counting fever-free days from 23 Jul — she needs 3 FULL days fever-free WITHOUT medication (earliest all-clear ~26 Jul) AND all below-the-neck symptoms gone before ANY exercise. Returning to work is a lighter bar than returning to training; do not conflate them. Even after clearance, the return_protocol (walks first, then very easy short runs) applies — do NOT jump straight back to the periodized plan.",
     "return_protocol": "Once cleared: start with GENTLE WALKS only for the first few days, not running. Then very easy short runs (3-4 km, HR < 140, walk breaks encouraged) at ~50% of previous volume. Increase by no more than 10-15% per week. Full training intensity should not resume for 1-2 weeks after symptoms clear. Expect elevated HR and lower energy for a while — this is normal post-viral and NOT a fitness loss to worry about.",
     "tone": "Be extra gentle and reassuring. She may feel anxious about lost training time before the Sep 27 race — reassure her that there is ample time to rebuild, that rushing back risks far more setback than a patient recovery, and that her body fighting the virus IS the priority right now. Health first, always. The race will still be there."
   },
