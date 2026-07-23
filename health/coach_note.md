@@ -1,6 +1,6 @@
-_Updated: Thu, 23 Jul 2026 at 10:34 AM SGT_
+_Updated: Thu, 23 Jul 2026 at 10:44 AM SGT_
 
-**Rest is still the winning move, Amanda — that 6.6 km run from 19 Jul is safely banked and waiting for you.**
+**Rest is still the winning move, Amanda — that strong 6.6 km run from 19 Jul is safely banked and waiting for you.**
 
 **How you're doing**
 Your body is doing exactly what it should: fighting off Influenza A. Your latest resting HR reading (67 bpm on 21 Jul, vs your normal ~54-58 bpm) and very low step counts (2,668 that day) are classic signs recovery is still underway — completely expected, not a setback. It's now been 4 days since your last run, and every one of those rest days is protecting your heart and banking real recovery.
