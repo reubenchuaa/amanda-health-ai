@@ -1,16 +1,16 @@
-_Updated: Fri, 24 Jul 2026 at 08:36 AM SGT_
+_Updated: Fri, 24 Jul 2026 at 03:00 PM SGT_
 
-**Back at work and moving in the right direction, Amanda! 🌤️**
+**Two fever-free days down, Amanda — your body is doing exactly what it should! 💛**
 
 **How you're doing**
-Huge news: your fever broke on 23 Jul, and you're well enough to be back at work today — that's your body clearly winning this fight. Your resting heart rate has been trending the right way too, sliding from 67 bpm (20–21 Jul) down to 63 bpm on 22 Jul, a solid sign of recovery. Your last run — 6.6 km at 7:53/km, avg HR 157 — was 5 days ago and it isn't going anywhere while you finish healing properly.
+Your fever broke on 23 Jul and you're back at work today, both fantastic signs that Influenza A is losing this fight. Your resting heart rate has settled nicely too — 67 bpm on 20–21 Jul down to 63 bpm on 22 Jul — a clear signal your system is calming down and recovering well. Your last run (6.6 km, avg HR 157) was 5 days ago and it isn't going anywhere while you finish healing properly.
 
 **Today's session**
-Still rest today — no running, no strength work. This is fever-free day 2, and the rule for returning to any exercise is 3 full fever-free days without medication plus all below-the-neck symptoms cleared. Going back to work is a wonderful milestone, but it's a lighter bar than returning to training, so let's give your body just a little more runway to finish the job properly.
+Still rest today — no running, no strength work. This is fever-free day 2, and the rule for returning to any exercise is 3 full fever-free days without medication plus all below-the-neck symptoms cleared. Being back at work is a great milestone, but it's a lighter bar than being ready to train, so let's give your body just a little more runway.
 
 **3-Day Plan**
-- Friday, 24 Jul: Rest — fever-free day 2, focus on easing back into work
-- Saturday, 25 Jul: Rest — fever-free day 3, keep an eye out for any lingering symptoms below the neck
+- Friday, 24 Jul: Rest — fever-free day 2, ease into being back at work
+- Saturday, 25 Jul: Rest — fever-free day 3, keep checking that any lingering symptoms below the neck have cleared
 - Sunday, 26 Jul: If you're fully symptom-free by then, this could be your first gentle walk (short, easy, no pressure) — otherwise, one more rest day and we reassess
 
 **This week's focus**
