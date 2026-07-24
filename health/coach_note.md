@@ -1,4 +1,4 @@
-_Updated: Fri, 24 Jul 2026 at 11:17 PM SGT_
+_Updated: Fri, 24 Jul 2026 at 11:47 PM SGT_
 
 **Fever-free day 1, Amanda — your body is doing exactly what it should 💛**
 
