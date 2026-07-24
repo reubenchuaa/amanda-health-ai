@@ -1,12 +1,12 @@
-_Updated: Fri, 24 Jul 2026 at 09:14 PM SGT_
+_Updated: Fri, 24 Jul 2026 at 09:45 PM SGT_
 
-**Back at work and healing right on schedule, Amanda — that's genuinely great news! 💛**
+**Back at work and healing on schedule, Amanda — that's a real milestone today! 💛**
 
 **How you're doing**
-Returning to work today is a strong sign your Influenza A is fading, and your resting heart rate has been telling the same story — 67 bpm on 20–21 Jul, easing down to 63 bpm on 22 Jul as your nervous system settles. Today's and yesterday's readings haven't synced yet, which is completely normal. Your last run (6.6 km, avg HR 157 on 19 Jul) is safely on pause; it isn't going anywhere while you finish healing properly.
+Returning to work today is a great sign your body is winning the fight against Influenza A, and your resting heart rate has been trending the right way — 67 bpm on 20–21 Jul, easing to 63 bpm by 22 Jul as your nervous system starts to settle. Today's and yesterday's readings haven't synced yet, which is totally normal. Your last run (6.6 km, avg HR 157 on 19 Jul) is safely on pause — it isn't going anywhere while you finish healing properly.
 
 **Today's session**
-Still full rest today — no running, no strength work yet. Work is a lighter bar than training, so we're keeping those separate: the rule is 3 full fever-free days without medication, plus every below-the-neck symptom cleared. Today, 24 Jul, is fever-free day 1 of that count — you're just getting started, so give your body the runway it needs.
+Still full rest today — no running, no strength work yet. Returning to work is a lighter bar than returning to training, so we keep those separate: the rule is 3 full fever-free days without medication, plus every below-the-neck symptom cleared. Today, 24 Jul, is fever-free day 1 of that count — you're just getting started, so give your body the runway it needs.
 
 **3-Day Plan**
 - Friday, 24 Jul: Rest — fever-free day 1
