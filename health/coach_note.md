@@ -1,17 +1,17 @@
-_Updated: Thu, 23 Jul 2026 at 09:31 PM SGT_
+_Updated: Fri, 24 Jul 2026 at 08:17 AM SGT_
 
-**Fever's broken — that's your immune system doing exactly what it should! 🎉**
+**Back at work today — that's a huge sign your body is coming back online! 💪**
 
 **How you're doing**
-Big milestone today: your fever broke on 23 Jul, a real sign your body is winning this fight. Yesterday's resting HR was 63 bpm — trending down nicely from the 67 bpm peak on 20–21 Jul — and a gentle 4,983 steps shows you're pacing recovery well. Your 6.6 km run from 19 Jul is still safely banked in your fitness; a few days off doesn't undo that.
+Great trajectory: your fever broke 23 Jul, and resting HR has been sliding down nicely from 67 bpm (20–21 Jul) to 63 bpm on 22 Jul — a real recovery signal. Heading back to work today shows your energy is returning, and that 6.6 km run banked on 19 Jul isn't going anywhere while you finish healing.
 
 **Today's session**
-No running or strength work yet — a broken fever is wonderful progress, but not the all-clear. The rule is 3 full fever-free days *without medication*, plus all below-the-neck symptoms gone, before any exercise. Counting from today, the earliest that window closes is around Sun, 26 Jul. Heading back to work tomorrow is great news too, but it's a lighter bar than returning to training — let your body finish the job even as normal life resumes.
+Still no running or strength work today — this is fever-free day 2, and the rule is 3 full fever-free days without medication, plus all below-the-neck symptoms cleared, before any exercise. Being back at work is wonderful progress, but it's a gentler bar than returning to training, so let's protect that recovery window just a little longer.
 
 **3-Day Plan**
-- Thursday, 23 Jul: Rest and celebrate — fever-free day 1 starts now
-- Friday, 24 Jul: Rest and recover, easing back into work — no training yet
-- Saturday, 25 Jul: Rest and recover, watching for that full symptom-free window
+- Friday, 24 Jul: Rest — fever-free day 2, ease into work, no training yet
+- Saturday, 25 Jul: Rest — fever-free day 3, keep watching for symptoms below the neck to fully clear
+- Sunday, 26 Jul: If you're fully symptom-free by then, this could be your first gentle walk (short and easy, no pressure) — otherwise, one more rest day and we reassess from there
 
 **This week's focus**
-The only job right now is completing recovery properly — with 9 weeks still to go until 27 Sep, there's ample runway, and a few more patient days will always cost less than a rushed comeback. Once you're cleared, we'll ease in with gentle walks, then very short easy runs (keeping a caring eye on that left shin), with some light leg strength work for Norway waiting as a bonus once you're ready. You're doing this exactly right, Amanda — rest well.
+The only priority is a complete, unhurried recovery — with 9 weeks still on the clock before 27 Sep, patience now protects your training later far better than rushing back would. Once you get the green light, we'll ease in with gentle walks first, then very short easy runs (with a caring eye on that left shin), and some light Norway-prep leg strength waiting as a bonus once you're ready. You're handling this exactly right, Amanda — rest up and let your body finish the job.
