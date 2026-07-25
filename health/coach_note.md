@@ -1,9 +1,9 @@
-_Updated: Sat, 25 Jul 2026 at 03:58 PM SGT_
+_Updated: Sat, 25 Jul 2026 at 04:29 PM SGT_
 
-**Fever-free day 2 and counting, Amanda — your body is doing exactly what it should 💛**
+**Fever-free day 2 and holding steady, Amanda — your body's doing exactly what it should 💛**
 
 **How you're doing**
-Your resting heart rate was 65 bpm on 24 Jul — right in line with 63 bpm a couple of days earlier, and clearly down from the 67 bpm peak when the flu was hitting hardest. That's exactly the kind of steady, unremarkable trend we want to see as your body finishes clearing things up after returning to work on 24 Jul. Your last run — a strong 6.6 km at avg HR 157 — is safely banked from 19 Jul and isn't going anywhere while you rest.
+Your resting heart rate was 65 bpm on 24 Jul — right in line with 63 bpm a couple of days earlier, and clearly down from the 67 bpm peak when the flu was hitting hardest. That's a steady, reassuring trend as your body finishes clearing up after returning to work on 24 Jul. Your last run — a strong 6.6 km at avg HR 157 — is safely banked from 19 Jul and isn't going anywhere while you rest.
 
 **Today's session**
 Full rest today, Saturday 25 Jul — no running, and no strength work yet either. Both count as exercise, so we're holding the "neck-check" line: 3 full fever-free days without medication, plus every below-the-neck symptom cleared. Today is fever-free day 2, counting from your first full fever-free day on 24 Jul. Being back at work is a genuinely great sign, but it's a lighter bar than being ready to train — so today's only job is resting well and letting recovery finish properly.
