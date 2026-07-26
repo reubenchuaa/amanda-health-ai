@@ -1,9 +1,9 @@
-_Updated: Sun, 26 Jul 2026 at 07:00 PM SGT_
+_Updated: Sun, 26 Jul 2026 at 07:31 PM SGT_
 
-**Fever-free day 3, Amanda — you've reached the earliest all-clear checkpoint! 🎉**
+**Fever-free day 3, Amanda — you're right at the finish line of this recovery checkpoint! 🎉**
 
 **How you're doing**
-Your resting heart rate has held steady at 65 bpm on both 24 Jul and 25 Jul — clearly down from the 67 bpm peak on 20-21 Jul when the flu was hitting hardest, a genuinely reassuring trend. Your last run is still safely banked from 19 Jul (6.6 km, avg HR 157) and it isn't going anywhere while your body finishes the recovery job.
+Your resting heart rate is holding steady at 65 bpm on both 24 Jul and 25 Jul — clearly down from the 67 bpm peak on 20-21 Jul when the flu was hitting hardest, a genuinely reassuring trend. Your last run is still safely banked from 19 Jul (6.6 km, avg HR 157) and it isn't going anywhere while your body finishes the recovery job.
 
 **Today's session**
 Today, Sunday 26 Jul, is fever-free day 3 — the final day of the 3 full fever-free days (without medication) the return protocol requires. If you're medication-free and fully clear below the neck by tonight, you'll have hit your earliest possible all-clear. Either way, today's only job is rest — no running and no strength work yet, since both count as exercise under the "neck-check" rule. Zero runs logged this week, and that is exactly as it should be while the illness override is active.
