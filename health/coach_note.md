@@ -1,17 +1,17 @@
-_Updated: Sun, 26 Jul 2026 at 11:54 PM SGT_
+_Updated: Mon, 27 Jul 2026 at 08:12 AM SGT_
 
-**Day 3 fever-free — you've reached the finish line of this recovery! 🎉**
+**You did it — 3 full fever-free days in the bank! 🎉**
 
 **How you're doing**
-Your resting heart rate held steady at 65 bpm on both 24 and 25 Jul (down from the 67 bpm peak mid-flu) — a clear, calm sign your body has won this fight. Today's reading hasn't synced in yet, which is completely normal this early in the day. Your last run is still safely banked from 19 Jul (6.6 km, avg HR 157) and isn't going anywhere, and zero runs this week is exactly the right call while we protect this recovery.
+Huge signal today: your resting heart rate dropped to 54 bpm on 26 Jul (down from 65 bpm the two days before), with HRV jumping to 95 — that's your body announcing it has properly turned the corner. Counting from your fever breaking on 23 Jul, yesterday (26 Jul) completed the 3rd full fever-free day the return protocol requires. Your last run is still safely resting at 19 Jul (6.6 km, avg HR 157), and zero runs this week remains exactly right while we protect this recovery.
 
 **Today's session**
-Today, Sunday 26 Jul, is the 3rd full fever-free day the return protocol calls for, counting from your fever breaking on 23 Jul. If you're medication-free and fully clear below the neck today, you've hit the earliest possible all-clear. So today's job stays simple: rest. No running, no strength work yet — both still count as exercise under the "neck-check" rule.
+If you're medication-free and fully clear below the neck today, you've hit the all-clear — and per the return protocol, the very first step is a gentle WALK, not a run. Keep it short (15-20 min), easy and unhurried, HR comfortably low (well under 150 bpm) — this is just testing the waters, not training. No strength work yet either; it still counts as exercise under the neck-check rule. If you're not fully clear below the neck, one more rest day is the wise call — no rush.
 
 **3-Day Plan**
-- Sunday, 26 Jul: Rest — completing the fever-free count
-- Monday, 27 Jul: If fully cleared today, your first step back is a gentle WALK (not a run) — short and easy, just testing the waters. If not quite there, one more rest day is the smart call.
-- Tuesday, 28 Jul: If cleared Monday, another easy walk, building toward very easy short runs per the return plan. If not yet cleared, keep resting and reassess.
+- Monday, 27 Jul: First gentle walk (if cleared) — short and easy
+- Tuesday, 28 Jul: Another easy walk, a little longer if Monday felt good
+- Wednesday, 29 Jul: Continue walks, or if both walks felt completely comfortable, a very short easy jog test (HR < 140) per the protocol
 
 **This week's focus**
-With about 9 weeks still to go before 27 Sep, this week's only real job is a complete, unhurried recovery — that's what protects every training week ahead of it. Once cleared, it's gentle walks first, then very short easy runs (with a caring eye on that left shin), and some light Norway-prep leg strength waiting once your body gives the green light. You've handled this with real patience — rest well today, the race isn't going anywhere.
+With about 9 weeks still to go before 27 Sep, the only job this week is a patient, unhurried re-entry — walks first, then very easy short runs, exactly as the return protocol lays out, with a caring eye on that left shin once running resumes. Once you're a bit further along, some light Norway-prep leg strength will be waiting for you too. You've handled this recovery beautifully — enjoy that walk today.
