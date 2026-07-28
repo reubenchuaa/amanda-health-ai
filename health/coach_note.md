@@ -1,17 +1,17 @@
-_Updated: Tue, 28 Jul 2026 at 01:55 PM SGT_
+_Updated: Tue, 28 Jul 2026 at 02:12 PM SGT_
 
-**Two walks in the books — your body is doing everything right! 🌤️**
+**Five days fever-free and your body is proving it — recovery is real! 🌤️**
 
 **How you're doing**
-Your recovery numbers keep climbing in the right direction: resting HR held steady at 52-55 bpm the last two days (down from 65-67 during the flu), and HRV bounced beautifully to 95 on Saturday and 75 on Sunday — both excellent signs your nervous system has recovered. You've clearly been active too, with solid step counts both days. Runs are still resting at zero this week and 6.6 km on 19 Jul — exactly right while you finish this careful re-entry.
+Your numbers keep telling a great story: resting HR held at 52–55 bpm on Sat/Sun (down from the 65–67 bpm you were seeing mid-flu), and HRV bounced to 95 then 75 — both strong signs your nervous system has bounced back. Runs remain at zero this week and your last run is still the easy 6.6 km on 19 Jul, exactly as it should be while your body finishes healing.
 
 **Today's session**
-Today's session is another easy WALK — a touch longer than the last one if it felt good, HR comfortably under 150 bpm. Still no running and no strength work yet (both count as real exercise under the neck-check rule), but you're building the foundation for both. If you're feeling completely normal below the neck, this is a great sign you're close to your first easy run.
+You're now 5 full days past your fever breaking on 23 Jul — past the minimum 3-day fever-free window. If you're genuinely feeling normal below the neck (no cough, congestion, or body aches), today's a great day for another easy WALK, a touch longer than the last one, HR comfortably under 150 bpm. Still no running or strength work — both count as real exercise under the neck-check rule — but you're right at the doorstep of your first run back.
 
 **3-Day Plan**
-- Tuesday, 28 Jul: Easy walk, a little longer than before, relaxed pace
-- Wednesday, 29 Jul: Continue walking, or — if the last two walks felt totally comfortable — a very short easy jog test (HR < 140, walk breaks welcome)
+- Tuesday, 28 Jul: Easy walk, slightly longer, relaxed pace, HR < 150
+- Wednesday, 29 Jul: Continue walking, or — if you're fully symptom-free and the last couple of walks felt totally comfortable — a very short easy jog test (HR < 140, walk breaks welcome)
 - Thursday, 30 Jul: Rest or another walk, depending on how Wednesday's test feels
 
 **This week's focus**
-This week is about a patient, walk-first return that lets your recovered fitness show up safely rather than rushing the calendar — with about 8.5 weeks still to go before 27 Sep, there's ample room to rebuild. Once you're back running, we'll keep a caring eye on that left shin and start weaving in some light Norway-prep leg strength. You're handling this exactly right — every walk is real progress toward the start line.
+This week is about patiently confirming your recovered fitness is safe to reload rather than rushing the calendar — with roughly 8.5 weeks still to go before 27 Sep, there's ample room to rebuild. Once running resumes, we'll keep a caring eye on that left shin and start weaving in some light Norway-prep leg strength. Every walk right now is real progress toward a strong, healthy start line — you're handling this exactly right.
