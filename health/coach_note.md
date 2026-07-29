@@ -1,17 +1,17 @@
-_Updated: Wed, 29 Jul 2026 at 09:35 PM SGT_
+_Updated: Wed, 29 Jul 2026 at 11:10 PM SGT_
 
-**Still your day, Amanda — six days fever-free and your body is giving you the green light! 🌤️**
+**You did it, Amanda — first run back in the books! 🎉**
 
 **How you're doing**
-Your last three wellness readings (RHR 52, 55, 52 bpm and HRV 75-95 on 26-28 Jul) are exactly what full recovery looks like — settled and strong, well past the post-viral noise from last week. It's now been 10 days since your last run (that easy 6.6 km on 19 Jul) with 0 runs so far this week, and that patience is exactly why your numbers look this good.
+Huge milestone today: after 10 patient days off, you got out for 5.3 km. Your wellness numbers this week (RHR 52-55 bpm, HRV 75-95) show your body has genuinely bounced back from the flu — that's textbook recovery. Your run today ran a little hot (avg HR 168 bpm) — completely normal for a first effort back after illness, with Singapore heat and 10 days of deconditioning both adding bpm, so don't read anything negative into that number.
 
 **Today's session**
-You're 6 full days past your fever breaking (23 Jul) — comfortably clear of the 3-day minimum. If you feel completely normal below the neck (no cough, congestion, or aches), today's a great day for your first easy jog test: keep HR under 140 bpm, mixing gentle running minutes with generous walk breaks over 3-4 km — roughly 7:30-8:30/km when moving, but let HR lead, not pace. Favor softer surfaces if you can, and if that left shin says anything at all, ease straight off. Not feeling 100%? An easy walk (HR < 150) is just as valuable today — there's no rush.
+You've already had your run today, so the job now is to let it settle: hydrate well, stretch out those legs, and take it easy for the rest of the day. Great instinct getting the first jog test in — now let's make the next one even gentler so your HR has room to ease down. No more running needed today.
 
 **3-Day Plan**
-- Wednesday, 29 Jul: Easy jog test if fully symptom-free (HR < 140, walk breaks OK) — otherwise an easy walk
-- Thursday, 30 Jul: Rest, or a gentle walk, guided by how today felt
-- Friday, 31 Jul: Another short easy jog if today went well, gradually building back
+- Wednesday, 29 Jul: Done — first jog back (5.3 km). Rest of today: hydrate, stretch, relax.
+- Thursday, 30 Jul: Rest or a gentle walk — let the legs recover before the next effort.
+- Friday, 31 Jul: Another short easy jog if you're feeling good — aim to keep HR under 140-145 this time (more walk breaks are your friend), roughly 8:00-8:30/km when moving. Let HR lead, not pace.
 
 **This week's focus**
-This week is about safely confirming your recovered fitness before reloading — with ~8 weeks to 27 Sep, there's plenty of time to rebuild properly. Once you're running consistently again we'll keep a caring eye on that left shin, and light Norway-prep leg strength (think gentle step-ups for those hiking legs!) is waiting for when you're cleared. Every gentle step today is real progress — you're handling this exactly right.
+We're still in the gentle "return to running" window post-flu — the goal is banking a few clean, low-HR runs before we reload any structure, with ~8 weeks to race day there's no need to rush. One thing to keep an eye on as running resumes: that left shin from 8 Jul — if it stayed quiet today, great, keep favoring softer surfaces and ease off at the first twinge; if it niggles for 3 runs running, let's get it checked by a physio. Once you've got a couple more easy runs banked, we'll bring in some light leg strength work for your Norway hiking legs too — something to look forward to!
