@@ -1,12 +1,12 @@
-_Updated: Wed, 29 Jul 2026 at 08:33 PM SGT_
+_Updated: Wed, 29 Jul 2026 at 09:04 PM SGT_
 
-**Six days fever-free and your body is giving you the green light — today could be your comeback jog! 🌤️**
+**Six days fever-free and your numbers are lighting up green across the board — today's still your day for that comeback jog! 🌤️**
 
 **How you're doing**
-Your last two wellness readings (52 bpm resting HR, HRV in the high 70s-90s on 26-28 Jul) are exactly what a fully recovered system looks like — strong, settled numbers well past the post-viral noise you saw last week. It's now been 10 days since your last run (that easy 6.6 km on 19 Jul) and 0 runs so far this week, and that extra patience has let your body finish the job properly.
+Your last three wellness readings (RHR 52, 55, 52 bpm and HRV 75-95 on 26-28 Jul) are textbook full recovery — strong, settled, and well past the post-viral noise from last week. It's now been 10 days since your last run (that easy 6.6 km on 19 Jul) and 0 runs so far this week, and that patience is exactly why your body looks so ready.
 
 **Today's session**
-You're now 6 full days past your fever breaking (23 Jul) — well past the 3-day minimum. If you feel completely normal below the neck (no cough, congestion, or aches), today is a great day for your first easy jog test: keep HR under 140 bpm, mixing gentle running minutes with generous walk breaks over 3-4 km — roughly 7:30-8:30/km when moving, but let HR lead, not pace. Since it's your first run back, favor softer surfaces where you can and ease off if that left shin says anything at all. If you're not feeling 100%, an easy walk (HR < 150) is just as valuable — there's no rush, and either choice moves you forward.
+You're 6 full days past your fever breaking (23 Jul) — well clear of the 3-day minimum. If you feel completely normal below the neck (no cough, congestion, or aches), today is a great day for your first easy jog test: keep HR under 140 bpm, mixing gentle running minutes with generous walk breaks over 3-4 km — roughly 7:30-8:30/km when moving, but let HR lead, not pace. Since it's your first run back, favor softer surfaces where you can and ease off if that left shin says anything at all. If you're not feeling 100%, an easy walk (HR < 150) is just as valuable — there's no rush, and either choice moves you forward.
 
 **3-Day Plan**
 - Wednesday, 29 Jul: Easy jog test if fully symptom-free (HR < 140, walk breaks OK) — otherwise an easy walk
