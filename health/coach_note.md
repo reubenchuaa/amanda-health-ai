@@ -1,12 +1,12 @@
-_Updated: Wed, 29 Jul 2026 at 05:26 PM SGT_
+_Updated: Wed, 29 Jul 2026 at 05:58 PM SGT_
 
-**Six days fever-free and today's the day to test the legs — this is exactly on schedule! 🌤️**
+**Six days fever-free and your numbers look fantastic — today's a great day to test the legs! 🌤️**
 
 **How you're doing**
-Yesterday's readings (Tuesday) were your best of the whole recovery: resting HR down to 52 bpm and HRV back up to 78 — strong signs your body has fully reset from the flu. It's been 10 days since your last run (that easy 6.6 km on 19 Jul) and 0 runs this week, and that patience has been exactly the right call while your numbers settled.
+Yesterday's readings were your best of the whole recovery: resting HR down to 52 bpm and HRV back up to 78 — strong signs your body has fully reset from the flu. It's been 10 days since your last run (that easy 6.6 km on 19 Jul) and 0 runs this week, and that patience has been exactly the right call while your numbers settled.
 
 **Today's session**
-You're now 6 full days past your fever breaking (23 Jul) — well past the 3-day minimum. If you feel completely normal below the neck (no cough, congestion, or aches), today is a great day for your first easy jog test: keep HR under 140 bpm, mixing gentle running minutes with generous walk breaks — roughly 7:30-8:30/km when moving, but let HR lead, not pace. If you're not feeling 100%, an easy walk (HR < 150) is just as valuable — there's no rush, and either choice moves you forward.
+You're now 6 full days past your fever breaking (23 Jul) — well past the 3-day minimum. If you feel completely normal below the neck (no cough, congestion, or aches), today is a great day for your first easy jog test: keep HR under 140 bpm, mixing gentle running minutes with generous walk breaks over 3-4 km — roughly 7:30-8:30/km when moving, but let HR lead, not pace. Since it's your first run back, favor softer surfaces where you can and ease off if that left shin says anything at all. If you're not feeling 100%, an easy walk (HR < 150) is just as valuable — there's no rush, and either choice moves you forward.
 
 **3-Day Plan**
 - Wednesday, 29 Jul: Easy jog test if fully symptom-free (HR < 140, walk breaks OK) — otherwise an easy walk
