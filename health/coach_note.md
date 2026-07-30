@@ -1,12 +1,12 @@
-_Updated: Thu, 30 Jul 2026 at 05:18 PM SGT_
+_Updated: Thu, 30 Jul 2026 at 05:50 PM SGT_
 
-**Another smart rest day, Amanda — Wednesday's comeback run is still banking gains today! 🌿**
+**Rest day #2, Amanda — Wednesday's comeback run is still quietly banking gains! 🌿**
 
 **How you're doing**
-Wednesday's 5.3 km run (7:58/km, avg HR 168) remains this week's headline — a real milestone as your first run back after Influenza A. That HR is completely normal for a first effort back in Singapore heat, not a red flag. Your resting HR (52-55 bpm) and HRV (74-95) over the past several days are sitting right at your healthy baseline, the clearest sign your body has genuinely bounced back.
+Wednesday's 5.3 km run (7:58/km, avg HR 168) is still this week's big win — your first run back after Influenza A, and a real milestone. That HR is completely normal for a first effort back in Singapore heat, not a warning sign. Your resting HR (52-55 bpm) and HRV (74-95) over the last several days are sitting right at your healthy baseline — the clearest proof your body has genuinely bounced back.
 
 **Today's session**
-Rest day — you've logged 1 run this week, and today lets Wednesday's effort fully absorb before your next one. When you're ready (today or Friday), aim for a second easy jog: keep HR under 140 bpm (roughly 8:00-8:30/km when moving), 3-4 km total, walk breaks whenever you like. HR leads, pace follows — never chase a number on the watch.
+Rest day — you've logged 1 run this week, and today lets Wednesday's effort fully absorb before the next one. When you're ready (today or tomorrow), aim for a second easy jog: keep HR under 140 bpm (roughly 8:00-8:30/km when moving), 3-4 km total, walk breaks whenever you like. HR leads, pace follows — never chase a number on the watch.
 
 **3-Day Plan**
 - Thursday, 30 Jul: Rest day. Hydrate, stretch, let Wednesday's run settle in.
