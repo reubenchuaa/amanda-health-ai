@@ -1,17 +1,17 @@
-_Updated: Thu, 30 Jul 2026 at 11:48 PM SGT_
+_Updated: Fri, 31 Jul 2026 at 12:20 AM SGT_
 
-**Rest day, Amanda — Wednesday's comeback run is still the story of your week! 🌿**
+**Two clean days of recovery banked, Amanda — your comeback run is holding strong! 💪**
 
 **How you're doing**
-Your 5.3 km jog on Wednesday (7:58/km, avg HR 168) was a real milestone — your first run back after Influenza A, and your body handled it beautifully. That HR reading is completely normal for a first effort back in Singapore heat, not a warning sign. Even better: your resting HR (52-55 bpm) and HRV (74-78) over the last three days sit right back at your healthy pre-illness baseline — solid proof you've genuinely recovered.
+Wednesday's 5.3 km (7:58/km, avg HR 168) is now two days behind you, and everything since has looked great — resting HR sitting at 52-54 bpm and HRV at 74-78 the last three days, right at your healthy pre-illness baseline. That HR168 was simply Singapore heat plus a body waking back up after Influenza A, not a red flag. You're recovering well between efforts.
 
 **Today's session**
-Rest day. You've banked 1 run this week (5.3 km), and today lets Wednesday's effort fully absorb — that's exactly how the fitness gains lock in. When you're feeling good (today or tomorrow), aim for a second gentle jog: keep HR under 140 bpm (roughly 8:00-8:30/km when moving), 3-4 km total, walk breaks whenever you like. We're still in the careful post-flu return window, so this stays an easy, short effort rather than a structured training session.
+You've banked 1 run this week (5.3 km). We're still in the gentle return-to-running window post-flu, so if you're feeling good today, go for a second easy jog: HR under 140 bpm (roughly 8:00-8:30/km), 3-4 km, walk breaks whenever you like. No pressure though — if you'd rather wait a day, that's equally valid. This isn't a structured training session yet, just letting your body re-earn its running legs.
 
 **3-Day Plan**
-- Thursday, 30 Jul: Rest day. Hydrate, stretch, let Wednesday's run settle in.
 - Friday, 31 Jul: Second easy jog if you're feeling good — HR < 140, 3-4 km, walk breaks welcome.
-- Saturday, 01 Aug: Rest or a gentle walk — keep banking recovery between efforts.
+- Saturday, 01 Aug: Rest or a gentle walk — bank the recovery.
+- Sunday, 02 Aug: Rest, or your second jog here if Friday didn't happen — either way, no rush.
 
 **This week's focus**
-We're staying patient with the return-to-running progression after the flu — building volume gently (no more than 10-15% per week) rather than jumping into structured training, and with almost 8 weeks to race day there's zero need to rush. Keep favoring soft surfaces for that left shin from early July; it's stayed quiet, and if it keeps behaving you're in great shape (if it niggles again, we'll get it checked by a physio). Once you've banked a couple more clean, low-HR runs, we'll start weaving in some light leg strength work — think gentle step-ups — to build your Norway hiking legs too. Something great to look forward to!
+We're staying patient with the post-flu return — gentle volume, no more than 10-15% growth per week, with almost 8 weeks still on the clock before race day. Left shin has stayed quiet since early July; keep favoring soft surfaces. On a rest day, if you're up for it, try 2 sets of 8-10 slow step-ups (3-second lower) — that's the exact motion Norway's descents will demand, and it starts building your hiking legs while doubling as shin protection. Small, steady wins — you're doing this exactly right.
