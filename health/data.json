@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-07-31T23:40",
+  "synced_at": "2026-08-01T01:46",
   "workouts": [
     {
       "type": "Run",
@@ -13722,6 +13722,18 @@
           103.89225
         ]
       ]
+    },
+    {
+      "type": "Walk",
+      "name": "Walk",
+      "start": "2026-07-31T21:30:40",
+      "distance_km": 0.227,
+      "duration_mins": 5.0,
+      "avg_hr": 129,
+      "max_hr": 140,
+      "elevation_m": 13.0,
+      "calories": 12,
+      "avg_cadence": 45.8
     }
   ],
   "daily": [
@@ -14750,10 +14762,10 @@
     },
     {
       "date": "2026-07-31",
-      "resting_hr": null,
-      "hrv": null,
+      "resting_hr": 51,
+      "hrv": 63.0,
       "sleep_hours": null,
-      "steps": null,
+      "steps": 9850,
       "calories_burned": null
     }
   ]
