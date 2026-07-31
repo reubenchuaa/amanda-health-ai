@@ -1,9 +1,9 @@
-_Updated: Fri, 31 Jul 2026 at 10:41 PM SGT_
+_Updated: Fri, 31 Jul 2026 at 11:09 PM SGT_
 
-**Two runs banked this week, Amanda — the comeback is officially rolling 🌟**
+**Two runs banked this week, Amanda — the comeback keeps rolling 🌟**
 
 **How you're doing**
-You've now stacked 2 runs this week (5.3 km Tuesday, 2.5 km today) for 7.8 km total — right in line with your gentle post-flu rebuild. Recovery markers are still excellent: resting HR sitting at 52-55 bpm and HRV 70-95 over the past six days, exactly what we want to see. Today's HR ran a little warm (172 avg, 6:38/km) — that's most likely Singapore heat plus a brisker, shorter effort, not a setback; on your next jog, don't be afraid to slow down or add a walk break to bring it back under 140.
+You've stacked 2 runs this week (5.3 km Wednesday, 2.5 km today) for 7.8 km total — right in line with your gentle post-flu rebuild. Recovery markers are still excellent: resting HR sitting at 52-55 bpm and HRV 70-95 over the past several days, exactly what we want to see. Today's HR ran a little warm again (172 avg, 6:38/km) — most likely Singapore heat plus a brisker, shorter effort, not a setback; on your next jog, don't be afraid to slow down or add a walk break to bring it back under 140-150.
 
 **Today's session**
 Done and dusted! That 2.5 km jog is your second run of the week, which meets the return-protocol target — no more running needed today. Let your legs recover; that's productive work too.
