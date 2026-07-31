@@ -1,12 +1,12 @@
-_Updated: Fri, 31 Jul 2026 at 07:18 PM SGT_
+_Updated: Fri, 31 Jul 2026 at 07:37 PM SGT_
 
-**Eight days fever-free and counting — your body is locking in a great recovery, Amanda! 💪**
+**Eight days fever-free and your body is holding a beautiful recovery pattern, Amanda 💪**
 
 **How you're doing**
-Resting HR has held steady in the healthy 52-55 bpm range with HRV between 70-95 for the past six days (26-30 Jul) — exactly the pattern we want to see post-flu. Wednesday's 5.3 km jog (7:58/km, avg HR 168) is now two days behind you with clean recovery markers since; that HR number was simply Singapore heat plus a body still finding its post-viral rhythm, nothing to be concerned about.
+Resting HR has stayed steady in the healthy 52-55 bpm range with HRV between 70-95 over the past six days (26-30 Jul) — exactly what we want to see post-flu. Wednesday's 5.3 km jog (7:58/km, avg HR 168) is now two days behind you with clean recovery markers since; that HR was simply Singapore heat plus a body still finding its post-viral rhythm, nothing to be concerned about.
 
 **Today's session**
-You've banked 1 run this week (5.3 km). We're still deliberately in the gentle return window rather than jumping into structured training — if your legs feel good today, a second easy jog is a nice option: HR under 140 bpm (roughly 8:00-8:30/km), 3-4 km, walk breaks anytime. Totally fine to rest instead — nothing here needs to be "completed," your legs are re-earning fitness at their own pace.
+You've banked 1 run this week (5.3 km). We're staying in the gentle return window rather than jumping into structured training — if your legs feel good today, a second easy jog is a nice option: HR under 140 bpm (roughly 8:00-8:30/km), 3-4 km, walk breaks anytime. Totally fine to rest instead — nothing here needs to be "completed," your legs are re-earning fitness at their own pace.
 
 **3-Day Plan**
 - Friday, 31 Jul: Second easy jog if you're feeling good — HR < 140, 3-4 km, walk breaks welcome.
