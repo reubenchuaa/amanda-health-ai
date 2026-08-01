@@ -1,4 +1,4 @@
-_Updated: Sun, 02 Aug 2026 at 05:02 AM SGT_
+_Updated: Sun, 02 Aug 2026 at 06:30 AM SGT_
 
 **Two easy runs in the bank, resting HR holding steady — Norway is 6 days out and you're arriving fresh! 🌟**
 
