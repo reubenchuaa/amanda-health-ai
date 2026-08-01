@@ -1,17 +1,17 @@
-_Updated: Sat, 01 Aug 2026 at 10:32 PM SGT_
+_Updated: Sun, 02 Aug 2026 at 12:30 AM SGT_
 
-**Second run banked this week, Amanda — the comeback keeps rolling 🌟**
+**Two full weeks of consistent post-flu running, Amanda — this is exactly how a smart comeback looks**
 
 **How you're doing**
-You've now stacked 2 runs this week — 5.3 km Wednesday and 2.5 km today — for 7.8 km total, right on track for your gentle post-flu rebuild. Recovery markers look excellent: resting HR has been sitting at 52-55 bpm and HRV 70-95 over the past several days, both signs your body has bounced back well since the flu. Today's HR ran a touch warm (172 avg on a brisk 6:38/km effort) — that's Singapore heat plus pace, not a setback; next time, slowing down or adding a walk break will bring it back under control.
+You closed the week with 2 runs and 7.8 km total, right on track for your gentle rebuild. Your recovery markers back this up nicely: resting HR has settled at 51-55 bpm and HRV in the 63-95 range since July 26, a clear step up from the rougher week right after the flu (RHR 63-67, HRV mid-40s). Friday's 2.5 km did run a bit warm (172 avg bpm at 6:38/km) — Singapore heat plus effort, not a setback — but it's the second run in a row with HR creeping high, so let's dial the pace back slightly next time out.
 
 **Today's session**
-Done and dusted! That 2.5 km jog is your second run of the week, meeting the return-protocol target — no more running needed today. Let your legs soak up the recovery; that's productive training too.
+Both runs for the week are banked, so today is pure rest — no running needed. That's not time off from training, it's when the adaptation actually locks in.
 
 **3-Day Plan**
-- Friday, 31 Jul: Complete — 2.5 km easy jog done. Rest of the day is recovery.
-- Saturday, 01 Aug: Rest or a gentle walk. If you feel good, 2 sets of 8-10 slow step-ups (3-second lower each rep) — building hiking legs for Norway and adding a little extra shin protection.
-- Sunday, 02 Aug: Rest, or a relaxed walk — no running needed; next run can wait until next week.
+- Sunday, 02 Aug: Rest — legs recover, zero guilt.
+- Monday, 03 Aug: Rest or an easy walk. If you're feeling good, 2 sets of 8-10 slow step-ups (3-second lower each rep) — building hiking legs for Norway and giving that left shin some extra protection.
+- Tuesday, 04 Aug: Whenever suits you this week, your next run can be an easy one — keep HR under 150 bpm (roughly 7:00-7:30/km), walk breaks totally welcome.
 
 **This week's focus**
-We're still in the patient return-to-running window post-flu — two consistent, HR-guided runs beats chasing pace every time, and with almost 8 weeks to race day there's no need to rush. Your left shin has stayed quiet, so keep favoring soft surfaces as a precaution. You're doing this exactly right — steady wins the comeback.
+You're still in the patient, HR-guided return-to-running window post-flu — two steady runs beats chasing pace every time, and with Norway just a week away and almost 8 weeks to race day, there's no need to rush anything. Your left shin has stayed quiet, so keep favoring soft surfaces as insurance. Weeks like this one, banked steadily and smart, are exactly the foundation your sub-2:30 goal needs.
