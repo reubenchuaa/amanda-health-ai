@@ -1,4 +1,4 @@
-_Updated: Sun, 02 Aug 2026 at 11:05 PM SGT_
+_Updated: Mon, 03 Aug 2026 at 06:22 AM SGT_
 
 **Week's training locked in, Norway 6 days out — today is all about letting that work sink in 🌿**
 
