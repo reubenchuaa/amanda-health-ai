@@ -1,4 +1,4 @@
-_Updated: Sun, 02 Aug 2026 at 08:43 AM SGT_
+_Updated: Sun, 02 Aug 2026 at 09:30 AM SGT_
 
 **Two easy runs banked this week, resting HR steady at 51 — Norway is 6 days out and you're arriving fresh! 🌟**
 
