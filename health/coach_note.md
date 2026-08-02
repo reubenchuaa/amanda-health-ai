@@ -1,9 +1,9 @@
-_Updated: Sun, 02 Aug 2026 at 07:43 AM SGT_
+_Updated: Sun, 02 Aug 2026 at 08:43 AM SGT_
 
 **Two easy runs banked this week, resting HR steady at 51 — Norway is 6 days out and you're arriving fresh! 🌟**
 
 **How you're doing**
-This week you logged 2 runs — 5.3 km on Wednesday (avg HR 168) and 2.5 km on Friday (avg HR 172) — 7.8 km total, right on track for this gentle post-flu stretch. Your resting HR sat at 51 bpm on the 31st, matching your healthy pre-illness baseline, and it's now been 2 full rest days since that last run — your body is soaking up the adaptation nicely.
+This week you logged 2 runs — 5.3 km on Wednesday (avg HR 168) and 2.5 km on Friday (avg HR 172) — 7.8 km total, right on track for this gentle post-flu return window. Your resting HR held at 51 bpm on the 31st, matching your healthy pre-illness baseline, and it's now been 2 full rest days since that last run — your body is soaking up the adaptation nicely.
 
 **Today's session**
 No run today — with 2 runs already done this week, your training is complete. Rest is doing real work right now, letting Wednesday's and Friday's efforts lock in before Norway.
