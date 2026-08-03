@@ -1,4 +1,4 @@
-_Updated: Mon, 03 Aug 2026 at 07:38 PM SGT_
+_Updated: Mon, 03 Aug 2026 at 08:11 PM SGT_
 
 **Fresh legs, smart patience — Norway is one week away 🌿**
 
