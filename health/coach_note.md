@@ -1,4 +1,4 @@
-_Updated: Mon, 03 Aug 2026 at 10:08 PM SGT_
+_Updated: Mon, 03 Aug 2026 at 10:38 PM SGT_
 
 **One week to Norway — fresh legs, steady recovery 🌿**
 
