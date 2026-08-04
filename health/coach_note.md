@@ -1,4 +1,4 @@
-_Updated: Tue, 04 Aug 2026 at 04:44 PM SGT_
+_Updated: Wed, 05 Aug 2026 at 12:32 AM SGT_
 
 **Steady wins the race, Amanda — Norway is just days away and you're right on track 🌱**
 
