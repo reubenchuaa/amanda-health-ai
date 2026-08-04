@@ -1,16 +1,16 @@
-_Updated: Tue, 04 Aug 2026 at 12:11 PM SGT_
+_Updated: Tue, 04 Aug 2026 at 03:54 PM SGT_
 
-**Steady as she goes, Amanda — your body is quietly doing the recovery work 🌱**
+**Every rest day right now is still progress, Amanda — your recovery numbers are trending the right way 🌱**
 
 **How you're doing**
-Your last run (Fri 31 Jul, 2.5 km easy) is still your most recent, and that's completely fine — rest is part of the plan right now. Resting HR has mostly held in your healthy 51-55 bpm range this week, with one blip to 63 on 1 Aug (a totally normal one-day response the morning after a run) back down to 53 by 2 Aug. No red flags — just a body still finishing its post-flu rebuild.
+Your last run (Fri 31 Jul, 2.5 km) is now 4 days back, and that's completely fine — you're still in the patient rebuild phase post-flu. That run's HR did run high (172 bpm) — a normal post-viral + Singapore-heat combo, not a fitness concern, but a good reminder to ease the pace further next time out. Resting HR bounced to 63 on 1 Aug (typical the morning after a run) and was already back to a healthy 53 by 2 Aug — a great sign your body is recovering well.
 
 **Today's session**
-No runs yet this week, and per your return-to-running protocol we're still easing in rather than jumping back to the full plan. If you're feeling good today: an easy short run, HR under 140 (roughly 8:00-8:30/km), 3-4 km, walk breaks always welcome. If your legs or energy say otherwise, resting is just as productive — your body is still recalibrating post-virus, and that's normal, not a setback.
+No runs yet this week, and we're still following your return-to-running protocol rather than the full plan. If you feel good today: a gentle easy run, HR strictly under 140 (roughly 8:00-8:30/km), 3-4 km, walk breaks anytime. If not, resting is just as valuable — your body is still finishing its post-illness recalibration.
 
 **3-Day Plan**
 - Tuesday, 04 Aug: Optional very easy run, HR < 140, 3-4 km, walk breaks OK — or rest, listen to your body.
-- Wednesday, 05 Aug: Rest day. Once you're a bit further into your rebuild, we'll ease in some light strength work for Norway — for now, just recovery.
+- Wednesday, 05 Aug: Rest day. Once you're a little further along, we'll ease in light strength work for Norway — for now, just recovery.
 - Thursday, 06 Aug: Gentle short run if Tuesday was a rest day, otherwise rest — keeping the week light heading into Norway on 8 Aug.
 
 **This week's focus**
