@@ -1,17 +1,17 @@
-_Updated: Mon, 03 Aug 2026 at 10:38 PM SGT_
+_Updated: Tue, 04 Aug 2026 at 11:04 AM SGT_
 
-**One week to Norway — fresh legs, steady recovery 🌿**
+**4 days to Norway — fresh legs, steady as she goes 🌿**
 
 **How you're doing**
-You're back in a great rhythm: 5.3 km on Wednesday (avg HR 168) and 2.5 km on Friday at 6:38/km, avg HR 172 (that's the Singapore heat talking, not a fitness dip). Your resting HR has settled nicely into the low 50s all week, exactly the "fully recovered and adapting well" signal we want to see. You're now three full rest days out from that Friday run — fresh legs banked for the week ahead.
+Last week you banked a solid 7.8 km: 5.3 km on Wednesday (avg HR 168) and 2.5 km on Friday at 6:38/km, avg HR 172 (that's Singapore heat, not a fitness dip). Your resting HR is back to a healthy low-50s baseline (53 on Sunday) — a great sign your body has fully bounced back and is adapting well. You're now 4 days rest out from that Friday run, exactly the fresh-legs bank we want heading into Norway.
 
 **Today's session**
-No runs yet this week, and today is a scheduled rest day — genuinely productive right now, not a day off from progress. We're in Pre-Travel Taper, trimming volume so you land in Norway on Aug 8 with legs that are primed, not tired. Your next run (Tuesday) is easy: keep HR under 140 (roughly 8:00-8:30/km), 3-4 km, walk breaks always welcome. Later in the week, fit in one more short run — around 4 km with just a gentle 1-2 km pickup rather than a full tempo, keeping this week's volume comfortably within a sensible step up from last week's 7.8 km.
+No runs yet this week — today's the day for an easy one. Keep HR under 140 (roughly 8:00-8:30/km), 3-4 km, walk breaks always welcome. This is Pre-Travel Taper, so shorter and lighter is the plan working as intended, not a step back.
 
 **3-Day Plan**
-- Monday, 03 Aug: Rest day. Optional: 2 x 12 slow calf raises (3 sec down) — keeps the left shin resilient and starts building hiking-ready ankles for Norway.
 - Tuesday, 04 Aug: Easy run, HR under 140 (~8:00-8:30/km), 3-4 km.
-- Wednesday, 05 Aug: Rest — your second run can land Thursday or Friday, whenever suits you.
+- Wednesday, 05 Aug: Rest day. Optional: 2 x 10 step-ups on a low step or stair (each leg) — builds the exact hiking-ready legs you'll need in Norway and doubles as shin-friendly strength work. Ease off if you feel any shin twinge, and favour softer surfaces where you can.
+- Thursday, 06 Aug: Optional second run if it suits your schedule — short, 4-6 km with a gentle 1-2 km pickup (HR up to ~165). No pressure if Thursday's busy — Friday works just as well.
 
 **This week's focus**
-Pre-Travel Taper is about arriving in Norway with fresh, healthy legs rather than extra fitness — this lighter week is the plan working exactly as intended. Trust it, enjoy the rest, and get excited for those Lofoten trails! 💪
+Pre-Travel Taper is about trimming volume so you land in Lofoten on Aug 8 with legs that are primed, not tired — this lighter week is exactly the plan working. Trust the rest, and get excited for those trails! 💪
