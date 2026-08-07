@@ -1,17 +1,17 @@
-_Updated: Fri, 07 Aug 2026 at 06:10 PM SGT_
+_Updated: Fri, 07 Aug 2026 at 06:11 PM SGT_
 
-**Wheels up for Norway tomorrow, Amanda! 🏔️**
+**Bags packed, legs ready — Norway starts tomorrow, Amanda! 🎒🏔️**
 
 **How you're doing**
-Yesterday's 7.9 km run (7:28/km, avg HR 166) was a strong tempo-level effort — that HR reflects genuine work plus Singapore heat, not a red flag, and it closed out your Pre-Travel Taper right on target. Resting HR that morning was 55, just a couple beats above your ~53 baseline and still sitting comfortably in your healthy low-50s range. You're recovered, moving well, and fully ready for the trip.
+Yesterday's 7.9 km run at 7:28/km with an average HR of 166 was a genuinely strong tempo effort — that number is mostly Singapore heat plus real work, not a warning sign. It closed out your Pre-Travel Taper exactly on script. Your resting HR that day was 55, just a couple beats above your low-50s baseline, a great recovery signal heading into a big travel week.
 
 **Today's session**
-No run needed today. Yesterday's tempo effort was this week's key session and it landed exactly where the taper called for — there's nothing to gain from squeezing in more before you fly. Today is about resting the legs, hydrating well, and packing. A gentle walk is all your body needs.
+No run today — and that's exactly right. Yesterday was this week's key session, the taper is complete, and there's nothing to gain from squeezing in extra miles before a long flight. Let your legs absorb that effort. A relaxed walk while you finish packing is all the movement you need.
 
 **3-Day Plan**
-- Friday, 07 Aug: Rest / travel-prep. Let yesterday's effort absorb before the flight.
-- Saturday, 08 Aug: Travel day to Norway — no running, easy walking through transit is plenty.
-- Sunday, 09 Aug: First hike, Husfjellet (8.2 km, 640 m gain). Keep it conversational and steady — this kicks off your Norway training block.
+- Friday, 07 Aug: Rest / travel-prep. Hydrate well and let yesterday's tempo effort settle in.
+- Saturday, 08 Aug: Travel day to Norway — no running; easy walking through the airport and transit is plenty.
+- Sunday, 09 Aug: First hike, Husfjellet (8.2 km, 640 m gain). Keep it conversational and steady as you kick off the Norway block.
 
 **This week's focus**
-You've closed out your Pre-Travel Taper exactly on schedule, and the 9 hike days ahead act like a high-altitude training camp — huge aerobic and muscular stimulus that transfers straight to your half marathon. Keep an eye on that left shin on descents; shorter strides and trekking poles (if you have them) will help protect it. Once you're back, we'll ease in some light strength work — think slow eccentric step-downs and calf raises — to build durable, resilient legs for the road ahead. Enjoy every step of this adventure, you've earned it! 💪
+You've nailed the taper right on schedule, and the 9 hike days ahead act like a high-altitude training camp — massive aerobic and eccentric-strength stimulus that will transfer directly to your half marathon. On descents, keep an eye on that left shin — shorter strides and trekking poles (if you have them) go a long way. Once you're home, we'll layer in some light strength work — think slow eccentric step-downs and calf raises — to turn all that hiking power into durable running legs. Enjoy every summit, you've earned this trip! 💪
