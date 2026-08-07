@@ -1,12 +1,12 @@
-_Updated: Fri, 07 Aug 2026 at 02:31 PM SGT_
+_Updated: Fri, 07 Aug 2026 at 02:52 PM SGT_
 
 **One more sleep and Norway begins, Amanda! 🏔️**
 
 **How you're doing**
-Yesterday's 7.9 km run (7:28/km, avg HR 166) was a strong tempo-level effort — that HR reflects genuine work plus Singapore heat, not a red flag, and it capped your Pre-Travel Taper right on target. Resting HR that morning was 55, just a couple beats above your ~53 baseline — a clean recovery signal, and it's been sitting in that healthy low-50s range all week. You're moving well and fully ready for the trip.
+Yesterday's 7.9 km run (7:28/km, avg HR 166) was a strong tempo-level effort — that HR reflects genuine work plus Singapore heat, not a red flag, and it closed out your Pre-Travel Taper right on target. Resting HR that morning was 55, just a couple beats above your ~53 baseline and still sitting comfortably in your healthy low-50s range. You're recovered, moving well, and fully ready for the trip.
 
 **Today's session**
-No run needed today. Yesterday's effort was this week's key session, and it landed exactly where the taper called for — there's nothing to gain from squeezing in more before you fly. Today is about resting the legs, hydrating well, and packing. A gentle walk is all your body needs.
+No run needed today. Yesterday's tempo effort was this week's key session and it landed exactly where the taper called for — there's nothing to gain from squeezing in more before you fly. Today is about resting the legs, hydrating well, and packing. A gentle walk is all your body needs.
 
 **3-Day Plan**
 - Friday, 07 Aug: Rest / travel-prep. Let yesterday's effort absorb before the flight.
