@@ -1,4 +1,4 @@
-_Updated: Fri, 07 Aug 2026 at 06:11 PM SGT_
+_Updated: Fri, 14 Aug 2026 at 09:17 AM SGT_
 
 **Bags packed, legs ready — Norway starts tomorrow, Amanda! 🎒🏔️**
 
