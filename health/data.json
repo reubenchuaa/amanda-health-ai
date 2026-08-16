@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-16T18:20",
+  "synced_at": "2026-08-16T21:32",
   "workouts": [
     {
       "type": "Run",
@@ -14796,6 +14796,18 @@
       "elevation_m": 453.0,
       "calories": 461,
       "avg_cadence": 31.3
+    },
+    {
+      "type": "Walk",
+      "name": "Walk",
+      "start": "2026-08-16T13:08:50",
+      "distance_km": 1.671,
+      "duration_mins": 29.7,
+      "avg_hr": 104,
+      "max_hr": 132,
+      "elevation_m": 34.0,
+      "calories": 77,
+      "avg_cadence": 47.7
     }
   ],
   "daily": [
