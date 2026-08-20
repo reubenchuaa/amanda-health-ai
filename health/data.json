@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-20T12:33",
+  "synced_at": "2026-08-20T15:42",
   "workouts": [
     {
       "type": "Run",
@@ -14856,6 +14856,18 @@
       "elevation_m": 55.0,
       "calories": 90,
       "avg_cadence": 41.5
+    },
+    {
+      "type": "Hike",
+      "name": "Hike",
+      "start": "2026-08-19T16:23:07",
+      "distance_km": 6.264,
+      "duration_mins": 130.0,
+      "avg_hr": 125,
+      "max_hr": 178,
+      "elevation_m": 494.0,
+      "calories": 364,
+      "avg_cadence": 37.1
     }
   ],
   "daily": [
@@ -16036,17 +16048,17 @@
     },
     {
       "date": "2026-08-19",
-      "resting_hr": null,
-      "hrv": null,
+      "resting_hr": 63,
+      "hrv": 84.0,
       "sleep_hours": null,
-      "steps": null,
+      "steps": 18750,
       "calories_burned": null
     },
     {
       "date": "2026-08-20",
       "resting_hr": null,
       "hrv": null,
-      "sleep_hours": null,
+      "sleep_hours": 5.27,
       "steps": null,
       "calories_burned": null
     }
