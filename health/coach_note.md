@@ -1,17 +1,17 @@
-_Updated: Sun, 23 Aug 2026 at 07:37 PM SGT_
+_Updated: Sun, 23 Aug 2026 at 07:39 PM SGT_
 
-**Welcome home, Amanda — Norway is officially in the bank! 🏔️➡️🏃‍♀️**
+**Welcome home and welcome back, Amanda — your legs are ready when you are! 🏔️➡️👟**
 
 **How you're doing**
-You just wrapped 9 hard hiking days in Norway — around 83 km and a huge 6,059 m of climbing (plus just as much descending). That's an enormous aerobic and muscular stimulus, like a full training camp. Your last run before the trip (7.9 km, 7:28/km, avg HR 166 on 6 Aug) was a strong tempo effort that closed your taper right on script, and your recovery markers through the early hike days — RHR sitting comfortably in the 49-57 bpm range — showed your body handling the load really well. It's been 17 days since that last run, so don't be surprised if your legs feel a little different at first; that's completely normal after this much hiking.
+You're home from an incredible 9-day Norway hiking block — ~83 km and 6,059 m of climbing (and just as much descending) is a massive aerobic and strength stimulus, basically a training camp in disguise. Your resting HR sat at 52 bpm on 22 Aug, right in your normal healthy range, which is a great sign your body has absorbed the trip well. It's been 17 days since your last run (7.9 km, 7:28/km, avg HR 166 on 6 Aug — a strong tempo effort that closed things out perfectly before you left).
 
 **Today's session**
-Today is a full rest day, and that's exactly right. Between 9 demanding hike days and the long trip home, your legs and nervous system deserve a proper reset before running again. Your "Return to Running" phase starts this week, designed to go gently: 4-5 km very easy, HR under 145 (roughly 8:30-9:30/km, but let HR lead, not pace) — walk breaks fully welcome.
+Today is a full rest day — exactly right. You've done 0 runs this week, and that's by design: your "Return to Running" phase is built to ease you back in gently after that much hiking load. Tomorrow's the day you lace up again: 4-5 km very easy, HR under 145 (roughly 8:30-9:30/km, but let HR lead the way), walk breaks fully welcome.
 
 **3-Day Plan**
-- Sunday, 23 Aug: Rest — let travel and hiking fatigue settle.
-- Monday, 24 Aug: First easy run back — 4-5 km, keep HR under 145, walk breaks OK.
-- Tuesday, 25 Aug: Rest/recovery. A great day for 2-3 slow eccentric calf raises (3 seconds down) — they protect that left shin and keep building the durable, hike-strong legs Norway just gave you.
+- Sunday, 23 Aug: Rest — let travel and hiking fatigue fully settle.
+- Monday, 24 Aug: First easy run back — 4-5 km, HR under 145, walk breaks OK.
+- Tuesday, 25 Aug: Rest/recovery. Great day for 2-3 sets of slow eccentric calf raises (3 seconds down) — they protect that left shin and keep building the durable, hike-strong legs Norway just gave you.
 
 **This week's focus**
-This week is all about a gentle, patient return — rebuilding the running habit after a massive hiking block before any intensity comes back into play. All that Norway climbing is fitness in the bank; it'll show up in your running in a couple of weeks. You've earned this trip — now let's ease back in smart. 💪
+This week is about a patient, gentle return — rebuilding the running habit before any intensity comes back into play, per your Return to Running phase. All that Norway climbing is fitness in the bank; it'll show up in your running in a couple of weeks. You've earned this trip — now let's ease back in smart. 💪
