@@ -1,17 +1,17 @@
-_Updated: Fri, 14 Aug 2026 at 09:17 AM SGT_
+_Updated: Sun, 23 Aug 2026 at 07:37 PM SGT_
 
-**Bags packed, legs ready — Norway starts tomorrow, Amanda! 🎒🏔️**
+**Welcome home, Amanda — Norway is officially in the bank! 🏔️➡️🏃‍♀️**
 
 **How you're doing**
-Yesterday's 7.9 km run at 7:28/km with an average HR of 166 was a genuinely strong tempo effort — that number is mostly Singapore heat plus real work, not a warning sign. It closed out your Pre-Travel Taper exactly on script. Your resting HR that day was 55, just a couple beats above your low-50s baseline, a great recovery signal heading into a big travel week.
+You just wrapped 9 hard hiking days in Norway — around 83 km and a huge 6,059 m of climbing (plus just as much descending). That's an enormous aerobic and muscular stimulus, like a full training camp. Your last run before the trip (7.9 km, 7:28/km, avg HR 166 on 6 Aug) was a strong tempo effort that closed your taper right on script, and your recovery markers through the early hike days — RHR sitting comfortably in the 49-57 bpm range — showed your body handling the load really well. It's been 17 days since that last run, so don't be surprised if your legs feel a little different at first; that's completely normal after this much hiking.
 
 **Today's session**
-No run today — and that's exactly right. Yesterday was this week's key session, the taper is complete, and there's nothing to gain from squeezing in extra miles before a long flight. Let your legs absorb that effort. A relaxed walk while you finish packing is all the movement you need.
+Today is a full rest day, and that's exactly right. Between 9 demanding hike days and the long trip home, your legs and nervous system deserve a proper reset before running again. Your "Return to Running" phase starts this week, designed to go gently: 4-5 km very easy, HR under 145 (roughly 8:30-9:30/km, but let HR lead, not pace) — walk breaks fully welcome.
 
 **3-Day Plan**
-- Friday, 07 Aug: Rest / travel-prep. Hydrate well and let yesterday's tempo effort settle in.
-- Saturday, 08 Aug: Travel day to Norway — no running; easy walking through the airport and transit is plenty.
-- Sunday, 09 Aug: First hike, Husfjellet (8.2 km, 640 m gain). Keep it conversational and steady as you kick off the Norway block.
+- Sunday, 23 Aug: Rest — let travel and hiking fatigue settle.
+- Monday, 24 Aug: First easy run back — 4-5 km, keep HR under 145, walk breaks OK.
+- Tuesday, 25 Aug: Rest/recovery. A great day for 2-3 slow eccentric calf raises (3 seconds down) — they protect that left shin and keep building the durable, hike-strong legs Norway just gave you.
 
 **This week's focus**
-You've nailed the taper right on schedule, and the 9 hike days ahead act like a high-altitude training camp — massive aerobic and eccentric-strength stimulus that will transfer directly to your half marathon. On descents, keep an eye on that left shin — shorter strides and trekking poles (if you have them) go a long way. Once you're home, we'll layer in some light strength work — think slow eccentric step-downs and calf raises — to turn all that hiking power into durable running legs. Enjoy every summit, you've earned this trip! 💪
+This week is all about a gentle, patient return — rebuilding the running habit after a massive hiking block before any intensity comes back into play. All that Norway climbing is fitness in the bank; it'll show up in your running in a couple of weeks. You've earned this trip — now let's ease back in smart. 💪
