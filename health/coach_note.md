@@ -1,9 +1,9 @@
-_Updated: Mon, 24 Aug 2026 at 08:13 PM SGT_
+_Updated: Mon, 24 Aug 2026 at 08:35 PM SGT_
 
 **Welcome back to the road, Amanda — today's still the day! 🏃‍♀️**
 
 **How you're doing**
-Your resting HR has stayed lovely and low through the whole Norway recovery window — 54, 50, 52 bpm on 20-22 Aug — a great sign your body soaked up 83 km and 6,059 m of climbing with no lingering fatigue. It's been 18 days since your last run (7.9 km, 7:28/km, avg HR 166 on 6 Aug) and 0 runs so far this week — a full reset before easing back onto the road, exactly per plan.
+Your resting HR held lovely and low through the whole Norway recovery window — 54, 50, 52 bpm on 20-22 Aug — a great sign your body absorbed 83 km and 6,059 m of climbing with no lingering fatigue. It's been 18 days since your last run (7.9 km, 7:28/km, avg HR 166 on 6 Aug) and 0 runs so far this week — a full reset before easing back onto the road, exactly per plan.
 
 **Today's session**
 First easy run back: 4-5 km, keep HR under 145 (roughly 8:30-9:30/km, but let your heart rate lead over the watch's pace number). Walk breaks are totally welcome — your legs have been doing hiking work, not running work, so an unfamiliar rhythm at first is completely normal and fades fast.
