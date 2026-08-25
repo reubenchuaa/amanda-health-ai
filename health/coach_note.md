@@ -1,17 +1,17 @@
-_Updated: Wed, 26 Aug 2026 at 07:04 AM SGT_
+_Updated: Wed, 26 Aug 2026 at 07:24 AM SGT_
 
-**One run down, Amanda — the comeback is officially underway! 🎉**
+**Rest day, recovery day — and your legs are quietly doing the real work! 🌿**
 
 **How you're doing**
-Tuesday's 4.8 km at avg HR 169 is in the books — that's your first run since Norway, and honestly, a great re-entry. The elevated HR isn't a red flag; it's Singapore heat plus legs still shaking off 83 km and 6,059 m of hiking. Resting HR was 55 on Monday, right in your normal 50-55 baseline, so recovery signs look solid.
+Tuesday's 4.8 km at avg HR 169 is still the highlight of your week — a strong first run back after Norway, even with Singapore heat pushing that number up. Resting HR has held steady at 55 for three days running (Aug 23-25), right in your normal 50-55 range, which is a great sign your body is adapting well post-hike. Nice touch adding a strength session yesterday too — that's exactly the kind of cross-training that builds durability.
 
 **Today's session**
-Rest day — no run needed. You're 1 of 2 done for the week, and this downtime is exactly when your legs adapt to Tuesday's effort. If you'd like to move, this is a perfect day for 2-3 sets of slow eccentric calf raises (3 seconds down): they build ankle resilience, protect your left shin, and turn your Norway leg strength into running durability.
+Rest day — no run needed. You're 1 of 2 runs done for the week, and today is when Tuesday's effort gets converted into fitness. If you want to move, 2-3 sets of slow eccentric calf raises (3 seconds down) are a great low-key option — they build ankle resilience, look after your left shin, and turn your Norway leg strength into running durability.
 
 **3-Day Plan**
-- Wednesday, 26 Aug: Rest day (optional calf raises as above). Training happening behind the scenes. ✅
-- Thursday, 27 Aug: Key session — 6 km easy, HR under 145-150 (roughly 8:30-9:30/km, but let HR lead). Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. No tempo yet — just smooth and comfortable.
-- Friday, 28 Aug: Rest — week's running complete once Thursday's done. Great spot to note how the left shin felt on Thursday; if any soreness, ease onto softer surfaces and keep the calf raises going.
+- Wednesday, 26 Aug: Rest day (optional calf raises). Training happening behind the scenes. ✅
+- Thursday, 27 Aug: Key session — 6 km easy, HR under 145-150 (roughly 8:30-9:30/km, but let HR lead, not pace). Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Still no tempo — smooth and comfortable is the goal.
+- Friday, 28 Aug: Rest — week's running complete once Thursday's done. Good day to check in on the left shin; if any soreness shows up, ease onto softer surfaces and keep the calf raises going.
 
 **This week's focus**
-You're in the Return to Running phase, where the whole goal is patiently re-adapting after Norway before any intensity returns — trust that Tuesday's higher HR will settle as your legs remember road running. You've got this, Amanda! 💪
+You're in the Return to Running phase, where the whole point is patiently re-adapting after 83 km and 6,059 m of Norway hiking before any intensity returns — trust that your legs remember this. You've got this, Amanda! 💪

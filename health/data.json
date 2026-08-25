@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-26T07:03",
+  "synced_at": "2026-08-26T07:23",
   "workouts": [
     {
       "type": "Run",
@@ -15882,6 +15882,18 @@
           103.89274
         ]
       ]
+    },
+    {
+      "type": "WeightTraining",
+      "name": "Functional Strength Training",
+      "start": "2026-08-24T21:13:23",
+      "distance_km": 0,
+      "duration_mins": 55.6,
+      "avg_hr": 112,
+      "max_hr": 162,
+      "elevation_m": 0,
+      "calories": 194,
+      "avg_cadence": null
     }
   ],
   "daily": [
@@ -17102,10 +17114,10 @@
     },
     {
       "date": "2026-08-25",
-      "resting_hr": null,
-      "hrv": null,
+      "resting_hr": 55,
+      "hrv": 88.0,
       "sleep_hours": 6.16,
-      "steps": null,
+      "steps": 12656,
       "calories_burned": null
     },
     {
