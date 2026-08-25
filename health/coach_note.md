@@ -1,17 +1,17 @@
-_Updated: Tue, 25 Aug 2026 at 02:19 PM SGT_
+_Updated: Tue, 25 Aug 2026 at 08:29 PM SGT_
 
-**Green light confirmed — today's the day, Amanda 🏃‍♀️**
+**You're back, Amanda — first run since Norway is in the books! 🎉**
 
 **How you're doing**
-Your resting HR has held steady at 55 bpm the last two days (23–24 Aug), right in your normal low-50s range — a clear sign your body fully absorbed the 83 km / 6,059 m of Norway climbing with no lingering strain. It's been 19 days since your last run (7.9 km, 7:28/km, avg HR 166 on 6 Aug) and 0 runs so far this week, which is completely expected after a hiking-heavy trip and the travel home. Nothing but green lights here.
+Huge milestone today: 4.8 km at 7:55/km, your first run in 19 days after 83 km of Norway hiking. Your resting HR is holding steady at 55 bpm (right in your normal range), so recovery from the trip is solid. One thing to note gently: your average HR today was 169 — higher than the 145 target for this easy re-entry run. That's completely understandable (Singapore heat + legs still shifting from "hiking mode" to "running mode"), but it's a good reminder to let HR lead the pace this week rather than chasing a number.
 
 **Today's session**
-First easy run back: 4-5 km, keep HR under 145 (roughly 8:30-9:30/km, but let your heart rate lead, not the pace number). Walk breaks are fully welcome — your legs have been in hiking mode, not running mode, so anything feeling a little "off" at first is normal and fades fast.
+You've done 1 of 2 runs this week (easy, ✅ complete) — no more running needed today. Enjoy the rest!
 
 **3-Day Plan**
-- Tuesday, 25 Aug: Easy run back — 4-5 km, HR under 145, walk breaks OK.
-- Wednesday, 26 Aug: Rest/recovery day. Great day for 2-3 sets of slow eccentric calf raises (3 seconds down) — they build ankle resilience, keep protecting that left shin, and keep turning your Norway climbing into durable running legs.
-- Thursday, 27 Aug: Second run — 6 km easy, HR under 145, no tempo yet.
+- Tuesday, 25 Aug: Done! Easy run back, 4.8 km. Nice work. ✅
+- Wednesday, 26 Aug: Rest day. Your legs are adapting — that's real training happening even while you're off your feet. Great day for 2-3 sets of slow eccentric calf raises (3 seconds down) — they build ankle resilience, protect that left shin, and keep converting your Norway strength into running durability.
+- Thursday, 27 Aug: Key session — 6 km easy, HR under 145 (roughly 8:30-9:30/km, but watch your watch, not the pace). No tempo yet. If HR creeps up like today, ease off the effort or add a short walk break — that's smart pacing, not a setback.
 
 **This week's focus**
-This week is all about a patient re-entry — letting your legs shift from hiking mode to running mode before any intensity returns, exactly per the Return to Running phase. Keep an eye on that left shin as mileage restarts, lean on the calf raises, and trust that all that Norway fitness is banked — it'll show up in your running within a couple of weeks. 💪
+This is a patient re-entry week per your Return to Running phase — the goal is letting your legs and cardiovascular system re-adapt to road running (not hiking) before any intensity returns. Keep an eye on that left shin as mileage restarts, and trust that today's higher HR is just heat and freshness catching up — it'll settle fast as your body finds its running rhythm again. Great start back! 💪
