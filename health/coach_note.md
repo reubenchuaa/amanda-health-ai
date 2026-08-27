@@ -1,4 +1,4 @@
-_Updated: Wed, 26 Aug 2026 at 09:00 PM SGT_
+_Updated: Thu, 27 Aug 2026 at 01:06 PM SGT_
 
 **Rest day — and your recovery numbers are looking rock-solid! 🌿**
 
