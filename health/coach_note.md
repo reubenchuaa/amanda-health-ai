@@ -1,16 +1,16 @@
-_Updated: Sat, 29 Aug 2026 at 12:32 PM SGT_
+_Updated: Sat, 29 Aug 2026 at 01:03 PM SGT_
 
 **Key session day — let's bank run #2 and close out Return to Running in style! 🎉**
 
 **How you're doing**
-Tuesday's 4.8 km run at avg HR 169 was a great first step back — remember, Singapore heat adds 10-15 bpm, so that number reflects the weather, not fading fitness. Four full recovery days later, your resting HR has held a steady 52-55 bpm and HRV has bounced healthily between 69-98 — textbook signs your body absorbed that run well and is ready for more.
+Tuesday's 4.8 km run at avg HR 169 was a strong step back into road running — remember, Singapore heat adds 10-15 bpm, so that number reflects the weather, not fading fitness. Four full recovery days later, your resting HR has held a steady 52-55 bpm and HRV has bounced healthily between 69-98 — textbook signs your body absorbed that run well and is primed for today's session.
 
 **Today's session**
-You've got 1 of 2 runs in the bank this week — today's the key session: 6 km easy, keep HR under 150 (roughly 8:30-9:30/km, but let HR lead over pace, not the other way round). Warm up with a 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Favor softer surfaces, and if that left shin makes any noise, ease off — it's been quiet, let's keep it that way.
+You've got 1 of 2 runs banked this week — today's the key session: 6 km easy, keep HR under 150 (roughly 8:30-9:30/km, but let HR lead over pace, not the other way round). Warm up with a 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Favor softer surfaces, and if that left shin makes any noise, ease off — it's been quiet, let's keep it that way.
 
 **3-Day Plan**
 - Saturday, 29 Aug: Key session — 6 km easy, HR under 150. Warm-up/cool-down as above.
-- Sunday, 30 Aug: Rest — week's training complete once today's run is done! Great day for 2-3 sets of slow eccentric calf raises (3 sec down) — they build on your Norway hiking legs, protect that shin, and make you a more durable runner.
+- Sunday, 30 Aug: Rest — this week's training is complete once today's run is done! Great day for 2-3 sets of slow eccentric calf raises (3 sec down) — they build your Norway hiking legs, protect that shin, and make you a more durable runner.
 - Monday, 31 Aug: Rest — you're stepping into Peak Block, where training turns race-specific and long runs build toward 18 km by mid-September. Nothing needed yet, just bank the recovery.
 
 **This week's focus**
