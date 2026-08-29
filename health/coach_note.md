@@ -1,6 +1,6 @@
-_Updated: Sat, 29 Aug 2026 at 06:03 PM SGT_
+_Updated: Sat, 29 Aug 2026 at 06:52 PM SGT_
 
-**Key session day — let's finish Return to Running strong! 🎉**
+**Key session day — let's close out Return to Running strong! 🎉**
 
 **How you're doing**
 Four clean recovery days since Tuesday's 4.8 km run (avg HR 169 — remember, Singapore heat adds 10-15 bpm, so that's the weather talking, not lost fitness). Resting HR has held rock-steady at 52-55 bpm all week and HRV has bounced healthily between 69-98 — textbook signs your body has fully absorbed the Norway hiking block and last run, and is primed for today.
