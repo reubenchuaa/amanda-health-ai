@@ -1,9 +1,9 @@
-_Updated: Sat, 29 Aug 2026 at 02:20 PM SGT_
+_Updated: Sat, 29 Aug 2026 at 03:27 PM SGT_
 
 **Key session day — let's bank run #2 and close out Return to Running in style! 🎉**
 
 **How you're doing**
-Tuesday's 4.8 km run at avg HR 169 was a strong step back into road running — remember, Singapore heat adds 10-15 bpm, so that number reflects the weather, not fading fitness. Four days on, your resting HR has held a steady 52-55 bpm and HRV has bounced healthily between 69-98 — textbook signs your body absorbed that run well and is primed for today.
+Tuesday's 4.8 km run at avg HR 169 was a strong step back into road running — remember, Singapore heat adds 10-15 bpm, so that number reflects the weather, not fading fitness. Since then your resting HR has held a steady 52-55 bpm and HRV has bounced healthily between 69-98 — textbook signs your body absorbed that run well and is primed for today.
 
 **Today's session**
 You've got 1 of 2 runs banked this week — today's the key session: 6 km easy, keep HR under 150 (roughly 8:30-9:30/km, but let HR lead over pace). Warm up with a 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Favor softer surfaces, and if that left shin makes any noise, ease off — it's been quiet, let's keep it that way.
