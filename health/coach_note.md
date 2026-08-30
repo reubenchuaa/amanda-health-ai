@@ -1,9 +1,9 @@
-_Updated: Sun, 30 Aug 2026 at 11:31 AM SGT_
+_Updated: Sun, 30 Aug 2026 at 10:29 PM SGT_
 
-**Second run of the week, right on cue — let's close out Return to Running today! 🎉**
+**Let's close out Return to Running today, Amanda — you're one run away! 🎉**
 
 **How you're doing**
-Five days out from Tuesday's 4.8 km run (avg HR 169 — Singapore heat plus post-Norway legs, not a fitness dip), your body has used the rest beautifully: resting HR has held steady in the low-to-mid 50s all week and HRV has stayed strong (69-98). You're fully recovered and ready to go.
+You're five days out from Tuesday's 4.8 km run (avg HR 169 — that's Singapore heat plus post-Norway legs, not a fitness dip), and your body has used the rest beautifully: resting HR has held steady in the low-to-mid 50s all week and HRV has stayed strong (69-98). Nice bonus too — you already snuck in a 55-min strength session on Monday. You're fully recovered and ready to go.
 
 **Today's session**
 You've banked 1 of 2 runs this week (Tuesday's easy 4.8 km) — today is the key session that completes Return to Running: **6 km easy, HR under 150** (roughly 8:30-9:30/km, but let HR lead, not pace). Warm up with a 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Stick to softer surfaces, and if that left shin makes any noise, ease off immediately — it's been quiet, let's keep it that way.
