@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-08-30T17:43",
+  "synced_at": "2026-08-30T20:39",
   "workouts": [
     {
       "type": "Run",
@@ -15894,6 +15894,30 @@
       "elevation_m": 0,
       "calories": 194,
       "avg_cadence": null
+    },
+    {
+      "type": "Walk",
+      "name": "Walk",
+      "start": "2026-08-29T21:14:18",
+      "distance_km": 1.151,
+      "duration_mins": 22.5,
+      "avg_hr": 100,
+      "max_hr": 128,
+      "elevation_m": 26.0,
+      "calories": 39,
+      "avg_cadence": 39.4
+    },
+    {
+      "type": "Walk",
+      "name": "Walk",
+      "start": "2026-08-29T18:46:15",
+      "distance_km": 1.841,
+      "duration_mins": 44.8,
+      "avg_hr": 80,
+      "max_hr": 104,
+      "elevation_m": 262.0,
+      "calories": 60,
+      "avg_cadence": 39.2
     }
   ],
   "daily": [
@@ -17146,17 +17170,17 @@
     },
     {
       "date": "2026-08-29",
-      "resting_hr": null,
-      "hrv": null,
+      "resting_hr": 53,
+      "hrv": 76.0,
       "sleep_hours": null,
-      "steps": null,
+      "steps": 13703,
       "calories_burned": null
     },
     {
       "date": "2026-08-30",
       "resting_hr": null,
       "hrv": null,
-      "sleep_hours": null,
+      "sleep_hours": 7.77,
       "steps": null,
       "calories_burned": null
     }
