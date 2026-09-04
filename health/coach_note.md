@@ -1,17 +1,17 @@
-_Updated: Fri, 04 Sep 2026 at 11:11 PM SGT_
+_Updated: Sat, 05 Sep 2026 at 12:11 AM SGT_
 
-**Fresh legs, fantastic recovery numbers — let's kick off Peak Block properly today! 🌟**
+**Recovery numbers still glowing — let's put them to work with an easy run today, Amanda! 🌿**
 
 **How you're doing**
-It's been 10 days since your last run (4.8 km, Tue 25 Aug, HR 169 — that's the Singapore heat talking, not fitness), but your body has used the downtime beautifully: resting HR sat at just 51 bpm both Tue and Wed this week (below your usual low-50s baseline), HRV climbed to a strong 106, and sleep has been steady around 6.5-7.5 hrs. That's about as green a light as recovery data gets.
+It's been 11 days since your last run (4.8 km, Tue 25 Aug, HR 169 — that's Singapore heat, not a fitness dip), and your body has used the rest well: resting HR held at a low 51 bpm on both Sep 2 and Sep 3 (below your usual low-50s baseline), with HRV at a strong 106. That's a green light if ever there was one — your legs are fresh and ready.
 
 **Today's session**
-Zero runs logged so far this week — totally fine, we've got the whole weekend ahead. Let's bank your **easy run today: 6 km, HR under 150** (roughly 8:30-9:30/km, conversational pace). Favor soft surfaces if you can, and if that left shin says anything at all, back off immediately — it's been quiet for weeks and we want it to stay that way.
+No runs banked yet this week, so let's start with the **easy run: 6 km, HR under 150** (roughly 8:30-9:30/km, comfortable and conversational). Stick to soft surfaces where you can — your left shin has been quiet for weeks and easy pace is the perfect way to keep it that way.
 
 **3-Day Plan**
-- Friday, 04 Sep: **Easy run — 6 km, HR under 150** (~8:30-9:30/km).
-- Saturday, 05 Sep: Rest day — great window for 2-3 sets of slow eccentric calf raises (3 seconds down). They build Achilles/ankle resilience — the exact quality that carried you through Norway's descents — and double as shin protection.
-- Sunday, 06 Sep: **14 km long run, HR under 155** (~8:00-9:00/km) — Peak Block's headline session. Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Push a day later in the week if legs want more recovery.
+- Saturday, 05 Sep: **Easy run — 6 km, HR under 150** (~8:30-9:30/km).
+- Sunday, 06 Sep: Rest day — your legs bank the adaptation from today's run here. Great window for 2-3 sets of slow eccentric calf raises (3 seconds down): they build Achilles/ankle resilience, the same quality that carried you through Norway's descents, and double as shin protection.
+- Monday, 07 Sep: **14 km long run, HR under 155** (~8:00-9:00/km) — Peak Block's headline session. Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. This spacing gives you a full recovery day between runs, which is exactly what a 2x/week plan is built on.
 
 **This week's focus**
-This is Peak Block Week 1 — race-specific volume building toward an 18 km long run in the weeks ahead, with one easy run and one key long run each week per your 80/20 plan. Your recovery markers say you're more than ready to take this on. One clean easy run plus a strong first 14 km, and this week is banked — let's go, Amanda!
+This is Peak Block Week 1 — building race-specific volume toward an 18 km long run ahead, with one easy run and one key long run per your 80/20 split. Your recovery data says you're primed for it — one clean easy run today and a strong 14 km Monday, and this week is banked. Let's get moving, Amanda!
