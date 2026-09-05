@@ -1,12 +1,12 @@
-_Updated: Sat, 05 Sep 2026 at 01:20 PM SGT_
+_Updated: Sat, 05 Sep 2026 at 01:51 PM SGT_
 
 **Easy run banked, Amanda — Peak Block Week 1 is rolling! 🎉**
 
 **How you're doing**
-Today's 5.45 km at 7:47/km ticks off this week's easy run perfectly. Average HR ran hot at 172 — that's Singapore heat (adds 10-15 bpm) doing its thing, not a red flag on fitness. Recovery signals look solid: resting HR has sat in the low-50s all week (just 58 on Sep 4, only ~4 bpm above your ~54 baseline) with a strong HRV of 104 the same day — your body is handling the load well.
+Today's 5.45 km at 7:47/km ticks off this week's easy run perfectly. Average HR ran a bit hot at 172 — that's Singapore heat (adds 10-15 bpm) at play, not a fitness red flag. Recovery signals still look solid: resting HR has sat in the low-50s all week, with yesterday's 58 only ~4 bpm above your recent baseline, and a strong HRV of 104 the same day — your body is handling the load well.
 
 **Today's session**
-Done! That run covers your easy session for the week, so no more running today — let your legs soak up the recovery. Next up is the key session: a **14 km long run, HR under 155** (~8:00-9:00/km), which lands perfectly on Monday after a full rest day in between.
+Done! That run covers your easy session for the week, so no more running today — let your legs soak up the recovery. Next up is the key session: a **14 km long run, HR under 155** (~8:00-9:00/km), which lands well on Monday after a full rest day in between.
 
 **3-Day Plan**
 - Saturday, 05 Sep: ✅ Easy run complete — 5.45 km banked. Rest of the day is recovery.
