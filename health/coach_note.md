@@ -1,9 +1,9 @@
-_Updated: Sat, 05 Sep 2026 at 04:29 PM SGT_
+_Updated: Sat, 05 Sep 2026 at 05:01 PM SGT_
 
 **Easy run banked, Amanda — the comeback is rolling! 🎉**
 
 **How you're doing**
-Today's 5.5 km at 7:47/km locks in your easy run for the week. HR ran warm at 172 — that's Singapore heat plus your body waking back up after 11 days off, not a fitness concern. Recovery markers look great: HRV hit 104 on Friday and resting HR has sat in the low-50s (51-58) all week, so you're absorbing the return really well.
+Today's 5.5 km at 7:47/km locks in your easy run for the week. HR ran warm at 172 — that's Singapore heat plus your body waking back up after 11 days off, not a fitness concern. Recovery markers back you up: HRV hit 104 on Friday (04 Sep) and resting HR has held in the low-50s to high-50s all week, well within a normal range.
 
 **Today's session**
 Easy run is done and banked — no more running today, let those legs soak up the adaptation. That's 1 of 2 runs in for the week, so your key session is next up.
