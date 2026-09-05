@@ -1,9 +1,9 @@
-_Updated: Sat, 05 Sep 2026 at 06:03 PM SGT_
+_Updated: Sat, 05 Sep 2026 at 06:34 PM SGT_
 
-**Easy run banked, Amanda — rhythm is officially back! 🏃‍♀️**
+**Rhythm officially back, Amanda — great banked run today! 🏃‍♀️**
 
 **How you're doing**
-Today's 5.5 km at 7:47/km takes care of your easy run for the week — a strong, steady effort to build back on. HR ran warm at 172, but that's classic Singapore heat plus legs still shaking off the post-Norway rust, not a red flag. Your recovery numbers back this up nicely: HRV hit 104 on Thursday and resting HR has sat in a healthy 51-58 bpm range all week — your body is adapting well.
+Today's 5.5 km at 7:47/km locks in your easy run for the week — a solid, steady effort after a quiet stretch. HR ran warm at 172, but that's Singapore heat plus legs shaking off the post-Norway lull, not a red flag. Recovery data backs this up: HRV has been strong (104 earlier this week) and resting HR has held in a healthy 51-58 bpm range — your body is adapting well.
 
 **Today's session**
 Easy run is done and banked — 1 of 2 for the week complete. No more running today; let those legs soak up the adaptation. Your key session (long run) is next up, pencilled for Monday.
