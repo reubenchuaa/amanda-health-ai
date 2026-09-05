@@ -1,12 +1,12 @@
-_Updated: Sat, 05 Sep 2026 at 10:14 PM SGT_
+_Updated: Sat, 05 Sep 2026 at 10:45 PM SGT_
 
 **Easy run banked, Amanda — Peak Block is rolling! 🏃‍♀️**
 
 **How you're doing**
-Today's 5.5 km at 7:47/km with avg HR 172 gets this week's easy run ticked off. That HR reads hot, but Singapore heat regularly adds 10-15 bpm — and your recovery backs you up: HRV hit a strong 104 on Thursday, and resting HR has held mostly steady in the low-50s (touching 58 once), nothing that signals strain. Just a warm morning, well handled.
+Today's 5.5 km at 7:47/km with avg HR 172 ticks off this week's easy run. That HR reads hot, but Singapore heat regularly adds 10-15 bpm — and your recovery backs you up: HRV hit a strong 104 on Thursday, and resting HR has held mostly steady in the low-50s (touching 58 once on Friday), nothing that signals strain. Just a warm morning, well handled.
 
 **Today's session**
-You're done for today — no more running. Next up is your key session (long run), planned for Monday: keep HR under 155 (~8:00-9:00/km).
+You're done running for today. Next up is your key session (long run), planned for Monday: keep HR under 155 (~8:00-9:00/km).
 
 **3-Day Plan**
 - Saturday, 05 Sep: ✅ Easy run complete — 5.5 km banked. Enjoy the rest of your day.
