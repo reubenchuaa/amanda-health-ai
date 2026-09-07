@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-09-07T02:11",
+  "synced_at": "2026-09-07T08:43",
   "workouts": [
     {
       "type": "Run",
@@ -16956,6 +16956,18 @@
       "elevation_m": 8.0,
       "calories": 49,
       "avg_cadence": 46.6
+    },
+    {
+      "type": "VirtualRun",
+      "name": "Run",
+      "start": "2026-09-06T18:42:31",
+      "distance_km": 8.115,
+      "duration_mins": 70.7,
+      "avg_hr": 166,
+      "max_hr": 178,
+      "elevation_m": 0,
+      "calories": 440,
+      "avg_cadence": 76.8
     }
   ],
   "daily": [
@@ -18272,9 +18284,17 @@
     },
     {
       "date": "2026-09-06",
+      "resting_hr": 52,
+      "hrv": 79.0,
+      "sleep_hours": 5.09,
+      "steps": 20833,
+      "calories_burned": null
+    },
+    {
+      "date": "2026-09-07",
       "resting_hr": null,
       "hrv": null,
-      "sleep_hours": 5.09,
+      "sleep_hours": 6.76,
       "steps": null,
       "calories_burned": null
     }
