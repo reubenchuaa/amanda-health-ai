@@ -1,9 +1,9 @@
-_Updated: Mon, 07 Sep 2026 at 06:59 PM SGT_
+_Updated: Mon, 07 Sep 2026 at 07:31 PM SGT_
 
 **Fresh week, fresh legs — Peak Block week 2 starts now! 🎉**
 
 **How you're doing**
-Both runs banked last week: Saturday's 5.5 km easy effort, then Sunday's strong 8.1 km at 8:42/km (avg HR 166) — a great step up in distance. Your resting HR sat at 52 the next morning, right in your normal 51-55 range, so your body absorbed that effort beautifully and you're fully recovered and ready to go.
+Sunday's 8.1 km run at 8:42/km with an average HR of 166 was a great step up in distance, and your body handled it beautifully — resting HR sat at 52 the next morning, right in your normal 51-55 range. That's a strong recovery signal heading into a fresh week.
 
 **Today's session**
 0 runs banked so far this week — let's open with your easy run today: keep HR under 150 (~9:00-9:30/km), around 5.5 km. This is the low-intensity half of your 80/20 split, so let pace be whatever it is at that HR — a conversational effort is exactly the point, not the clock. Favor softer surfaces (park paths, track) to keep that left shin happy.
