@@ -1,4 +1,4 @@
-_Updated: Wed, 09 Sep 2026 at 11:09 PM SGT_
+_Updated: Thu, 10 Sep 2026 at 04:57 AM SGT_
 
 **Resting HR at a rock-solid 48 — Tuesday's effort is fully absorbed and your legs are primed for Friday 💪**
 
