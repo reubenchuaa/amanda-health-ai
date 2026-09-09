@@ -1,12 +1,12 @@
-_Updated: Wed, 09 Sep 2026 at 07:47 PM SGT_
+_Updated: Wed, 09 Sep 2026 at 08:18 PM SGT_
 
-**Your body is bouncing back beautifully — RHR of 48 says it all 💪**
+**Rest day, but your body is doing the real work today — RHR of 48 says recovery is on track 💪**
 
 **How you're doing**
-Tuesday's 6.1 km run averaged 170 bpm — with Singapore heat adding 10-15 bpm on top of true effort, that's completely normal, not a red flag. The number that really matters is your resting HR the next morning: 48 bpm, well below your recent baseline (~54), a clear sign of strong overnight recovery. That's 1 of your 2 runs banked for this week.
+Tuesday's 6.1 km run averaged 170 bpm at ~7:50/km — with Singapore heat adding 10-15 bpm on top of true effort, that's completely normal, not a red flag. Your resting HR came in at 48 bpm, well below your recent baseline (~54), a strong sign your body bounced back well overnight. That banks 1 of your 2 runs for this week.
 
 **Today's session**
-Full rest day — no run needed, and that's exactly the plan. You're re-establishing a consistent rhythm after a lighter stretch, so we're keeping this week controlled rather than chasing bigger distances too soon. Today is a great day for 2 sets of slow eccentric calf raises (3 sec down) — they build ankle resilience, look after that left shin, and quietly make you a more durable runner.
+Full rest day — exactly the plan, no run needed. You're re-establishing a steady rhythm after a lighter patch, so we're keeping this week controlled rather than chasing bigger distances too soon. Great day for 2 sets of slow eccentric calf raises (3 sec down) — they build ankle resilience, look after that left shin, and quietly make you a more durable runner for both the half marathon and future hikes.
 
 **3-Day Plan**
 - Wednesday, 09 Sep: Rest day. 2 sets of slow eccentric calf raises — ankle resilience + shin protection.
