@@ -1,12 +1,12 @@
-_Updated: Thu, 10 Sep 2026 at 07:37 PM SGT_
+_Updated: Thu, 10 Sep 2026 at 09:52 PM SGT_
 
-**Tuesday's effort is banked — recovery is right on track 💪**
+**Two rest days banked, Friday's second run is calling your name 💪**
 
 **How you're doing**
-It's been two days since Tuesday's honest 6.1 km run at 170 bpm — a strong, heat-tested effort (remember, Singapore adds 10-15 bpm to every reading, so that number reads harder than it feels). Your resting HR sat at 55 yesterday, right at your recent baseline, which is exactly the recovery signal we want to see: your body has absorbed that effort well and is ready for what's next.
+It's been two days since Tuesday's honest 6.1 km run at 170 bpm — a strong effort in this heat (remember, Singapore adds 10-15 bpm to every reading, so it felt harder on the watch than it did in your legs). Your resting HR sat at 55 yesterday, right at your recent baseline, which tells us your body has absorbed that effort well and is primed for what's next.
 
 **Today's session**
-Full rest — you've already banked 1 of your 2 runs this week. This is productive downtime, not lost time; your legs are quietly adapting right now. Optional light extra: 2 sets of slow eccentric calf raises (3 sec down) — barely any effort, but it keeps building ankle resilience that protects your left shin and doubles as hiking-leg strength for future adventures.
+Full rest — you've already banked 1 of your 2 runs this week, so today is 100% recovery time, not lost time. Optional light extra if you're feeling good: 2 sets of slow eccentric calf raises (3 sec down) — barely any effort, but it keeps building ankle resilience that protects your left shin and doubles as hiking-leg strength for future adventures.
 
 **3-Day Plan**
 - Thursday, 10 Sep: Rest day. Optional: 2 sets slow eccentric calf raises.
