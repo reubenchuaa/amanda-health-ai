@@ -1,4 +1,4 @@
-_Updated: Thu, 10 Sep 2026 at 10:45 PM SGT_
+_Updated: Fri, 11 Sep 2026 at 02:38 PM SGT_
 
 **Rest day banked, Friday's long run is on deck 💪**
 
