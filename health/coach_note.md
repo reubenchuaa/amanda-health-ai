@@ -1,17 +1,17 @@
-_Updated: Fri, 11 Sep 2026 at 02:38 PM SGT_
+_Updated: Sat, 12 Sep 2026 at 11:59 PM SGT_
 
-**Rest day banked, Friday's long run is on deck 💪**
+**Long run day — let's close out Peak Block week 2 strong 💪**
 
 **How you're doing**
-Tuesday's 6.1 km run is two days behind you now — 170 bpm felt like a big effort, but remember Singapore heat adds 10-15 bpm to every reading, so your legs worked less hard than the number suggests. Your resting HR dipped to 48 the morning after (excellent recovery signal) and settled back to a normal 55 yesterday — your body absorbed that run really well.
+Tuesday's 6.1 km run (170 bpm — Singapore heat plus a solid effort) is three days behind you, and your recovery numbers look great: resting HR sat at 50 on Thursday and 53 on Friday, right in your normal range, with HRV steady around 79-81. You also snuck in a 29-min strength session on Thursday — exactly the kind of ankle/knee resilience work that protects your left shin and builds durability for race day.
 
 **Today's session**
-Full rest — you've banked 1 of your 2 runs this week, so today is pure recovery, not lost time. Optional and light if you're feeling good: 2 sets of slow eccentric calf raises (3 sec down). Barely any effort, but it builds ankle resilience that protects your left shin and doubles as hiking-leg strength for your durability as a runner.
+You've banked 1 of your 2 runs this week (Tuesday's easy effort), so today is your key session: a 6.5–7 km long run, keeping HR under 155 (roughly 8:15–8:45/km). This is Peak Block's steady-effort long run — RPE 4-5, comfortable but purposeful. Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Favor softer surfaces and ease off if that left shin says anything at all.
 
 **3-Day Plan**
-- Thursday, 10 Sep: Rest day. Optional: 2 sets slow eccentric calf raises.
-- Friday, 11 Sep: **Second run — 6.5 km, keep HR under 155** (~8:30-9:00/km). Warm up with 5 min walk + dynamic stretches, cool down with 5 min easy jog + stretching. Favor softer surfaces and ease off if the left shin speaks up.
-- Saturday, 12 Sep: Rest day — week's training complete, recovery time after Friday's run.
+- Saturday, 12 Sep: **Key long run — 6.5–7 km, HR under 155.** Warm-up/cool-down as above.
+- Sunday, 13 Sep: Rest day — both runs done, pure recovery and adaptation time.
+- Monday, 14 Sep: Rest day, easing into next week's cutback. Optional: 2 sets reverse lunges or step-ups — light, builds hiking-legs strength and shin resilience, never stacked on a running day.
 
 **This week's focus**
-Peak Block calls for bigger long runs, but last week's total was ~13.5 km, so holding close to that again this week (6.1 + 6.5 = ~12.5 km) rather than jumping to the full 16 km target keeps your training load rising gradually instead of spiking — exactly how durable fitness gets built. One honest run banked, one controlled run to come, and you're still right on track for 27 Sep!
+Peak Block calls for a bigger long run, but recent weeks have sat a touch below target volume, so holding around 12.5–13 km total this week (instead of jumping straight to 16 km) keeps your progress gradual and sustainable — and sets up nicely, since next week is a scheduled cutback week anyway. One steady week closer to 27 Sep!
