@@ -1,17 +1,17 @@
-_Updated: Sun, 13 Sep 2026 at 07:36 PM SGT_
+_Updated: Mon, 14 Sep 2026 at 02:02 PM SGT_
 
-**Huge long run banked — hello, cutback week! 🎉**
+**That 15.3 km long run is still paying dividends — welcome to cutback week! 🎉**
 
 **How you're doing**
-Saturday's 15.3 km long run (avg HR 168) was your biggest of the whole block, capping a 21.3 km week across two runs (Tuesday's 6.1 km + that big Saturday effort). HR ran a little hot for the distance — totally normal pushing 15 km through Singapore heat, and a gentle nudge to ease off earlier if it climbs above ~155 next time, since HR (not pace) is our compass. Recovery markers back you up: HRV sat at a strong 83 and resting HR at 55, both in your healthy normal range, though Friday's short sleep (5.4 hrs) is worth an early night to repay this week.
+Saturday's 15.3 km (avg HR 168) was your biggest run of the whole block, and your body is recovering beautifully — HRV climbed to a strong 93 on Sunday and resting HR sat at a healthy 54, both great signs your recovery is on track. That run was a noticeably bigger jump than your recent weekly training load, so a little post-run heat-driven HR was completely expected — nothing to worry about, and exactly why this week's built-in cutback (lighter volume) is perfectly timed to let your legs absorb it.
 
 **Today's session**
-Both runs for the week are done — nothing planned today. Pure rest, and your legs have earned it after that jump in volume. Going from a lighter previous week straight to 21.3 km is a big leap, so it's great timing that Peak Block's scheduled cutback week begins now — exactly the lower-volume stretch your body needs to absorb Saturday's effort before the next push.
+No runs yet this week (it's only just begun!) — today is a full rest day, and that's exactly the plan. Rest is where the adaptation from Saturday's big effort actually happens, so enjoy it guilt-free.
 
 **3-Day Plan**
-- Sunday, 13 Sep: Rest day — recovery is doing its job right now.
-- Monday, 14 Sep: Rest day. Optional: 2 sets of 10 step-ups each leg (slow and controlled) — builds hiking-legs strength and keeps that left shin resilient. Never on a running day, so today's perfect.
-- Tuesday, 15 Sep: If it suits you, a nice day for cutback week's easy run — 4.5-5 km, HR under 150 (~8:30-9:00/km). Totally flexible — whenever works this week.
+- Monday, 14 Sep: Rest day. Optional: 3 sets of 15 calf raises (straight + bent knee, slow and controlled) — great for ankle resilience and keeps that left shin protected as volume builds.
+- Tuesday, 15 Sep: If it suits you, your cutback-week easy run — 4.5-5 km, HR under 150 (~8:30-9:00/km). Totally flexible on timing.
+- Wednesday, 16 Sep: Rest day, or shift Tuesday's run here if that's easier — whatever fits your week. Your cutback long run (~12 km, HR under 155) is still to come later this week, whenever suits you best.
 
 **This week's focus**
-Cutback weeks aren't a step back — they're where the adaptation from big efforts actually happens, so a lighter week (long run ~12 km) sets you up stronger for the final push to 27 Sep. Fantastic work banking that long run — enjoy the rest! 💪
+Cutback weeks aren't a step back — after your biggest long run yet, a lighter week (long run ~12 km) is exactly how your body locks in that fitness gain safely, setting you up strong for the final push to 27 Sep. Fantastic banking that run — enjoy the recovery! 💪
