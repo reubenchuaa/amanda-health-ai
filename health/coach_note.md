@@ -1,12 +1,12 @@
-_Updated: Sun, 20 Sep 2026 at 10:16 PM SGT_
+_Updated: Sun, 20 Sep 2026 at 11:04 PM SGT_
 
 **Race Week is here — and your legs are ready! 🎉**
 
 **How you're doing**
-Thursday's 12.2 km run (avg HR 167, 7:45/km) was the perfect send-off from Peak Block — right on target for that final long effort. Recovery has been excellent since: resting HR has held steady in the 48-55 bpm range all week with no elevation, and you're now 3 days rested heading into Race Taper. Everything points to a body that's absorbed the hard work and is arriving fresh.
+Thursday's 12.2 km long run (avg HR 167, 7:45/km) was a strong send-off from Peak Block, and you've now had 3 full days of recovery since. Resting HR has stayed steady in the low-to-mid 50s all week (49-55 bpm) with no signs of elevated stress — that's exactly the pattern of a body that's absorbed the training and is arriving at race week fresh, not fatigued.
 
 **Today's session**
-Rest. You've already banked this week's key session with Thursday's long run, and today is Day 1 of Race Taper — volume drops to just 5-6 km total this week so all that training can fully show up on race day. Nothing to do today except let your legs enjoy the break.
+Rest. Thursday's long run already banked this week's key session, and today is Day 1 of Race Taper — a week where the whole job is cutting volume so all your training shows up on race day. Nothing needed today except letting your legs enjoy the break.
 
 **3-Day Plan**
 - Sunday, 20 Sep: Rest. Taper has officially begun.
