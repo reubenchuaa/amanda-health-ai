@@ -1,14 +1,14 @@
-_Updated: Sun, 20 Sep 2026 at 11:35 PM SGT_
+_Updated: Sun, 20 Sep 2026 at 11:50 PM SGT_
 
-**Race Week is officially here — 7 days to go! 🎉**
+**Race Week is here — 7 days to Kiprun! 🎉**
 
 **How you're doing**
-Thursday's 12.2 km long run (avg HR 167, 7:45/km) was a strong send-off from Peak Block, and you've now had 3 full days of recovery since. Resting HR has stayed steady and healthy all week (49-55 bpm) with no signs of elevated stress — exactly the pattern of a body that has absorbed the training and is arriving at race week fresh, not fatigued.
+Thursday's 12.2 km long run (avg HR 167, 7:45/km) was a fantastic way to close out Peak Block, and you've had 3 clean recovery days since — resting HR has held steady in the 49-55 bpm range all week with no signs of stress. That's exactly what a well-absorbed training block looks like heading into taper: fresh legs, calm nervous system, ready to sharpen up.
 
 **Today's session**
-Rest. This week's key session is already banked from Thursday's long run, so today's only job is letting your legs enjoy the break — Race Taper is all about trimming volume so every bit of your training shows up on race day. Tomorrow (Monday) brings a short easy taper run: 3-4 km with 4x100m strides, keeping HR under 150 (roughly 8:30-9:00/km easy pace; strides should feel quick and relaxed, not maxed out).
+Rest. This week's key session is already banked from Thursday's long run, so today's only job is letting your legs enjoy the downtime — Race Taper is all about trimming volume so every ounce of training shows up on race day. Tomorrow (Monday) is a short easy taper run: 3-4 km with 4x100m strides, HR under 150 (roughly 8:30-9:00/km easy, with strides feeling quick and relaxed, not maxed out).
 
-Since today's a rest day, a couple of easy sets of slow eccentric calf raises (3 seconds down, 15 reps) are a great low-key way to keep that left shin happy and add a touch more durability before the start line — the same gentle strength work that's been building your "hiking legs" all block.
+Since it's a rest day, a couple of easy sets of slow eccentric calf raises (3 seconds down, 15 reps) are a great low-key way to keep that left shin happy and add a touch more durability before the start line — the same gentle strength work that's been building your "hiking legs" all block.
 
 **3-Day Plan**
 - Sunday, 20 Sep: Rest. Taper has officially begun.
