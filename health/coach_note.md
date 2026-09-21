@@ -1,4 +1,4 @@
-_Updated: Mon, 21 Sep 2026 at 09:36 PM SGT_
+_Updated: Tue, 22 Sep 2026 at 12:21 AM SGT_
 
 **6 days to Kiprun — the taper is doing exactly what it should! 🎉**
 
