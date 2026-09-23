@@ -1,4 +1,4 @@
-_Updated: Wed, 23 Sep 2026 at 08:35 PM SGT_
+_Updated: Wed, 23 Sep 2026 at 11:41 PM SGT_
 
 **4 days to Kiprun — time to shake the legs loose! 🎉**
 
