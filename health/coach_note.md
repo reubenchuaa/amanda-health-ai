@@ -1,17 +1,17 @@
-_Updated: Fri, 25 Sep 2026 at 08:04 PM SGT_
+_Updated: Sat, 26 Sep 2026 at 07:56 PM SGT_
 
-**2 sleeps to go — you're standing at the start line of everything you've built! 🎉🏅**
+**One sleep to go, Amanda — everything you've built these past three months is banked and ready 🎉🏅**
 
 **How you're doing**
-Wednesday's 3.0 km shakeout at 7:51/km was textbook taper-week running — legs ticking over, nothing taxed. HR ran a little warm at 163 avg, but that's Singapore evening heat talking, not fatigue. Your recovery numbers back this up: resting HR was 50 bpm yesterday (right in your normal 47-52 range) and HRV sat healthy at 73 — your body is rested and primed for Sunday.
+Your Wednesday shakeout (3.0 km, 7:51/km) was exactly what taper week called for — legs moving, nothing taxed. HR ran warm at 163 avg, but that's Singapore evening heat, not fatigue talking. Your recovery numbers confirm it: resting HR has sat a healthy 47-50 bpm all week (right in your normal range) and HRV has stayed strong. You are rested, primed, and ready.
 
 **Today's session**
-You've already banked your one run this week, so today is your choice: either a light 2 km shakeout jog with HR under 150 (~8:30-9:00/km) to keep the legs feeling loose, or full rest if that sounds better — both are exactly right two days out. If you do jog, add 2 sets of slow eccentric calf raises afterward (3 seconds down, 15 reps) — a bit of extra love for that left shin before race day, and it's the same movement that's been building your hiking-durable legs all along.
+Full rest. You've already banked this week's shakeout, and the day before race day is about protecting freshness, not adding anything new. Hydrate steadily through the day, get your race kit laid out, eat a carb-friendly dinner, and get an early night. Doing nothing today IS the training.
 
 **3-Day Plan**
-- Friday, 25 Sep: Optional easy 2 km shakeout jog, HR under 150 — or rest, whatever your legs are asking for.
-- Saturday, 26 Sep: Full rest. Carb-load, lay out your race kit, hydrate well, early night.
-- Sunday, 27 Sep: **RACE DAY!** Start conservative — HR around 150-155 for the first 5 km (~7:15-7:20/km), then settle into your target rhythm (~7:00-7:06/km) as you warm up. Hydrate every 3 km. Trust the training — it's all banked and ready.
+- Saturday, 26 Sep: Full rest — hydrate, carb-load, prep your kit, early night.
+- Sunday, 27 Sep: **RACE DAY!** Start conservative — HR around 150-155 for the first 5 km (~7:15-7:20/km), then ease into your target rhythm (~7:00-7:06/km) as you warm up. Hydrate every 3 km. Trust the training — it's all there.
+- Monday, 28 Sep: Full rest / recovery. Gentle walking only, no running — your legs will have earned every bit of downtime. Celebrate what you just did!
 
 **This week's focus**
-Race Taper is about protecting the fitness you've already built, not adding to it — every easy or restful choice this week is the correct one. You've put in the work since June; now let your legs feel light and let Sunday be the celebration of it all. You've got this, Amanda! 💪
+Race Taper is about protecting the fitness you've already built, not chasing more of it — every restful choice this week has been the right one. You've put in the work since June, through heat, through busy weeks, through all of it. Tomorrow is simply the celebration of that work. Go get it, Amanda — you've got this! 💪
