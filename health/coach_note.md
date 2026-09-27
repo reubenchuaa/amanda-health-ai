@@ -1,17 +1,17 @@
-_Updated: Sun, 27 Sep 2026 at 11:16 AM SGT_
+_Updated: Sun, 27 Sep 2026 at 11:00 PM SGT_
 
-**One more sleep, Amanda — the work is banked, tomorrow is the celebration 🎉🏁**
+**RACE DAY, Amanda — this is it! 🏁🎉**
 
 **How you're doing**
-Your Wednesday shakeout (3.0 km, 7:51/km, avg HR 163) was exactly what a taper touch should be — legs moving, no new fatigue added. That HR was Singapore evening heat talking, not tiredness. Your resting HR was 57 yesterday (a touch above your usual 47-53), which is completely normal pre-race energy — nothing to read into.
+Your Wednesday shakeout (3.0 km, 7:51/km, avg HR 163) was the perfect final tune-up — legs woke up, nothing left behind. Resting HR ticked up to 57 on Friday (just pre-race nerves) and settled right back to 52 yesterday — your body is calm, rested, and ready. Every taper box is ticked.
 
 **Today's session**
-Full rest — and this IS today's session. Race Taper calls for exactly this: you already banked your shakeout run this week, so there's nothing left to prove and nothing to gain from adding more. Sip water steadily through the day, lay out your kit tonight, eat a carb-friendly dinner, and get to bed early. Doing nothing today is the training.
+Half marathon time! Start conservative: keep HR around 150-155 for the first 5 km (roughly 7:15-7:20/km) — resist the urge to go out hot on race adrenaline. Once you're settled, ease into 7:00-7:06/km as HR allows, aiming for a negative split if it's there. Hydrate every 3 km, and trust that the months of easy runs, tempo work, and even those Norway hikes have built exactly the engine you need. You've done the work — today is just showing it off.
 
 **3-Day Plan**
-- Saturday, 26 Sep: Full rest — hydrate, carb-load, prep your kit, early night.
-- Sunday, 27 Sep: **RACE DAY!** Start conservative — HR around 150-155 for the first 5 km (~7:15-7:20/km), then ease into rhythm (~7:00-7:06/km) as you settle in. Hydrate every 3 km. Trust the training — it's all there.
-- Monday, 28 Sep: Full rest / recovery. Gentle walking only — let your legs soak up what you just did.
+- Sunday, 27 Sep: **RACE DAY!** HR-guided pacing as above — conservative start, settle into rhythm, hydrate every 3 km.
+- Monday, 28 Sep: Full rest. Gentle walking only if you feel like moving — let your legs soak in what they just did. No running, no strength work, just recovery.
+- Tuesday, 29 Sep: Easy recovery day — a short, relaxed walk if you're up for it. Listen to your body; post-race soreness is normal and nothing to worry about.
 
 **This week's focus**
-Race Taper is about protecting the fitness you've already built, not chasing more of it — that slightly elevated resting HR is just pre-race anticipation, not a warning sign. You've put in the work since June, through heat, a setback, Norway hiking, and busy weeks — tomorrow you simply get to show it off. Go get it, Amanda — you've got this! 💪
+Race day is the payoff of the periodization, not a new test — every phase since June (base building, tempo work, that huge Norway leg-strength block, and this taper) was built to get you to this exact start line ready and uninjured. Go run your race, Amanda — sub 2:30 is yours to claim! 💪
