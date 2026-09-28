@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- generated: 2026-09-28T03:41:42 SGT -->
+<!-- generated: 2026-09-28T09:26:21 SGT -->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -81,8 +81,8 @@ tr:last-child td{border-bottom:none}
   <h1>🏃‍♀️ Amanda · Training Dashboard</h1>
   <div class="sub">Kiprun Singapore Half Marathon · Target 2:30</div>
   <div class="pills">
-    <span class="pill pill-purple">🏁 0 days to race</span>
-    <span class="pill pill-green">🔄 Data synced Mon, 28 Sep 2026 at 03:41 AM SGT</span>
+    <span class="pill pill-purple">🏁 -1 days to race</span>
+    <span class="pill pill-green">🔄 Data synced Mon, 28 Sep 2026 at 09:26 AM SGT</span>
     <span class="pill pill-blue">🤖 AI coach Sun, 27 Sep 2026 at 11:00 PM SGT</span>
   </div>
 </div>
@@ -98,8 +98,8 @@ tr:last-child td{border-bottom:none}
     <div class="level">Optimal</div>
   </div>
   <div class="cards" style="margin:0">
-    <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.2rem">13.1 km</div><div class="sub2">2 runs · prev 12.2 km</div></div>
-    <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">214 m</div><div class="sub2">gain this week</div></div>
+    <div class="card"><div class="lbl">Distance</div><div class="val" style="font-size:1.2rem">0.0 km</div><div class="sub2">0 runs · prev 13.1 km</div></div>
+    <div class="card"><div class="lbl">Elevation</div><div class="val" style="font-size:1.2rem">0 m</div><div class="sub2">gain this week</div></div>
     <div class="card"><div class="lbl">Race Target</div><div class="val" style="font-size:1.2rem">2:30</div><div class="sub2">7:06/km</div></div>
   </div>
 </div>
@@ -203,8 +203,8 @@ tr:last-child td{border-bottom:none}
           <div class="phase-left"><span class="phase-name">Race Taper</span></div>
           <div class="phase-right"><span class="phase-dates">09-20 – 09-26</span><span class="phase-focus">Reduce volume 50%. 1-2 short race-pace strides. Rest legs, trust the training. Carb-load Thu-Sat.</span></div>
         </div>
-<div class="phase phase-current">
-          <div class="phase-left"><span class="now-tag">NOW</span><span class="phase-name">RACE DAY</span></div>
+<div class="phase phase-past">
+          <div class="phase-left"><span class="phase-name">RACE DAY</span></div>
           <div class="phase-right"><span class="phase-dates">09-27 – 09-27</span><span class="phase-focus">Sub 2:30. Start conservative (7:15-7:20/km first 5 km), settle into 7:00-7:06/km, negative split if possible. Hydrate every 3 km.</span></div>
         </div>
 
@@ -224,7 +224,7 @@ const opt = (ymin, ymax, dec) => ({
 });
 new Chart(document.getElementById('vol'), {
   type: 'bar',
-  data: { labels: ["Jun 22", "Jun 29", "Jul 06", "Jul 13", "Jul 20", "Jul 27", "Aug 03", "Aug 10", "Aug 17", "Aug 24", "Aug 31", "Sep 07", "Sep 14", "Sep 21"], datasets: [{ label: 'km', data: [18.2,18.2,15.9,6.6,0,7.8,7.9,0,0,4.8,13.6,21.3,12.2,13.1], backgroundColor: 'rgba(168,85,247,.6)', borderColor: '#a855f7', borderWidth: 1, borderRadius: 4 }] },
+  data: { labels: ["Jun 29", "Jul 06", "Jul 13", "Jul 20", "Jul 27", "Aug 03", "Aug 10", "Aug 17", "Aug 24", "Aug 31", "Sep 07", "Sep 14", "Sep 21", "Sep 28"], datasets: [{ label: 'km', data: [18.2,15.9,6.6,0,7.8,7.9,0,0,4.8,13.6,21.3,12.2,13.1,0], backgroundColor: 'rgba(168,85,247,.6)', borderColor: '#a855f7', borderWidth: 1, borderRadius: 4 }] },
   options: opt(0)
 });
 new Chart(document.getElementById('pace'), {
