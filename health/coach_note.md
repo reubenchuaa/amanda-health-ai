@@ -1,17 +1,17 @@
-_Updated: Mon, 28 Sep 2026 at 10:50 PM SGT_
+_Updated: Mon, 28 Sep 2026 at 11:00 PM SGT_
 
-**You did it, Amanda — race day is in the books! 🎉🏅**
+**Half marathon DONE, Amanda — you crossed that finish line! 🎉🏅**
 
 **How you're doing**
-Yesterday's race effort logged 10.0 km at a fierce 6:37/km with avg HR 183 bpm (max 193) — that's max-effort racing, well above your usual training zones, and exactly what race day adrenaline and Singapore heat combine to produce. Sleep was short the night before (4.98 hrs, totally normal pre-race jitters) and resting HR sat at 53, right in your typical range — your body handled the stress well. Today, zero days rested since that hard effort — this is where the real work of adaptation happens.
+Sunday's race is officially in the books: 10.0 km at 6:37/km, avg HR 183 bpm — that's full race-day effort, amplified by Singapore heat, not a red flag. Your resting HR this morning is 53, right inside your normal 50-57 range, which is a great early sign your body is handling the recovery well despite short pre-race sleep (4.98 hrs). One day out from a huge effort, the priority now is letting that adaptation happen.
 
 **Today's session**
-Full rest, no exceptions. No running, no strength work today — your legs just did something big and they need uninterrupted recovery time to repair and absorb all that fitness. Gentle walking only if it feels good; otherwise, put your feet up guilt-free. This rest is just as much "training" as yesterday's effort was.
+Full rest — no running, no strength work. Your legs just delivered a race; the smartest thing you can do for them (and for how you'll feel in a week) is stay off them today. A gentle walk is fine if you feel like moving, but it's completely optional. This isn't a day off from training — it *is* training; this is when the fitness gets banked.
 
 **3-Day Plan**
-- Monday, 28 Sep: Full rest — light walking optional, no running, no strength. Let yesterday's effort sink in.
-- Tuesday, 29 Sep: Easy recovery — a short, relaxed walk if you're up for it. Post-race soreness is completely normal.
-- Wednesday, 30 Sep: Check in with your legs — if they feel fresh, a very short, easy jog is fine (HR under 140, no pace pressure). If not, another walk-only day is the smarter call. There's no rush.
+- Monday, 28 Sep: Full rest. Light walking optional, no running, no strength.
+- Tuesday, 29 Sep: Easy recovery — a short, relaxed walk if your legs want it. Some soreness is completely normal post-race.
+- Wednesday, 30 Sep: Check in with your legs. If they feel fresh, a very short easy jog is fine (HR under 140, no pace pressure — think ~7:30-8:00/km or slower). If not, another walk-only day is the right call — no rush at all.
 
 **This week's focus**
-This week is all about recovery, not training — the aerobic and muscular fitness you built all the way from June is banked, and easing off now protects that gain rather than risking it. Once you're feeling fresh again in a few days, we'll ease back into some light strength work to keep those legs strong and durable for whatever's next. Incredible work getting to that start line ready, Amanda — be proud of what you did yesterday! 💪
+This week is 100% about absorbing the fitness you built, not adding more — once your legs feel genuinely fresh again, we'll ease back in with some light strength work (think slow eccentric squats and calf raises) to keep them strong and durable for whatever's next. You earned this rest, Amanda — incredible work getting to that finish line! 💪
