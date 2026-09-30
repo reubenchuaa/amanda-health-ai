@@ -1,17 +1,17 @@
-_Updated: Tue, 29 Sep 2026 at 06:58 PM SGT_
+_Updated: Wed, 30 Sep 2026 at 04:39 PM SGT_
 
-**Two days post-race, Amanda — and your body is recovering exactly like it should! 🎉**
+**Three days post-race and still glowing, Amanda — you're recovering beautifully! 🎉**
 
 **How you're doing**
-Sunday's 10.0 km finish at 6:37/km with avg HR 183 bpm was max race-day effort in Singapore heat — nothing to worry about, that's what a hard-earned finish line looks like. Your resting HR that morning was 53, right in your normal 46-57 range, a great sign your body handled the effort well. No running since the race, which is exactly the plan — this is when the fitness actually gets banked.
+Your resting HR has stayed rock-steady at 54-55 bpm the last two mornings — right in your normal range and a great sign your body absorbed Sunday's hard 10.0 km effort (6:37/km, avg HR 183) without any red flags. No running since race day, and that's exactly right: this is when the fitness you built actually gets locked in.
 
 **Today's session**
-No run today — this is still recovery time. A short, relaxed walk is totally optional if your legs feel like moving; some lingering soreness is completely normal two days after a half marathon. Rest isn't a day off from training, it *is* training.
+No run logged yet this week, which is completely fine — you're still in the well-earned absorption window. Check in with your legs today: if they feel fresh and eager, a short easy jog is great — keep HR under 140 (roughly 7:30-8:00/km, no pace pressure). If there's still soreness or heaviness, stay with a walk-only day — there's zero rush.
 
 **3-Day Plan**
-- Tuesday, 29 Sep: Rest. Optional easy walk only — no running, no strength work.
-- Wednesday, 30 Sep: Check in with your legs. If they feel fresh, a short easy jog is fine — keep HR under 140 (roughly 7:30-8:00/km or slower, no pace pressure). If they're still tired or sore, another walk-only day is the right call — there's no rush.
-- Thursday, 01 Oct: If Wednesday's legs said "go," today's a rest day to absorb it. If Wednesday was walk-only, today's a good spot to try that first easy jog instead.
+- Wednesday, 30 Sep: Legs-check day. Fresh → easy jog, HR under 140. Still tired → walk only, totally OK.
+- Thursday, 01 Oct: Mirror of Wednesday — if you jogged, today's rest to absorb it; if you walked, today's a great spot for that first easy jog.
+- Friday, 02 Oct: Keep it gentle — easy jog (HR under 140) or another rest day, whichever your legs are asking for.
 
 **This week's focus**
-This week is entirely about absorbing the fitness you built for race day — once your legs feel genuinely fresh again, we'll ease back in gently and start weaving in light strength work like slow eccentric calf raises (great for keeping that left shin happy too) to build durability for whatever's next. You crossed that finish line, Amanda — let your legs enjoy the win! 💪
+This whole week is about letting your body soak up the enormous fitness gain from race day — rest is productive training right now, not time off. Once your legs feel genuinely fresh again, we'll start weaving in light strength work like slow eccentric calf raises and step-ups (2-3 sets, non-running days) to keep that left shin happy and build even more durability for whatever's next. You crossed that finish line strong, Amanda — let your legs enjoy the win! 💪
