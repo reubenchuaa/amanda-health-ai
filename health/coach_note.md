@@ -1,17 +1,17 @@
-_Updated: Thu, 01 Oct 2026 at 09:12 AM SGT_
+_Updated: Thu, 01 Oct 2026 at 09:24 AM SGT_
 
-**🎉 Half Marathon Done, Amanda — You Crossed That Finish Line!**
+**💪 Strength Session Logged — Your Legs Are Already Asking to Work Again!**
 
 **How you're doing**
-Sunday (27 Sep) was race day, and you left it all out there: avg HR 183 bpm — right up near your max of 190 — at 6:37/km over the tracked segment. That's the kind of effort that only comes from months of consistent training. Four days on, your recovery is looking great: resting HR has settled back to 50 bpm (30 Sep), right in your normal low-50s range, with HRV a healthy 81. Your body has handled the race load really well.
+Four days post-race and your body is bouncing back beautifully: resting HR was 50 bpm on 30 Sep, right back at your normal baseline, with HRV at a healthy 81. Even better — you got in a 46-minute strength session Monday evening (avg HR 102), which is exactly the kind of low-impact work that rebuilds durable legs without taxing your recovery. No runs yet this week, and that's still completely by design.
 
 **Today's session**
-Zero runs this week, and that's exactly as it should be — there's no running on the plan right now. This week is 100% recovery: letting your legs absorb everything race day asked of them. If you feel like moving, a relaxed walk is perfect. If you'd rather just rest, that's just as valuable.
+Still zero runs this week — no running needed. Your legs put in enormous work on race day (avg HR 183, pushing right up near max) and the smartest move is letting that fully settle before asking them to run again. Today: rest, or a relaxed walk if you feel like moving.
 
 **3-Day Plan**
-- Thursday, 01 Oct: Rest or an easy walk — no running.
-- Friday, 02 Oct: Same — full recovery mode, legs are still rebuilding.
-- Saturday, 03 Oct: Optional easy walk if you're itching to move; still no running needed.
+- Thursday, 01 Oct: Rest or easy walk — no running.
+- Friday, 02 Oct: Same, continued recovery. Great day for another light strength touch — 2 sets of calf raises and glute bridges, bodyweight only, builds ankle and hip resilience for whatever's next.
+- Saturday, 03 Oct: If your legs feel fresh and bouncy (not heavy or achy), a short, very easy test run is fine — just keep HR under 150 bpm (roughly 7:30-8:00/km pace), 2-3 km max. If in doubt, rest one more day — there's no rush.
 
 **This week's focus**
-Post-race recovery *is* training — the adaptation from everything you built happens in these rest days, not despite them. Once your legs feel fresh and bouncy again (give it at least another week), we'll talk about what comes next, including easing back in with a couple of slow eccentric squats or step-ups to keep building strong, durable legs. For now: congratulations, Amanda. You put in the work, and it showed up exactly when it mattered. Enjoy this one. 💪
+This is pure adaptation time — the gains from your half marathon are still being absorbed, and patient recovery now protects the strong, injury-free runner you're building toward next. You crushed the goal race; now let's rebuild the base for whatever comes after it. 🎉
