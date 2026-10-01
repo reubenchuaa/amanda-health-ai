@@ -1,17 +1,17 @@
-_Updated: Thu, 01 Oct 2026 at 01:17 AM SGT_
+_Updated: Thu, 01 Oct 2026 at 09:12 AM SGT_
 
-**Patience Pays Off, Amanda — Your Legs Are Still Banking That 10K! 🌟**
+**🎉 Half Marathon Done, Amanda — You Crossed That Finish Line!**
 
 **How you're doing**
-Your last two resting HR readings (Sep 28-29) sat at 54-55 bpm — just 3-4 bpm above your usual low-50s baseline, exactly what you'd expect a few days after Sunday's strong 10.0 km effort (6:37/km, avg HR 183). We don't have fresh wellness data for the last couple of mornings, but nothing here suggests anything but normal recovery. Still zero runs logged this week, and that's exactly right — your body needs this window to absorb Sunday's work.
+Sunday (27 Sep) was race day, and you left it all out there: avg HR 183 bpm — right up near your max of 190 — at 6:37/km over the tracked segment. That's the kind of effort that only comes from months of consistent training. Four days on, your recovery is looking great: resting HR has settled back to 50 bpm (30 Sep), right in your normal low-50s range, with HRV a healthy 81. Your body has handled the race load really well.
 
 **Today's session**
-With 0 runs this week, today's a great candidate for your return easy jog — *if* your legs feel fresh and springy. Keep HR under 150 (roughly 7:30-8:00/km, no pace pressure, just relaxed and conversational). If you're still feeling flat or heavy, a walk-only day is just as valuable for recovery — no rush at all.
+Zero runs this week, and that's exactly as it should be — there's no running on the plan right now. This week is 100% recovery: letting your legs absorb everything race day asked of them. If you feel like moving, a relaxed walk is perfect. If you'd rather just rest, that's just as valuable.
 
 **3-Day Plan**
-- Thursday, 01 Oct: Legs feel good → easy jog, HR under 150. Still tired → walk only, totally fine.
-- Friday, 02 Oct: Mirror today's call — jogged today? Rest and let it soak in. Walked? Good day for that first easy jog.
-- Saturday, 03 Oct: Keep it gentle — easy jog (HR under 150) or another rest day, whatever your legs are asking for.
+- Thursday, 01 Oct: Rest or an easy walk — no running.
+- Friday, 02 Oct: Same — full recovery mode, legs are still rebuilding.
+- Saturday, 03 Oct: Optional easy walk if you're itching to move; still no running needed.
 
 **This week's focus**
-This week is about letting Sunday's big effort fully absorb before easing back into rhythm — with your 2x/week volume, 48-72 hours between runs is naturally built in for recovery, so patience now pays off later. On a rest or easy day, try 2 easy sets of slow eccentric calf raises (3 seconds down) — light and low-key, kind to that left shin, and quietly building the durability (and hiking-ready legs!) that makes you a stronger, more resilient runner. You earned that effort, Amanda — let your legs enjoy the payoff! 💪
+Post-race recovery *is* training — the adaptation from everything you built happens in these rest days, not despite them. Once your legs feel fresh and bouncy again (give it at least another week), we'll talk about what comes next, including easing back in with a couple of slow eccentric squats or step-ups to keep building strong, durable legs. For now: congratulations, Amanda. You put in the work, and it showed up exactly when it mattered. Enjoy this one. 💪
