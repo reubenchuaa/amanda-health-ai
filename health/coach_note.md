@@ -1,12 +1,12 @@
-_Updated: Fri, 02 Oct 2026 at 10:31 PM SGT_
+_Updated: Fri, 02 Oct 2026 at 11:59 PM SGT_
 
-**🎉 Day 5 Post-Race — Your Body Is Doing the Quiet Work of Absorbing a Half Marathon**
+**🌙 Best Sleep in a Week — Your Body Is Rebuilding Right On Schedule**
 
 **How you're doing**
-Zero runs this week and that's exactly right — five days ago you ran 10 km at 183 bpm, a huge effort that your system is still processing. Wednesday's 46-minute strength session was beautifully light (avg HR just 102), and your HRV sat at a strong 82 on Thursday, a great sign of recovery. Thursday's resting HR ticked up to 58 (a few beats above your ~51-52 baseline) — nothing alarming paired with that strong HRV, but it's your body's way of saying "keep today easy," so we will.
+Five days post-half-marathon and the signs are good: Wednesday's 46-minute strength session was lovely and light (avg HR just 102), and last night you logged 7h 29m of sleep — your best night in over a week. Thursday's resting HR was 58, a touch above your ~50-52 baseline, paired with a strong HRV of 82 — that's a body still finishing the recovery job from a hard 10 km effort at 183 bpm, not a red flag. Zero runs this week is exactly right while that process finishes.
 
 **Today's session**
-Rest, with an optional light strength touch — no running. Try 2-3 sets of slow eccentric calf raises (3 seconds down) plus glute bridges, bodyweight only. These keep protecting that left shin, build ankle resilience, and turn you into a more durable runner for whatever comes next.
+Rest, with an optional light strength touch — no running yet. If you feel like moving, try 2-3 sets of slow eccentric calf raises (3 seconds down) plus glute bridges, bodyweight only. These keep your left shin protected, build ankle resilience, and make you a more durable runner for whatever's next.
 
 **3-Day Plan**
 - Friday, 02 Oct: Light strength (calf raises + glute bridges) — no running.
