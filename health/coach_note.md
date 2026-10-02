@@ -1,12 +1,12 @@
-_Updated: Fri, 02 Oct 2026 at 12:02 AM SGT_
+_Updated: Fri, 02 Oct 2026 at 10:30 PM SGT_
 
-**🎉 5 Days Post-Race — Patiently Banking That Half Marathon Fitness**
+**🎉 Six Days Post-Race — Your Body Says "Fully Recovered"**
 
 **How you're doing**
-Five days since you crossed the finish line at 183 bpm — that was a real effort, and your body is handling the aftermath beautifully. Tuesday's numbers (resting HR 50 bpm, HRV 81) sat right at your normal baseline, a strong sign your nervous system has absorbed the race. Wednesday's gentle 46-minute strength session (avg HR just 102) added blood flow without any real load, and zero runs this week is exactly the right call — this is recovery, not a gap.
+Your Wednesday wellness numbers were about as good as recovery data gets: resting HR 50 bpm and HRV 81, both right back at your pre-race baseline just three days after crossing the finish line at 183 bpm. Wednesday's 46-minute strength session (avg HR only 102) was gentle, low-load blood flow work — exactly what absorbing legs need. Zero runs this week is the right call, not a gap — this is deliberate banking of the fitness you earned.
 
 **Today's session**
-No running today — legs are still in absorption mode. Instead, a light strength touch: 2-3 sets of slow eccentric calf raises (3 seconds down) plus glute bridges, bodyweight only. These build ankle resilience, keep protecting that left shin, and make you a more durable runner for whatever training comes next.
+No running today. Keep it to a light strength touch: 2-3 sets of slow eccentric calf raises (3 seconds down) plus glute bridges, bodyweight only. These build ankle resilience, keep protecting that left shin, and double as "hiking legs" maintenance for whatever's next on your calendar — all while running stays fully rested.
 
 **3-Day Plan**
 - Friday, 02 Oct: Light strength — calf raises + glute bridges (no running).
@@ -14,4 +14,4 @@ No running today — legs are still in absorption mode. Instead, a light strengt
 - Sunday, 04 Oct: Rest or an easy walk, calibrated to how Saturday felt — full recovery if you ran, continued easy recovery if you didn't.
 
 **This week's focus**
-You're in an open, well-earned recovery window after smashing your first half marathon goal — the priority now is patient absorption so the fitness you built stays banked and injury-free for whatever comes next. You've already done the hard part — enjoy this easier stretch! 🎉
+You're in a well-earned, open recovery window after nailing your first half marathon — the priority is patient absorption (48-72 hours of true rest between any efforts) so this fitness stays banked and injury-free. You've already done the hard part — enjoy this easier stretch! 🎉
