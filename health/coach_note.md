@@ -1,17 +1,17 @@
-_Updated: Fri, 02 Oct 2026 at 11:59 PM SGT_
+_Updated: Sat, 03 Oct 2026 at 12:09 AM SGT_
 
-**🌙 Best Sleep in a Week — Your Body Is Rebuilding Right On Schedule**
+**🎉 Six Days Post-Race — Your Body Is Giving You the Green Light**
 
 **How you're doing**
-Five days post-half-marathon and the signs are good: Wednesday's 46-minute strength session was lovely and light (avg HR just 102), and last night you logged 7h 29m of sleep — your best night in over a week. Thursday's resting HR was 58, a touch above your ~50-52 baseline, paired with a strong HRV of 82 — that's a body still finishing the recovery job from a hard 10 km effort at 183 bpm, not a red flag. Zero runs this week is exactly right while that process finishes.
+Six days out from your Kiprun finish (10 km at 183 bpm — what an effort!) and your recovery markers look genuinely great: HRV has been sitting strong at 81-82 the last two nights (well above your usual baseline), and you logged 7h17 of sleep the night of Oct 1-2, your best in over a week. Wednesday's 46-minute strength session was lovely and light (avg HR just 102) — your body handling easy load with no fuss. Resting HR nudged to 58 on Oct 1 (vs your ~50-52 norm), but paired with that excellent HRV, it reads as normal day-to-day variability, not a flag.
 
 **Today's session**
-Rest, with an optional light strength touch — no running yet. If you feel like moving, try 2-3 sets of slow eccentric calf raises (3 seconds down) plus glute bridges, bodyweight only. These keep your left shin protected, build ankle resilience, and make you a more durable runner for whatever's next.
+Zero runs logged this week — totally appropriate for this open recovery window, no rush at all. If your legs feel fresh and bouncy today (not heavy or achy), a gentle test run is a great option: keep HR under 150 bpm (~7:30-8:00/km), cap it at 2-3 km, soft surface if you can find one. Any sharp pain in that left shin means stop, not push through. Not feeling it? Resting one more day is just as good a choice.
 
 **3-Day Plan**
-- Friday, 02 Oct: Light strength (calf raises + glute bridges) — no running.
-- Saturday, 03 Oct: If legs feel fresh and bouncy (not heavy or achy), an easy test run is fine — HR under 150 bpm (~7:30-8:00/km), 2-3 km max, soft surface if you can. Any sharp left-shin pain means stop, not push through. If unsure, rest one more day — no rush at all.
-- Sunday, 04 Oct: Rest or an easy walk, calibrated to how Saturday felt.
+- Saturday, 03 Oct: Optional easy test run (HR < 150, 2-3 km, soft surface) if legs feel good — otherwise rest, no pressure.
+- Sunday, 04 Oct: Rest or an easy walk, calibrated to how Saturday went.
+- Monday, 05 Oct: If you haven't run yet, this is a lovely low-key option (same easy guidelines). If you did run, try 2-3 slow eccentric calf raises (3 sec down) + glute bridges instead — they protect that left shin and start building your "hiking legs" durability.
 
 **This week's focus**
-You're in a well-earned, open recovery window after smashing your first half marathon — patient absorption now is what locks in the fitness you built and keeps you injury-free for whatever training comes next. You already did the hard part — enjoy this easier stretch! 🎉
+This is patient, earned recovery time — absorbing a hard effort fully now is exactly what locks in the fitness you built and keeps you strong for whatever comes next. You crossed the finish line — enjoy this easier stretch! 🎉
