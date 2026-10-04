@@ -1,12 +1,12 @@
-_Updated: Sun, 04 Oct 2026 at 06:18 PM SGT_
+_Updated: Sun, 04 Oct 2026 at 06:57 PM SGT_
 
-**🌿 One Week Post-Race — Recovery Still Banking Gains**
+**🌿 One Week Post-Race — Still Banking the Gains**
 
 **How you're doing**
-A full week clear of that brilliant 10 km finish (183 bpm — a genuine all-out effort!) and your recovery markers are exactly where we want them: resting HR has settled at 54 bpm and HRV hit 88 just two days ago, both strong signs your body has absorbed that race well. Zero runs logged this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
+Exactly one week on from your brilliant 10 km finish (183 bpm — that was an all-out effort!), your recovery markers look great: resting HR sitting at 54 bpm and HRV hit 88 yesterday, both signs your body has absorbed that race well. Zero runs this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
 
 **Today's session**
-No runs yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface, and keep half an eye on that left shin — any sharp pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable as running.
+No runs logged yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface, and keep half an eye on that left shin — any sharp pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable.
 
 **3-Day Plan**
 - Sunday, 04 Oct: Optional easy test run (HR < 150, 2-3 km, soft surface) only if legs feel fresh — otherwise rest, no pressure.
