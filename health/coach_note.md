@@ -1,12 +1,12 @@
-_Updated: Sun, 04 Oct 2026 at 10:58 PM SGT_
+_Updated: Sun, 04 Oct 2026 at 11:05 PM SGT_
 
-**🎉 One Week Post-Race — Your Recovery Numbers Are Trending the Right Way**
+**🎉 Recovery Markers Still Climbing — Your Body's Doing Exactly What It Should**
 
 **How you're doing**
-Seven days since you crossed the line at 10.0 km, avg HR 183 — still an incredible effort! Your body is clearly bouncing back well: resting HR has eased from 58 to 54 bpm over the last three days and HRV climbed to 88 yesterday (Oct 3), both strong signs of recovery. Bonus points for sneaking in a bodyweight strength session on Sep 30 — that's exactly the kind of proactive, hiking-legs-building work that pays off later.
+One week out from that 10.0 km race effort (avg HR 183 — still an incredible performance!), your recovery numbers tell a great story: resting HR has settled into the 54-58 bpm range and HRV has been climbing nicely, hitting 88 on Oct 3, up from 82 just a couple days before. That's your body confirming the race fitness is absorbing well. Nice work also sneaking in two strength sessions (Sep 20 and Sep 30) during this easy week.
 
 **Today's session**
-Zero runs logged this week, and that's completely by design — you're in an open recovery window with no fixed phase to chase. If your legs feel fresh and spring-free (no heaviness, no soreness — and keep an eye on that left shin), today's a good day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, and stick to a soft surface. If they're not asking for it, resting today is just as valuable — rest is training too.
+Zero runs logged this week, and that's completely intentional — you're in an open recovery window, not chasing a fixed phase. If your legs feel fresh and spring-free (no heaviness, no soreness — and keep an eye on that left shin), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, and stick to a soft surface. If they're not asking for it, resting today is just as valuable — rest is training too.
 
 **3-Day Plan**
 - Sunday, 04 Oct: Optional easy test run (HR < 150, 2-3 km, soft surface, mind the left shin) only if legs feel fresh — otherwise rest, no pressure.
@@ -14,4 +14,4 @@ Zero runs logged this week, and that's completely by design — you're in an ope
 - Tuesday, 06 Oct: Rest or an easy walk — just check in on how the body feels.
 
 **This week's focus**
-With no set phase right now, the job is simply to let your race fitness fully absorb before any new block begins — your rising HRV and falling resting HR show that's already happening. Enjoy the easier week, you've more than earned it! 🎉
+With no set phase right now, the job is simply to let your race fitness fully absorb before any new block begins — your rising HRV and steady resting HR show that's already happening. Enjoy the easier week, you've more than earned it! 🎉
