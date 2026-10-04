@@ -1,9 +1,9 @@
-_Updated: Sun, 04 Oct 2026 at 06:57 PM SGT_
+_Updated: Sun, 04 Oct 2026 at 07:16 PM SGT_
 
 **🌿 One Week Post-Race — Still Banking the Gains**
 
 **How you're doing**
-Exactly one week on from your brilliant 10 km finish (183 bpm — that was an all-out effort!), your recovery markers look great: resting HR sitting at 54 bpm and HRV hit 88 yesterday, both signs your body has absorbed that race well. Zero runs this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
+A full week on from your brilliant 10 km race finish (183 bpm — that was everything you had!), your recovery signals look genuinely great: resting HR has settled around 54-56 bpm and HRV hit 88 on Friday, both strong signs your body has absorbed the race well. Zero runs this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
 
 **Today's session**
 No runs logged yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface, and keep half an eye on that left shin — any sharp pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable.
