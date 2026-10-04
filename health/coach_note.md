@@ -1,9 +1,9 @@
-_Updated: Sun, 04 Oct 2026 at 05:42 PM SGT_
+_Updated: Sun, 04 Oct 2026 at 05:48 PM SGT_
 
-**🌿 Day 8 Post-Race — Recovery Still Banking, Nothing Lost**
+**🌿 Day 7 Post-Race — Recovery Banking, Nothing Lost**
 
 **How you're doing**
-A full week clear of that brilliant 10 km finish (183 bpm — that was a genuine all-out effort!) and your body is doing exactly what it should: resting HR has settled into the low-to-mid 50s and HRV hit 88 just two days ago, both strong signs of a well-absorbed recovery. Zero runs logged this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
+A full week clear of that brilliant 10 km finish (183 bpm — a genuine all-out effort!) and your body is showing exactly the signs we want: resting HR has settled into the low-to-mid 50s and HRV hit 88 just yesterday, both strong markers of a well-absorbed recovery. Zero runs logged this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
 
 **Today's session**
 No runs yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface, and keep half an eye on that left shin — any sharp pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable as running.
