@@ -1,12 +1,12 @@
-_Updated: Sun, 04 Oct 2026 at 07:16 PM SGT_
+_Updated: Sun, 04 Oct 2026 at 10:26 PM SGT_
 
-**🌿 One Week Post-Race — Still Banking the Gains**
+**🌿 One Week Post-Race — Patience Is Paying Off**
 
 **How you're doing**
-A full week on from your brilliant 10 km race finish (183 bpm — that was everything you had!), your recovery signals look genuinely great: resting HR has settled around 54-56 bpm and HRV hit 88 on Friday, both strong signs your body has absorbed the race well. Zero runs this week isn't lost ground — it's the deliberate rebuild that locks in race fitness instead of letting it fade.
+You're now a full week on from that fantastic race finish (10 km at 183 bpm — you left nothing out there!), and your recovery numbers back it up: resting HR has settled in the mid-50s (54 bpm on Saturday) and HRV climbed to 88 on Saturday, both excellent signs your body has absorbed the effort well. Zero runs this week isn't a setback — it's the deliberate rebuild phase that locks in your race fitness instead of letting it leak away.
 
 **Today's session**
-No runs logged yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface, and keep half an eye on that left shin — any sharp pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable.
+No runs logged yet this week, and there's no pressure — you're in an open recovery window with no fixed phase to chase right now. If your legs feel fresh and spring-free (no heaviness, no soreness, and that left shin feels quiet), today's a fine day to test them lightly: keep HR under 150 bpm (roughly 7:30-8:00/km), cap it at 2-3 km, pick a soft surface. Any sharp shin pain means stop, not push through. If your legs aren't asking for it, resting today is just as valuable as running.
 
 **3-Day Plan**
 - Sunday, 04 Oct: Optional easy test run (HR < 150, 2-3 km, soft surface) only if legs feel fresh — otherwise rest, no pressure.
