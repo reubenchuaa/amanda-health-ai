@@ -1,17 +1,17 @@
-_Updated: Tue, 06 Oct 2026 at 11:51 PM SGT_
+_Updated: Wed, 07 Oct 2026 at 12:20 AM SGT_
 
-**👂 A Quick Dip in the Numbers — This Is Your Body Asking for a Beat**
+**🎉 10 Days Post-Race — Your Legs Have Earned This Patience**
 
 **How you're doing**
-Nine days out from that fantastic 10.0 km race effort (avg HR 183 — still a brilliant performance!), your recovery had been looking great: resting HR settling at 50-58 bpm and HRV climbing all the way to 88 on Oct 3. Yesterday (Oct 5) threw a single blip though — resting HR jumped to 71 bpm and HRV dropped to 52, both well outside your recent baseline. One day isn't a trend, but it's worth respecting.
+Ten days out from that fantastic 10.0 km race finish (avg HR 183 — you left it all out there!), your body has mostly been recovering beautifully: resting HR sat in the low-to-mid 50s and HRV climbed as high as 88 through early October. Tuesday's (Oct 5) single blip — RHR 71, HRV 52 — was worth respecting, and today's readings haven't synced in yet, so we're flying a little blind this morning. No runs this week so far, which is completely fine this deep into recovery.
 
 **Today's session**
-Zero runs this week, and that's exactly right — rest is the call today. With yesterday's numbers flagging some extra strain (poor sleep, stress, or just a slow day for the body), pushing a test run now isn't worth it. Rest is training too; this is your body doing quiet, productive work. Hydrate, sleep well tonight, and let's see what tomorrow's numbers say before testing the legs.
+You're in an open recovery window with no new numbers to confirm things have settled — so let's go by feel, not force it. If your legs feel fresh and energy is good, a light test run is a great call: HR < 150 bpm (roughly 7:30–8:00/km), just 2–3 km, soft surface if you can find one (keep an eye on that left shin). If anything feels off or tired, rest again — you're 10 days post-race with plenty of runway before any new block starts.
 
 **3-Day Plan**
-- Tuesday, 06 Oct: Rest. Yesterday's RHR/HRV blip earns a full recovery day — no pressure, no running.
-- Wednesday, 07 Oct: Check this morning's numbers. If RHR is back under ~58 and HRV back above ~70, and legs feel fresh (watch that left shin), this is a great day for a light test run: HR < 150 bpm (roughly 7:30-8:00/km), 2-3 km, soft surface. If numbers are still off, rest again — no rush.
-- Thursday, 08 Oct: Whichever day you didn't run, this is a nice spot for 2-3 slow eccentric step-ups or squats (3 sec down) — gentle strength that builds durable, hiking-ready legs for Norway and protects that shin.
+- Wednesday, 07 Oct: Test run if legs/energy feel good (2-3 km, HR < 150) — or rest if unsure. No wrong answer today.
+- Thursday, 08 Oct: Whichever day you don't run is perfect for 2-3 slow eccentric squats (3 sec down) — light, controlled work that builds durable legs and protects that shin.
+- Friday, 09 Oct: If Wednesday went well, a second easy effort here; if you rested, this becomes your test-run day instead.
 
 **This week's focus**
-You're still in an open recovery window after a big race effort — the only job right now is to let your body fully settle before any new training block begins, and today's rest call is exactly that in action. You've earned this easier stretch — trust it! 🎉
+The only job right now is rebuilding your base gently before the next training block begins — trust your body's pace over the calendar. You crushed the hard part already — this easy stretch is yours to enjoy! 🎉
