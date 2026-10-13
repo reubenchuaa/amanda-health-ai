@@ -1,17 +1,17 @@
-_Updated: Mon, 12 Oct 2026 at 10:50 PM SGT_
+_Updated: Tue, 13 Oct 2026 at 06:35 PM SGT_
 
-**🌿 Day 15 Post-Race — Your Body Is Giving You the Green Light**
+**🌿 Day 16 Post-Race — Still Fresh, Still No Rush**
 
 **How you're doing**
-Recovery still looks excellent: resting HR hit a low 48 bpm on Oct 11 (your baseline this month has mostly sat in the low-to-mid 50s), and HRV has stayed healthy all month — strong signs you've fully absorbed that Sep 27 race effort. It's been 15 days since that strong 10.0 km finish (avg HR 183 — a real effort, well earned) with zero runs logged since, so your legs are as fresh as they'll ever be whenever you're ready to ease back in.
+Everything's pointing the right way: resting HR touched a fantastic 48 bpm on Oct 11 (settling back to a normal 54 on Oct 12), and HRV has stayed in a healthy range all week — your body is fully recovered from that strong 10.0 km race effort (avg HR 183, 16 days ago now). Zero runs logged this week isn't a setback, it's just banked freshness waiting to be used whenever you're ready.
 
 **Today's session**
-0 runs this week so far — no pressure, just an open door. If your legs feel good today, a short easy test run is a great call: keep HR under 150 bpm (roughly 7:30-8:00/km), just 2-3 km, and stick to a soft surface to stay kind to that left shin. If you'd rather rest one more day, that's just as valid — there's no deadline right now.
+0 runs this week so far, and we're still in your open recovery window — no plan clock running, no pressure. If your legs feel good today, this is a great day for an easy test run: keep HR under 150 bpm (roughly 7:30-8:00/km), just 2-3 km on a soft surface to stay kind to that left shin. Totally fine to rest instead — both are the right call here.
 
 **3-Day Plan**
-- Monday, 12 Oct: Easy test run if legs feel good (2-3 km, HR < 150, soft surface) — or rest, your call.
-- Tuesday, 13 Oct: Strength day — 2-3 slow eccentric step-ups (3 sec down) plus a few calf raises, building durable, hiking-strong legs and giving that left shin some extra protection. Skip if you ran Monday and want a full rest day.
-- Wednesday, 14 Oct: Second easy run if Monday went well, or your first test run if you rested — same HR < 150 cap either way.
+- Tuesday, 13 Oct: Easy test run if legs feel good (2-3 km, HR < 150, soft surface) — or rest, your call.
+- Wednesday, 14 Oct: Strength day — 2-3 slow eccentric step-ups (3 sec down) plus a round of calf raises, building durable hiking-strong legs and extra protection for that left shin. If you ran Tuesday, feel free to swap this for full rest instead.
+- Thursday, 15 Oct: Second easy run if you haven't run yet this week, same HR < 150 cap — or your first test run if Tuesday was a rest day.
 
 **This week's focus**
-You're in an open recovery window with no clock running — the only job is to let your body set the pace while you quietly rebuild your base, trusting feel over the calendar. You banked the hard work on race day; this gentle, patient restart is exactly the smart move. 🌿
+You're in an open recovery window with no clock running — the only job right now is letting feel, not the calendar, set your return pace, while these small strength touches quietly build a more durable runner underneath. You earned this patience on race day — trust it. 🌿
