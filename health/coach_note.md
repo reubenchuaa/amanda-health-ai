@@ -1,17 +1,17 @@
-_Updated: Sat, 31 Oct 2026 at 06:05 PM SGT_
+_Updated: Sun, 01 Nov 2026 at 05:14 PM SGT_
 
-**🎉 Steady Hands on the Rebuild — You're Doing This Right**
+**🎉 Steady, Calm, and Ready — Your Body Is Doing Everything Right**
 
 **How you're doing**
-You got out for a 3.7 km run on Wednesday at 7:14/km — your second run back since your half marathon, and a great sign that your running rhythm is returning. Avg HR was 166 bpm, a touch high for the effort, but that's completely normal in Singapore heat plus a bit of de-conditioning from the lighter weeks — nothing to worry about. Your resting HR has sat in the 49-53 bpm range most of this week (just a couple of higher blips), which tells me you're recovering well between sessions.
+Your Wednesday run (3.7 km, 7:14/km, avg HR 166 bpm) is still the week's one highlight — that HR was just Singapore heat plus easing back in, nothing to worry about. Since then you've taken four quiet rest days, and your resting HR has stayed in a calm 49-53 bpm band with HRV reading strong (86-88) right after the run — exactly the recovery signal you want to see before your next session.
 
 **Today's session**
-You've banked 1 run this week (Wed), so today or tomorrow is a good window for the second easy run — whichever feels better. Keep it short and relaxed: 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km), walk breaks welcome anytime HR creeps up. No pressure on pace — the only job right now is rebuilding an easy aerobic rhythm after your race.
+You've banked 1 run this week, so today is a great window for your second easy run: 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km), with walk breaks any time it creeps up. No pace pressure — just keep that easy aerobic rhythm ticking over. If today doesn't feel right, tomorrow works just as well.
 
 **3-Day Plan**
-- Saturday, 31 Oct: Easy run option — 3-4 km, HR < 150 bpm, soft surface if available.
-- Sunday, 01 Nov: Whichever didn't happen Saturday — easy run or full rest, your legs decide.
-- Monday, 02 Nov: Rest day — productive recovery time as the new week begins.
+- Sunday, 01 Nov: Easy run — 3-4 km, HR < 150 bpm, or rest if legs say so.
+- Monday, 02 Nov: Whichever didn't happen Sunday — easy run, or rest if Sunday's run is done.
+- Tuesday, 03 Nov: Rest day — productive recovery as the week closes out.
 
 **This week's focus**
-With no structured block running right now, the focus stays on patient, HR-guided rebuilding — two relaxed runs, no rush, letting fitness return at its own pace. A nice bonus on a rest day: 2 sets of 10-12 slow eccentric calf raises (3 seconds down) — they protect that left shin and keep building the durable, resilient legs that carried you through your half marathon. You're exactly on track. 🎉
+With no structured block running right now, the focus stays on patient, HR-guided rebuilding — two relaxed runs, no rush, trusting fitness to return at its own pace. On whichever day you rest, slot in 2 sets of 10-12 slow eccentric calf raises (3 seconds down) — a small investment that keeps protecting that left shin and builds the durable legs that carried you through your half marathon. You're doing exactly what smart post-race rebuilding looks like. 🎉
