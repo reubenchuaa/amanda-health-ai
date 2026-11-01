@@ -1,12 +1,12 @@
-_Updated: Sun, 01 Nov 2026 at 05:14 PM SGT_
+_Updated: Sun, 01 Nov 2026 at 06:15 PM SGT_
 
-**🎉 Steady, Calm, and Ready — Your Body Is Doing Everything Right**
+**🎉 Four Calm Rest Days and a Steady Engine — You're Right on Track**
 
 **How you're doing**
-Your Wednesday run (3.7 km, 7:14/km, avg HR 166 bpm) is still the week's one highlight — that HR was just Singapore heat plus easing back in, nothing to worry about. Since then you've taken four quiet rest days, and your resting HR has stayed in a calm 49-53 bpm band with HRV reading strong (86-88) right after the run — exactly the recovery signal you want to see before your next session.
+Your Wednesday run (3.7 km, 7:14/km, avg HR 166 bpm) is still this week's highlight, and that HR reading was mostly Singapore heat plus easing back in — nothing to worry about. Since then you've taken four full rest days, and your resting HR has held in a calm 51-53 bpm band with HRV at a strong 86-88 right after the run — exactly the recovery picture you want before your next one.
 
 **Today's session**
-You've banked 1 run this week, so today is a great window for your second easy run: 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km), with walk breaks any time it creeps up. No pace pressure — just keep that easy aerobic rhythm ticking over. If today doesn't feel right, tomorrow works just as well.
+You've banked 1 run this week, so today (or tomorrow, whichever suits) is the window for your second easy run: 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km), with walk breaks any time it creeps up. Keep it conversational — no pace pressure, just aerobic rhythm ticking over.
 
 **3-Day Plan**
 - Sunday, 01 Nov: Easy run — 3-4 km, HR < 150 bpm, or rest if legs say so.
