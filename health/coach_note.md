@@ -1,9 +1,9 @@
-_Updated: Sun, 01 Nov 2026 at 08:50 PM SGT_
+_Updated: Sun, 01 Nov 2026 at 09:22 PM SGT_
 
 **🎉 Steady and Smart — Your Recovery Rhythm Is Right on Track**
 
 **How you're doing**
-Wednesday's run (3.7 km, 7:14/km, avg HR 166 bpm) is still the standout for the week — that HR was mostly Singapore heat doing its thing, nothing to be concerned about. Four days on, your body is showing exactly the signs you want: resting HR has settled back to 51-53 bpm, right at your normal baseline, and HRV has been strong (mid-80s) aside from one quieter day — classic signs of a body absorbing the work well, not struggling with it.
+Wednesday's run (3.7 km, 7:14/km, avg HR 166 bpm) is still the standout for the week — that HR was mostly Singapore heat doing its thing, nothing to be concerned about. Four days on, your body is showing exactly the signs you want: resting HR has settled back to 51-53 bpm, right at your normal baseline, and HRV has been strong (high 80s) aside from one quieter day — classic signs of a body absorbing the work well, not struggling with it.
 
 **Today's session**
 You've got 1 run banked this week (3.7 km), so today or tomorrow is your window for the second easy run: 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km). Keep it conversational — walk any time your HR creeps up, no pressure to chase pace.
