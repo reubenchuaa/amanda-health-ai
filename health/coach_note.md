@@ -1,17 +1,17 @@
-_Updated: Wed, 04 Nov 2026 at 08:28 PM SGT_
+_Updated: Wed, 04 Nov 2026 at 08:57 PM SGT_
 
-**🎉 A Full Week of Recovery in the Bank — Time to Ease Back In**
+**🎉 Strong Recovery Signals — Your Legs Are Ready Whenever You Are**
 
 **How you're doing**
-Your last run was that 3.7 km effort on Wed 28 Oct (7:14/km, avg HR 166) — a solid push, though that HR ran hotter than your easy zone, almost certainly Singapore humidity plus effort stacking up. Since then you've kept moving with weight training sessions through October, which is exactly the kind of cross-training that keeps your legs strong between runs. Your last clean resting HR reading (30 Oct, 52 bpm) sits right at your normal baseline — no red flags, your body's recovered and ready.
+Your last run was that 3.7 km effort on Wed 28 Oct (7:14/km, avg HR 166) — HR ran a little hot there, almost certainly Singapore humidity plus effort, nothing to worry about. Since then you've kept your body moving with a weight session on 1 Nov, and your resting HR has been sitting right around 50 bpm (Nov 3) — a great sign your body is fully recovered and not under any strain. It's been 7 days since your last run, which is a perfectly normal gap and a nice reset window.
 
 **Today's session**
-You haven't run yet this week, and it's been 7 days since your last one — a perfect window for an easy reset run. Aim for 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km). Go slower than last time if HR starts climbing — walk breaks are not a setback, they're the strategy. Keep it conversational.
+No runs logged yet this week, so today or tomorrow is a great slot for an easy reset run: 3-4 km, keep HR under 150 bpm (roughly 7:45-8:15/km). If HR starts climbing, slow down or add a walk break — that's smart pacing, not a setback. Keep it conversational the whole way.
 
 **3-Day Plan**
-- Wednesday, 04 Nov: Easy run — 3-4 km, HR < 150 bpm. Or rest if the day's full; no pressure.
-- Thursday, 05 Nov: Whichever didn't happen Wed — easy run, or rest if it's done.
-- Friday, 06 Nov: Rest day — a great slot for 2 sets of 10-12 slow eccentric calf raises (3 seconds down). Small habit, big payoff: it protects that left shin and builds the durable, resilient legs that make every future run feel smoother.
+- Wednesday, 04 Nov: Easy run — 3-4 km, HR < 150 bpm. Or rest if today's full — no pressure either way.
+- Thursday, 05 Nov: Whichever didn't happen Wed — easy run, or rest if it's already done.
+- Friday, 06 Nov: Rest day — a good slot for 2 sets of 10-12 slow eccentric calf raises (3 seconds down). Small habit, big payoff: it keeps protecting that left shin and builds the kind of durable, resilient legs that make every future run feel smoother.
 
 **This week's focus**
-With no structured block running right now, the goal is simple — patient, HR-guided consistency: two relaxed runs this week, let fitness rebuild at its own pace rather than forcing it. You're doing this exactly right. 🎉
+With no structured block running right now, the goal is simple — patient, HR-guided consistency: two relaxed runs this week, letting fitness rebuild at its own pace rather than forcing it. You're doing this exactly right. 🎉
