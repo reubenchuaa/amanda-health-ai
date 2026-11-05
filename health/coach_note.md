@@ -1,17 +1,17 @@
-_Updated: Wed, 04 Nov 2026 at 11:07 PM SGT_
+_Updated: Thu, 05 Nov 2026 at 06:58 PM SGT_
 
-**🎉 Steady and Rested — Your Body's Ready Whenever You Are**
+**🎉 Fresh Legs, Calm Heart — Zero Pressure, All Systems Ready**
 
 **How you're doing**
-Your last run was 3.7 km on Wed 28 Oct at 7:14/km (avg HR 166 — a touch warm, almost certainly the Singapore humidity, nothing to be concerned about). It's been 7 days since then, which is a completely normal reset window in this relaxed post-race stretch, not a setback. Your resting HR has been calm and consistent through early November (low 50s, 50-54 bpm) — a great sign your body is fresh, recovered, and ready to go whenever you fancy a run.
+Your last run was 3.7 km on Wed 28 Oct at 7:14/km (avg HR 166 — almost certainly Singapore humidity, nothing to worry about). It's been 8 days since then, but your resting HR has stayed calm all week (50-55 bpm, right around your usual baseline), which is a great sign your body is simply rested, not run-down. You're still in that open, no-pressure window after your half marathon — there's no plan to "catch up" on, just whenever-you-fancy-it running.
 
 **Today's session**
-No runs logged yet this week, so today's a great day for an easy reset run if you're up for it: 3-4 km, keep HR under 150 bpm (roughly 7:45-8:15/km). If HR creeps up, slow down or take a walk break — smart pacing, not a failure. Fully conversational effort. Totally fine to make it tomorrow instead — there's no rush in this phase.
+No runs logged yet this week, so today is a lovely day for an easy reset run if the mood strikes: 3-4 km, keep HR under 150 bpm (roughly 7:45-8:15/km), fully conversational effort. If HR creeps up, slow down or take a walk break — that's smart pacing, not failure. Totally fine to push it to tomorrow or Saturday instead — no rush at all.
 
 **3-Day Plan**
-- Wednesday, 04 Nov: Easy run — 3-4 km, HR < 150 bpm. Rest is just as good if today doesn't work out.
-- Thursday, 05 Nov: Whichever didn't happen Wed — easy run, or rest if it's already done.
-- Friday, 06 Nov: Rest day — a good slot for 2 sets of 10-12 slow eccentric calf raises (3 seconds down). A small habit that keeps protecting your left shin and builds the kind of durable legs that make every run feel smoother.
+- Thursday, 05 Nov: Optional easy run — 3-4 km, HR < 150 bpm. Rest is just as valuable if today's not the day.
+- Friday, 06 Nov: Whichever didn't happen Thu — easy run, or rest if it's already done. Good slot for 2 sets of 10-12 slow eccentric calf raises (3 seconds down) — a small habit that keeps protecting your left shin and builds durable, hike-ready legs.
+- Saturday, 07 Nov: Rest, or your easy run if you've saved it for the weekend. Either way, you're on track.
 
 **This week's focus**
-You're in an open, no-pressure recovery window after your half marathon, so the only goal is patient, HR-guided consistency — one or two easy, enjoyable runs this week, letting fitness rebuild naturally rather than forcing it. You're doing this exactly right. 🎉
+You're in a patient, HR-guided recovery window where the only goal is consistency without force — one or two easy, enjoyable runs, letting fitness rebuild naturally. You're doing this exactly right. 🎉
