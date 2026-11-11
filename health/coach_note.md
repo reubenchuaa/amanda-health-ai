@@ -1,17 +1,17 @@
-_Updated: Mon, 09 Nov 2026 at 03:08 PM SGT_
+_Updated: Wed, 11 Nov 2026 at 05:29 PM SGT_
 
-**🎉 Saturday's 4.5 km Run Banked — Fresh Week, Fresh Start**
+**🌿 Resting HR in the Low 50s — Your Body Is Thriving in This Easy Window**
 
 **How you're doing**
-Saturday's 4.5 km at an avg HR of 165 bpm continues the lovely progression from your last few runs — solid effort, and two days of rest since then have let you recover well. Your resting HR this week has sat in the low-to-mid 50s (with a great 43 bpm on Nov 6), a clear sign your body is handling this training load comfortably with no fatigue flags. No runs logged yet this week, which is completely normal — you're free to pick your days.
+It's been 4 days since your Saturday 4.5 km run (avg HR 165 bpm — a solid effort in Singapore heat), and your recovery markers look great: resting HR has settled back into the low-to-mid 50s, well within your normal range. No runs logged yet this week, which is totally fine — you're in an open, flexible recovery window post-half-marathon with no fixed schedule to chase.
 
 **Today's session**
-You're clean for the week so far, so today or whenever suits is a great day for your next easy run: aim for 3-4 km, keeping HR under 150 bpm (roughly 7:45-8:15/km), fully conversational the whole way. No rush — your body sets the pace, not the clock.
+With 0 runs banked this week and it being midweek, today's a lovely day to get your easy run in: aim for 3-4 km, keeping HR under 150 bpm (roughly 7:45-8:15/km), fully conversational throughout. No rush if today doesn't work — tomorrow or Friday are just as good.
 
 **3-Day Plan**
-- Monday, 09 Nov: Easy run if you're feeling good — 3-4 km, HR under 150 bpm. Otherwise, rest is just as productive.
-- Tuesday, 10 Nov: Whichever you didn't do Monday — easy run or rest, both keep you right on track.
-- Wednesday, 11 Nov: Great day for 2 sets of 10-12 slow eccentric calf raises (3 seconds down) — a small investment that builds resilient, injury-proof legs for every run ahead.
+- Wednesday, 11 Nov: Easy run if the window opens up — 3-4 km, HR under 150 bpm. If not today, no problem at all.
+- Thursday, 12 Nov: Whichever you didn't do Wednesday — easy run or rest. Also a great day for 2 sets of 12 slow eccentric squats (3 seconds down) — small, steady work that builds durable, injury-proof legs for every run ahead.
+- Friday, 13 Nov: Flexible — easy run or rest, both keep you right on track for the week.
 
 **This week's focus**
-You're in an open, well-earned recovery window after your half marathon — there's no pressure or fixed schedule here, just easy, HR-guided running to keep your fitness quietly ticking along while you enjoy the lighter load. You've already crossed that finish line — everything now is a bonus. 🎉
+You've already crossed your finish line, so this phase is simply about keeping easy, HR-guided movement ticking along while your body enjoys a well-earned lighter load — every run from here is a bonus, not a requirement. 🎉
