@@ -1,12 +1,12 @@
-_Updated: Sun, 15 Nov 2026 at 04:47 PM SGT_
+_Updated: Sun, 15 Nov 2026 at 04:52 PM SGT_
 
-**🌿 Sunday Check-In — Steady, Calm, and Ready Whenever You Are**
+**🌿 Sunday Check-In — Fresh Legs, No Pressure, Run When It Feels Right**
 
 **How you're doing**
-Your resting HR is sitting right in its normal low-to-mid 50s range (54 bpm yesterday), with no sign of stress or lingering fatigue — a really reassuring pattern. It's been 8 days since your last run (4.5 km on 7 Nov, 165 bpm avg, 7:04/km — a strong effort), and you got in a great 41-minute strength session on 11 Nov too. Everything here says your body is fresh and fully primed to run whenever the timing suits you.
+Your resting HR was 54 bpm on 14 Nov — right in your normal low-to-mid 50s range, with no sign of stress or fatigue. It's been 8 days since your last run (4.5 km on 7 Nov, avg HR 165 bpm, 7:04/km — a genuinely strong effort), and you squeezed in a solid 41-minute strength session on 11 Nov too. Everything here says your body is calm, recovered, and ready whenever you want to lace up.
 
 **Today's session**
-Zero runs logged this week so far — completely fine, there's no structured block right now, so there's zero pressure. If today feels good, ease back in with an easy 3-4 km, HR under 150 bpm (roughly 7:45-8:15/km), nice and conversational. If today's not the day, tomorrow or Tuesday work just as well.
+Zero runs logged this week so far — completely fine, there's no structured training block right now, so there's zero pressure or deadline. If today feels good, ease back in with an easy 3-4 km, keeping HR under 150 bpm (roughly 7:45-8:15/km), nice and conversational the whole way. If today's not the day, tomorrow or Tuesday work just as well.
 
 **3-Day Plan**
 - Sunday, 15 Nov: Easy run if the moment feels right — 3-4 km, HR under 150 bpm. Totally optional.
