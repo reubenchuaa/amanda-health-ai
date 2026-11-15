@@ -1,9 +1,9 @@
-_Updated: Mon, 16 Nov 2026 at 12:08 AM SGT_
+_Updated: Mon, 16 Nov 2026 at 12:38 AM SGT_
 
 **☀️ Half Marathon Finisher, Fresh Week Ahead: Your Next Easy Run Is Ready When You Are**
 
 **How you're doing**
-Your recovery numbers are lovely. Resting HR has held steady at 54-57 bpm since 10 Nov (54 bpm on 14 Nov), and HRV has ranged from 63 to 80. Those are signs of a well-rested body. It's been 9 days since your last run (4.5 km on 7 Nov, avg HR 165 bpm), and that HR is very normal in Singapore's heat. Starting a touch slower next time will help you settle lower. Remember, you've already crossed a half marathon finish line, so everything now is bonus fitness. 🎉
+Your recovery numbers are lovely. Resting HR was 54 bpm on 14 Nov (it has sat at 54-57 bpm this past week), and HRV was 66-68 on 13-14 Nov. Those are signs of a well-rested body. It's been 9 days since your last run (4.5 km on 7 Nov, avg HR 165 bpm), and that HR is very normal in Singapore's heat. Starting a touch slower next time will help you settle lower. You've already crossed a half marathon finish line, so everything now is bonus fitness. 🎉
 
 **Today's session**
 No runs logged this week yet, which is completely fine. If today suits you, an easy run is next on the menu. Aim for 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km), and keep it conversational (RPE 3-4). Walk whenever your HR creeps up, because that's smart pacing and not a setback. If today is busy, rest is productive adaptation time, and tomorrow works just as well.
