@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-17T06:46",
+  "synced_at": "2026-11-17T08:06",
   "workouts": [
     {
       "type": "Run",
@@ -27088,6 +27088,14 @@
       "hrv": 79.0,
       "sleep_hours": 5.91,
       "steps": 9675,
+      "calories_burned": null
+    },
+    {
+      "date": "2026-11-17",
+      "resting_hr": null,
+      "hrv": null,
+      "sleep_hours": null,
+      "steps": null,
       "calories_burned": null
     }
   ]
