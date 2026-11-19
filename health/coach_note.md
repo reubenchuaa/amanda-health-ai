@@ -1,17 +1,19 @@
-_Updated: Wed, 18 Nov 2026 at 08:46 AM SGT_
+_Updated: Fri, 20 Nov 2026 at 12:03 AM SGT_
 
-**🌟 Steady Stride: Your Easy Run Is Waiting, No Pressure!**
+**🌟 Rest Day Earned: Your 6.1 km Is Already Working for You!**
 
 **How you're doing**
-Well done on your 3.1 km run on 15 Nov and your strength session on 16 Nov. 🎉 You're staying active after your half marathon, which is a great habit. Your resting HR was 54-56 bpm through 16 Nov, then 60 bpm on 17 Nov, with HRV dipping to 64. That's only a small nudge, but it's worth listening to. Your 170 bpm average on the last run was high, though Singapore's heat adds 10-15 bpm, so walk breaks are a smart tool here.
+Great job on your 6.1 km yesterday! 🎉 It's almost double your previous run (3.1 km on 15 Nov). Your average HR was 167 bpm, above our easy ceiling of 150. Singapore's heat adds 10-15 bpm, so part of that is the weather, and it also tells us the effort was a little harder than "easy". Your resting HR was 59-60 bpm on 17-18 Nov, up from 54-56 earlier. That's a gentle nudge that your body would like some recovery. There's no new RHR reading since yesterday's run, so we'll check again tomorrow morning.
 
 **Today's session**
-You've done 0 runs this week, so an easy run is next. Aim for 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km) at a chatty effort (RPE 3-4). Walk whenever HR creeps up. That's smart pacing, not a setback. Because your resting HR ticked up yesterday, check in with your body first. If you feel tired, take a rest day and run tomorrow. Your body adapts while you recover. 💪
+Today is a rest day, and rest is training. 💤 Your muscles and tendons rebuild stronger while you recover. Next time you run, keep it easy at 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km). That keeps you within the 10% rule and looks after your left shin. Walk whenever HR climbs. That's smart pacing, not a setback.
+
+Strength cue: do 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build hiking legs and make you a more durable runner.
 
 **3-Day Plan**
-- Wednesday, 18 Nov: Easy 3-4 km run with HR under 150 bpm, or rest if you feel tired.
-- Thursday, 19 Nov: Easy run if you haven't gone yet. Otherwise, do 2 sets of 15 slow calf raises (3 seconds down) to support your left shin. Tell me if it feels twinge-y, and see a physio if it lingers.
-- Friday, 20 Nov: Rest or a gentle walk. Strength cue: do 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build your hiking legs and make you a more durable runner.
+- Friday, 20 Nov: Rest, with the gentle step-ups above if you feel good.
+- Saturday, 21 Nov: Optional easy 3-4 km run with HR under 150 bpm. Swap it for a walk if you wake up tired or your resting HR is still 59 or higher. Add 2 sets of 15 slow calf raises for your left shin afterwards, and let me know if it feels twinge-y. See a physio if it lingers.
+- Sunday, 22 Nov: Rest, or a relaxed walk if you didn't run Saturday. Skip the strength work on a run day, and do the step-ups today instead if you skipped them Friday.
 
 **This week's focus**
-After a big goal like your half marathon, easy, regular runs keep your fitness ticking over and your legs happy. You're doing brilliantly! 🌟
+After the half marathon, the goal is easy, consistent running that keeps your fitness ticking over without piling on stress. You're doing brilliantly, so keep it up! 💪
