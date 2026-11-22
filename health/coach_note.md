@@ -1,17 +1,17 @@
-_Updated: Sun, 22 Nov 2026 at 11:02 PM SGT_
+_Updated: Mon, 23 Nov 2026 at 02:56 AM SGT_
 
-**🌟 Your 6.1 km Is Your Longest Run in Weeks, and Your HRV Is Bouncing Back!**
+**🌟 Your 6.1 km Was a Big Step Up, and a Fresh Week Starts Today!**
 
 **How you're doing**
-Your 6.1 km on 19 Nov was a real step up from 3.1 km on 15 Nov, so well done! 🎉 Your HRV rose to 84 on 21 Nov (from 54 on 19 Nov), a lovely sign your body is absorbing the work. Your resting HR was 61 on 21 Nov, still about 5-6 bpm above your usual 54-56, so we'll keep things gentle. Today's reading hasn't synced yet. Your 167 bpm average on the 19th was above our easy ceiling of 150, and Singapore's heat adds 10-15 bpm, so the aim is to keep your next run properly easy.
+Your 6.1 km on 19 Nov was your longest run in weeks, and your HRV bounced back to 84 on 21 Nov, a lovely sign your body is absorbing the work. 🎉 Your resting HR was 61 on 21 Nov, still about 5-6 bpm above your usual 54-56, so we'll keep this week gentle. Your 167 bpm average on the 19th was above our easy ceiling of 150, and Singapore's heat adds 10-15 bpm, so the aim for your next run is simply to keep it properly easy.
 
 **Today's session**
-You've done 1 run this week, so the next one is your easy run: 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km). Walk whenever your HR climbs. That's smart pacing, not a setback. Because your resting HR is still a touch high, only run if you feel fresh. If you feel flat, a relaxed walk is a great choice and the easy run moves to Tuesday. Rest days are when your body adapts and gets stronger. 💤
+It's a new week with 0 runs so far, and today is a rest day. Rest is when your body adapts and gets stronger, so enjoy it. 💤 Your next run is an easy one: 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km). Walk whenever your HR climbs, which is smart pacing and not a setback. Today you could try 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build your hiking legs and make you a more durable runner.
 
 **3-Day Plan**
-- Sunday, 22 Nov: Easy 3-4 km with HR under 150 if you feel fresh, otherwise a relaxed walk. After a run, do 2 sets of 15 slow calf raises to look after your left shin.
-- Monday, 23 Nov: Rest. Try 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build your hiking legs and make you a more durable runner.
-- Tuesday, 24 Nov: Easy 3-4 km with HR under 150 if you didn't run Sunday and your resting HR is back near 57. Otherwise, rest or walk.
+- Monday, 23 Nov: Rest, plus the optional step-ups above.
+- Tuesday, 24 Nov: Easy 3-4 km with HR under 150 if you feel fresh and your resting HR is near 57. Otherwise take a relaxed walk and move the run to Wednesday. After a run, do 2 sets of 15 slow calf raises to look after your left shin.
+- Wednesday, 25 Nov: Rest or an easy walk if you ran Tuesday. If you didn't, this is your easy run (3-4 km, HR under 150).
 
 **This week's focus**
 We're building a steady base of easy, consistent running, because that is what grows your fitness without piling on stress. If your left shin feels twinge-y, tell me, and see a physio if it lingers. You're doing brilliantly! 💪
