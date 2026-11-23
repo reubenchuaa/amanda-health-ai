@@ -1,12 +1,12 @@
-_Updated: Mon, 23 Nov 2026 at 02:56 AM SGT_
+_Updated: Mon, 23 Nov 2026 at 04:01 PM SGT_
 
-**🌟 Your 6.1 km Was a Big Step Up, and a Fresh Week Starts Today!**
+**🌟 A Rest Day Today, and an Easy Run Waiting for You!**
 
 **How you're doing**
-Your 6.1 km on 19 Nov was your longest run in weeks, and your HRV bounced back to 84 on 21 Nov, a lovely sign your body is absorbing the work. 🎉 Your resting HR was 61 on 21 Nov, still about 5-6 bpm above your usual 54-56, so we'll keep this week gentle. Your 167 bpm average on the 19th was above our easy ceiling of 150, and Singapore's heat adds 10-15 bpm, so the aim for your next run is simply to keep it properly easy.
+Your 6.1 km on 19 Nov was your longest run in weeks, and your HRV bounced back to 84 on 21 Nov, a lovely sign your body is absorbing the work. 🎉 Your resting HR was 61 on 21 Nov, still about 5-6 bpm above your usual 55-56, so we'll keep this week gentle. Your 167 bpm average on the 19th was above our easy ceiling of 150. Singapore's heat adds 10-15 bpm, so the aim for your next run is simply to keep it properly easy.
 
 **Today's session**
-It's a new week with 0 runs so far, and today is a rest day. Rest is when your body adapts and gets stronger, so enjoy it. 💤 Your next run is an easy one: 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km). Walk whenever your HR climbs, which is smart pacing and not a setback. Today you could try 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build your hiking legs and make you a more durable runner.
+You have 0 runs so far this week, and today is a rest day. Rest is when your body adapts and gets stronger, so enjoy it. 💤 Your next run is an easy one: 3-4 km with HR under 150 bpm (roughly 7:45-8:15/km). Walk whenever your HR climbs, which is smart pacing and not a setback. If you'd like some movement today, try 2 sets of 10 slow step-ups per leg, taking 3 seconds on the way down. They build your hiking legs and make you a more durable runner.
 
 **3-Day Plan**
 - Monday, 23 Nov: Rest, plus the optional step-ups above.
