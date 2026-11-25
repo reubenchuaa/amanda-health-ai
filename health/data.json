@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-11-25T22:17",
+  "synced_at": "2026-11-25T22:47",
   "workouts": [
     {
       "type": "Run",
@@ -26214,6 +26214,18 @@
           103.85831
         ]
       ]
+    },
+    {
+      "type": "WeightTraining",
+      "name": "Functional Strength Training",
+      "start": "2026-11-25T21:56:22",
+      "distance_km": 0,
+      "duration_mins": 27.4,
+      "avg_hr": 123,
+      "max_hr": 158,
+      "elevation_m": 0,
+      "calories": 77,
+      "avg_cadence": null
     }
   ],
   "daily": [
