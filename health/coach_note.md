@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 12:49 AM SGT_
+_Updated: Thu, 26 Nov 2026 at 01:20 AM SGT_
 
-**🌟 Today's the Day for a Relaxed Easy Run, Amanda!**
+**🌟 Strength Session Done, Amanda, Now a Relaxed Easy Run!**
 
 **How you're doing**
-Your resting HR was a steady 55 bpm on 23 and 24 Nov, and your HRV was a healthy 67-69. 🎉 Those are lovely signs your body is recovered and ready. It's been 7 days since your 6.1 km on 19 Nov, so you're well rested. That run averaged 167 bpm, above our easy ceiling of 150. Singapore's heat adds 10-15 bpm to every run, so today we simply keep it relaxed.
+Great work fitting in a weight session last night (25 Nov)! 💪 Your resting HR was a steady 55 bpm on 23 and 24 Nov, and your HRV was a healthy 67-69. Those are lovely signs you're recovered. It's been 7 days since your 6.1 km on 19 Nov. That run averaged 167 bpm, above our easy ceiling of 150, but Singapore's heat adds 10-15 bpm to every run, so today we simply keep it relaxed.
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
@@ -14,7 +14,7 @@ You have 0 runs this week, so an easy run is due:
 
 **3-Day Plan**
 - Thursday, 26 Nov: Easy 3-4 km, HR under 150, walk breaks welcome.
-- Friday, 27 Nov: Rest and recover. Rest is when your body turns training into strength. 💤 Try 2 sets of 12 slow squats, taking 3 seconds to lower. 💪 This eccentric work builds hiking legs and makes you a more durable runner.
+- Friday, 27 Nov: Rest and recover. Rest is when your body turns training into strength. 💤 Try 2 sets of 12 slow squats, taking 3 seconds to lower. This eccentric work builds hiking legs and makes you a more durable runner.
 - Saturday, 28 Nov: Rest, or an easy 3-4 km (HR under 150) if you skipped Thursday.
 
 **This week's focus**
