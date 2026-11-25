@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 06:54 AM SGT_
+_Updated: Thu, 26 Nov 2026 at 07:24 AM SGT_
 
 **🌟 Fresh Legs, Fresh Start, Amanda: Today's a Perfect Day for an Easy Run!**
 
 **How you're doing**
-Your latest readings (23 and 24 Nov) show a steady resting HR of 55 bpm and HRV of 67-69, so your body looks well recovered. 💚 It's been 7 days since your 6.1 km on 19 Nov (avg 167 bpm). Singapore's heat adds 10-15 bpm, so today we keep things relaxed and let the heat guide us.
+Your latest readings (23 and 24 Nov) show a steady resting HR of 55 bpm and HRV of 67-69, down from 61-62 bpm earlier in the month, so your body looks well recovered. 💚 It's been 7 days since your 6.1 km on 19 Nov (avg 167 bpm). Singapore's heat adds 10-15 bpm, so today we keep things relaxed and let the heat guide us.
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
