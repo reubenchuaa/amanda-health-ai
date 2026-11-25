@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 01:50 AM SGT_
+_Updated: Thu, 26 Nov 2026 at 02:20 AM SGT_
 
 **🌟 Strength Done, Amanda, Today's a Relaxed Easy Run!**
 
 **How you're doing**
-Great work fitting in a weight session on 25 Nov! 💪 Your resting HR was a steady 55 bpm on 23 and 24 Nov, with HRV at a healthy 67-69, which are lovely signs you're recovered. It's been 7 days since your 6.1 km on 19 Nov. That run averaged 167 bpm, above our easy ceiling of 150, but Singapore's heat adds 10-15 bpm to every run, so today we simply keep it relaxed.
+Great work fitting in a weight session on 25 Nov! 💪 Your resting HR was a steady 55 bpm on 23 and 24 Nov (down from 62 on 19 Nov), with HRV at a healthy 67-69. Those are lovely signs you're recovered. It's been 7 days since your 6.1 km on 19 Nov. That run averaged 167 bpm, above our easy ceiling of 150, but Singapore's heat adds 10-15 bpm to every run, so today we simply keep it relaxed.
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
