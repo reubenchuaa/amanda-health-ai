@@ -1,9 +1,9 @@
-_Updated: Wed, 25 Nov 2026 at 11:09 AM SGT_
+_Updated: Wed, 25 Nov 2026 at 11:39 AM SGT_
 
 **🌟 Fresh Legs, Calm Heart: Today's a Lovely Day for an Easy Run!**
 
 **How you're doing**
-Great signs: your resting HR was a steady 55 bpm on both 23 and 24 Nov, and your HRV is a healthy 67-69. 🎉 Your body has absorbed your 6.1 km on 19 Nov really well. That run averaged 167 bpm, above our easy ceiling of 150, and Singapore's heat adds 10-15 bpm, so next time we simply keep it properly easy. It's been 6 days since your last run, so your legs are fresh.
+Great signs: your resting HR was a steady 55 bpm on both 23 and 24 Nov (down from 61-62 earlier this month), and your HRV is a healthy 67-69. 🎉 Your body has absorbed your 6.1 km on 19 Nov really well. That run averaged 167 bpm, above our easy ceiling of 150, and Singapore's heat adds 10-15 bpm, so next time we simply keep it properly easy. It's been 6 days since your last run, so your legs are fresh.
 
 **Today's session**
 You have 0 runs this week so far, so an easy run is next. 🏃‍♀️
