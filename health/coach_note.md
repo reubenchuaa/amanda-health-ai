@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 04:52 AM SGT_
+_Updated: Thu, 26 Nov 2026 at 05:23 AM SGT_
 
-**🌟 You're Moving Well, Amanda: An Easy Run Is Ready When You Are!**
+**🌟 Your Legs Are Fresh and Ready, Amanda: Time for a Gentle Easy Run!**
 
 **How you're doing**
-Lovely work fitting in a strength session on 25 Nov. That's how durable legs are built! 💪 Your resting HR was a steady 55 bpm on 23 and 24 Nov, with HRV at a healthy 67-69, so your body looks recovered. It's been 7 days since your 6.1 km on 19 Nov (avg HR 167 bpm). That's above our easy ceiling of 150, but Singapore's heat adds 10-15 bpm, so today we simply keep things relaxed. 💚
+Great job getting that strength session in on 25 Nov. Strong legs make a durable runner! 💪 Your resting HR was a steady 55 bpm on 23 and 24 Nov, with HRV at a healthy 67-69, so your body looks well recovered. It's been 7 days since your 6.1 km on 19 Nov (avg HR 167 bpm). That's above our easy ceiling of 150, but Singapore's heat adds 10-15 bpm, so today we simply keep things relaxed. 💚
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
@@ -18,4 +18,4 @@ You have 0 runs this week, so an easy run is due:
 - Saturday, 28 Nov: Rest, or an easy 3-4 km (HR under 150) if you skipped Thursday.
 
 **This week's focus**
-You've already conquered your half marathon, so this is a relaxed, easy-base window. Consistent gentle running keeps you fit and your shin happy. Enjoy every step! 🌟
+You've already conquered your half marathon, so this is a relaxed, easy-base window. Gentle, consistent running keeps your fitness and your shin happy. Enjoy every step! 🌟
