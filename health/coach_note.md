@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 08:55 AM SGT_
+_Updated: Thu, 26 Nov 2026 at 09:26 AM SGT_
 
-**🌟 Strength Done, Legs Fresh, Amanda: Today's a Great Day for an Easy Run!**
+**🌟 Fresh Legs, Calm Body, Amanda: Today's a Lovely Day for an Easy Run!**
 
 **How you're doing**
-Great work on your 27-minute strength session last night. 💪 That's exactly how you build durable, hiking-ready legs. Your resting HR was 50 bpm on 25 Nov, down from 55 on 23-24 Nov, and your HRV is a steady 65-69. Those are lovely recovery signals. It's been 7 days since your 6.1 km on 19 Nov, so you're well rested. Singapore's heat adds 10-15 bpm, so let effort guide you rather than pace.
+Your resting HR dropped to 50 bpm on 25 Nov, down from 55 on 23-24 Nov, and your HRV is a steady 65-69. Those are lovely recovery signals. 💪 It's been 7 days since your 6.1 km on 19 Nov, so your legs are well rested. Singapore's heat adds 10-15 bpm, so let effort guide you rather than pace.
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
@@ -11,6 +11,7 @@ You have 0 runs this week, so an easy run is due:
 - **HR target:** keep HR under 150 bpm (roughly 7:45-8:15/km as a rough guide)
 - **How:** Walk whenever your HR climbs. That's smart pacing, not a setback. 🌈 You should be able to chat comfortably.
 - **After:** 2 sets of 15 slow calf raises to look after your left shin. If it feels twinge-y, ease off. If it lingers beyond a few runs, see a physio.
+- **Strength cue:** On a non-running day, try 2 sets of 12 slow squats (3 seconds down). This builds the downhill-ready legs that make you a more durable runner and hiker.
 
 **3-Day Plan**
 - Thursday, 26 Nov: Easy 3-4 km, HR under 150, walk breaks welcome.
