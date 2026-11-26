@@ -1,9 +1,9 @@
-_Updated: Thu, 26 Nov 2026 at 01:59 PM SGT_
+_Updated: Thu, 26 Nov 2026 at 02:29 PM SGT_
 
-**🌟 Rested, Recovered and Ready, Amanda: Let's Enjoy an Easy Run!**
+**🌟 Fresh Legs and a Calm Heart, Amanda: Today Is a Great Day for an Easy Run!**
 
 **How you're doing**
-Your resting HR is down to 50 bpm on 25 Nov (from 55 earlier this week), and your HRV is a steady 65-69. Those are lovely recovery signals. 💪 It's been 7 days since your 6.1 km on 19 Nov, so your legs are well rested. Singapore's heat adds 10-15 bpm, so let effort guide you rather than pace.
+Your resting HR dropped to 50 bpm on 25 Nov (from 55 on 23-24 Nov), and your HRV is a steady 65-69. Those are lovely recovery signals. 💪 It's been 7 days since your 6.1 km on 19 Nov, so your legs are well rested. Singapore's heat adds 10-15 bpm, so let effort guide you rather than pace.
 
 **Today's session**
 You have 0 runs this week, so an easy run is due:
